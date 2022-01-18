@@ -1,0 +1,15 @@
+site_name: /r/Roms Megathread
+site_url: https://r-Roms.github.io
+extra_css:
+  - css/extra.css
+theme:
+  name: darkly
+nav:
+  - Home: index.md
+  - Popular: megathread/popular.md
+  - Microsoft: megathread/microsoft.md
+  - Nintendo: megathread/nintendo.md
+  - PC: megathread/pc.md
+  - Retro: megathread/retro.md
+  - Sega: megathread/sega.md
+  - Sony: megathread/sony.md
