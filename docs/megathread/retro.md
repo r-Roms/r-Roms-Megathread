@@ -47,7 +47,7 @@ Romsets
 | Update TOSEC (2021-02-14 -> 2021-08-08) | [Link](https://archive.org/download/tosec-2021-02-14-to-2021-08-08-update/TOSEC%20%282021-02-14%20to%202021-08-08%29/) |
 | TOSEC Nintendo (2021-08-08) | 
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
-| Retroplay English Translations **archive.org** | [Link](https://archive.org/download/retroplay-en/RetroPlay-En/) |
+| English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
 | EverDrive - MSU-MD Audio Enhancement ROMs | [Link](https://archive.org/download/sega-mega-drive-msu-1) |
 | EverDrive - MD+ Audio Enhancement ROMs | [Link](https://archive.org/download/sega-genesis-md) |
