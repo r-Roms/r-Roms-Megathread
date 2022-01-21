@@ -43,9 +43,7 @@ Romsets
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | mobasuite.com repo | [Link](http://90.230.15.92/) |
 | GoodSets | [Link](https://archive.org/details/@gudset) |
-| TOSEC (2021-02-14) | [Link](https://archive.org/download/tosec-2021-02-14-safe) |
-| Update TOSEC (2021-02-14 -> 2021-08-08) | [Link](https://archive.org/download/tosec-2021-02-14-to-2021-08-08-update/TOSEC%20%282021-02-14%20to%202021-08-08%29/) |
-| TOSEC Nintendo (2021-08-08) | 
+| TOSEC (2021-08-08) | [Link](https://archive.org/download/tosec-main-2021-08-08) |
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
