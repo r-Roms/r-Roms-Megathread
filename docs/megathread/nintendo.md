@@ -122,6 +122,12 @@ Wii
 RVZ Format is recommended due to its size and convenience. It works on Dolphin emulator but not on real hardware.
 If using real hardware, you can use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR)
 
+- |**Google Drive: ISO**|**Links**|
+| ------ | ------ |
+| Wii Redump ISO (USA) | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
+| Wii Redump ISO (Japan) | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
+| Wii Redump ISO (Europe) | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
+
 - |**Internet Archive: NKit**|**Links**|
 | ------ | ------ |
 | Wii Redump NKit Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
@@ -133,16 +139,11 @@ If using real hardware, you can use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii Redump NKit Part 7 | [Link](https://archive.org/download/WiiRedumpNKitPart7) |
 | Wii Redump NKit Part 8 | [Link](https://archive.org/download/WiiRedumpNKitPart8) |
 
-**Not recommended unless you need games outsite of USA for Dolphin**
+**Not recommended unless you need games for Dolphin**
 
 Works on Dolphin emulator but not on real hardware.
 If using real hardware, use [Nkit](https://archive.org/download/wii_rvz_usa_p4/tools/Nkit1.4_FullyLoaded_2021-12-01.zip) to convert to ISO. (Note: The download is 14 GB so if you wish to get ISO files it would probably be best to use the links below)
 
-- |**Google Drive: ISO**|**Links**|
-| ------ | ------ |
-| Wii Redump ISO (USA) | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
-| Wii Redump ISO (Japan) | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
-| Wii Redump ISO (Europe) | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
 
 - | Wiiware and Virtual Console| |
 | ------ | ------ |
