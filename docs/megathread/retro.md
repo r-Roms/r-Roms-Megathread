@@ -51,7 +51,7 @@ Romsets
 | EverDrive - MD+ Audio Enhancement ROMs | [Link](https://archive.org/download/sega-genesis-md) |
 | EverDrive - Mode1 CD Audio Enhancement ROMs | [Link](https://archive.org/download/sega-genesis-mode-1-cd) |
 | SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/nintendo-super-famicom-msu-1) |
-| Nintendo - Super Famicom (FastROM + SA1) ROMs | [Link](https://archive.org/download/retroplay-fastrom-sa1/RetroplaySNES-FastROM-SA1/) |
+| Nintendo - Super Famicom Speed Hack ROMs | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
 
 Internet Archive No-Intro
 
