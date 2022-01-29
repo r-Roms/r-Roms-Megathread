@@ -12,10 +12,6 @@ DS
 | No-Intro Nintendo DS (Decrypted) (2021-07-24) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-decrypted) |
 | No-Intro Nintendo DS (Decrypted) | [Link](https://archive.org/download/nintendo-ds-7z) |
 
-- |**Other: ALL**|**Links**|
-| ------ | ------ |
-| mobasuite.com No-Intro Nintendo DS (Decrypted) | [Link](http://90.230.15.92/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/) |
-
 DS Download Play
 
 - |**Internet Archive: All**|**Links**| 
@@ -32,9 +28,6 @@ DSi
 | ------ | ------ | 
 | No-Intro Nintendo DSi (Decrypted) (2021-04-20) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-dsi-decrypted) |
 
-- |**Other: ALL**|**Links**|
-| ------ | ------ |
-| mobasuite.com No-Intro Nintendo DSi (Decrypted) | [Link](http://90.230.15.92/Nintendo/Nintendo%20DSi%20(Decrypted)/) |
 
 DSiWare
 
@@ -44,7 +37,6 @@ DSiWare
 
 - |**Other: ALL**|**Links**|
 | ------ | ------ |
-| mobasuite.com No-Intro Nintendo DSi (Digital) | [Link](http://90.230.15.92/Nintendo/Nintendo%20DSi%20(Digital)/) |
 | MarioCube DSiWare Collection | [Link](https://drive.google.com/drive/folders/1BWAjCC9W0tlcoF_cW50jGggPGXgmQHfZ?usp=sharing) |
 
 ## **Nintendo 3DS**<br/>
@@ -72,7 +64,7 @@ DSiWare
 
 - **.3ds/.cia Decryption Instructions:**
 
-If Citra says the roms are encrypted, use either download [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt. If you would like to get a proper No-Intro hash from the converted file try [This More Advanced Tool](https://anonfiles.com/Fb7fw8Xcob/3DS_CIA_Rom_Script_rar).
+If Citra says the roms are encrypted, use either download [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt. If you would like to get a proper No-Intro hash from the converted file try [This More Advanced Tool](https://archive.org/download/pkmn_collection/3DS%20%2B%20CIA%20Rom%20Script.rar).
 
 Or add the following AES keys to CitraAES Keys for Citra, [Pastebin Link](https://pastebin.com/tBY6RHh4)
 Click download on Pastebin to download the text in this file as a .txt file.
