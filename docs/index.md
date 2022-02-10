@@ -9,6 +9,10 @@
 - ##### Retro games, Arcade games and more can be found in the [Retro Tab](/megathread/retro)<br/>
 - ##### Common games can be found in the [Popular Tab](/megathread/popular)
 
+##<br/>**NOTE ABOUT LOCKED LINKS**
+If you are attempting to download ROMs from an Internet Archive link and the files are locked like in the image below, you need to register an archive.org account (you can do so [here](https://archive.org/account/signup)) to be able to download them.<br/>
+<br/>![IALOCK](img/internetarchivelock.png)<br/>
+
 ##<br/>**Tips**
 
 **Note about No-Intro and Redump Links:**
