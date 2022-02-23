@@ -86,38 +86,9 @@ PSP
 ## **Sony Playstation 3**<br/>
 PS3
 
-- |**Internet Archive: USA**|**Links**|
-| ------ | ------ |
-| PS3 No-Intro USA Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_USA_1) |
-| PS3 No-Intro USA Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_USA_2) |
-| PS3 No-Intro USA Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_USA_3) |
-| PS3 No-Intro USA Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_USA_4) |
-| PS3 No-Intro USA Part 5 | [Link](https://archive.org/download/PS3_NOINTRO_USA__5) |
-| PS3 No-Intro USA Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_USA_6) |
-| PS3 No-Intro USA Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_USA_7) |
-| PS3 No-Intro USA Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_USA_8) |
-| PS3 No-Intro USA Part 9 | [Link](https://archive.org/download/PS3_NOINTRO_USA_9) |
-| PS3 No-Intro USA Part 10 | [Link](https://archive.org/download/PS3_NOINTRO_USA_10) |
+#### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS3 games. Please only check the links below if you are looking for content NoPayStation does not have.
 
-- |**Internet Archive: EUR**|**Links**|
-| ------ | ------ |
-| PS3 No-Intro EUR Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_1) |
-| PS3 No-Intro EUR Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_2) |
-| PS3 No-Intro EUR Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_3) |
-| PS3 No-Intro EUR Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_4) |
-| PS3 No-Intro EUR Part 5 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_5) |
-| PS3 No-Intro EUR Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_6) |
-| PS3 No-Intro EUR Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_7) |
-| PS3 No-Intro EUR Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_8) |
-
-- |**Internet Archive: JAP**|**Links**|
-| ------ | ------ |
-| PS3 No-Intro JAP Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_1) |
-| PS3 No-Intro JAP Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_2) |
-| PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
-| PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
-| PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
-| PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
+<br/>
 
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |
@@ -134,6 +105,42 @@ PS3
 | PS3 Games (S - T) | [Link](https://archive.org/download/PS3_ALVRO_PART_9) |
 | PS3 Games (T) | [Link](https://archive.org/download/PS3_ALVRO_PART_10) |
 | PS3 Games (T - Z) | [Link](https://archive.org/download/PS3_ALVRO_PART_11) |
+
+- |**Internet Archive: USA DLC & Updates**|**Links**|
+| ------ | ------ |
+| PS3 No-Intro USA Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_USA_1) |
+| PS3 No-Intro USA Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_USA_2) |
+| PS3 No-Intro USA Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_USA_3) |
+| PS3 No-Intro USA Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_USA_4) |
+| PS3 No-Intro USA Part 5 | [Link](https://archive.org/download/PS3_NOINTRO_USA__5) |
+| PS3 No-Intro USA Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_USA_6) |
+| PS3 No-Intro USA Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_USA_7) |
+| PS3 No-Intro USA Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_USA_8) |
+| PS3 No-Intro USA Part 9 | [Link](https://archive.org/download/PS3_NOINTRO_USA_9) |
+| PS3 No-Intro USA Part 10 | [Link](https://archive.org/download/PS3_NOINTRO_USA_10) |
+
+- |**Internet Archive: EUR DLC & Update**|**Links**|
+| ------ | ------ |
+| PS3 No-Intro EUR Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_1) |
+| PS3 No-Intro EUR Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_2) |
+| PS3 No-Intro EUR Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_3) |
+| PS3 No-Intro EUR Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_4) |
+| PS3 No-Intro EUR Part 5 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_5) |
+| PS3 No-Intro EUR Part 6 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_6) |
+| PS3 No-Intro EUR Part 7 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_7) |
+| PS3 No-Intro EUR Part 8 | [Link](https://archive.org/download/PS3_NOINTRO_EUR_8) |
+
+- |**Internet Archive: JAP DLC & Update**|**Links**|
+| ------ | ------ |
+| PS3 No-Intro JAP Part 1 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_1) |
+| PS3 No-Intro JAP Part 2 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_2) |
+| PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
+| PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
+
+- |**Internet Archive: JAP PSN**|**Links**|
+| ------ | ------ |
+| PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
+| PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
 
 ## **Sony Playstation Vita**<br/>
 PS Vita
