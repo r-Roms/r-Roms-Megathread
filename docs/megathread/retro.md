@@ -29,6 +29,7 @@ Romsets
 | ------ | ------ |
 | No-Intro Collection 2022 | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) (requires an archive.org account to download) |
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
+| No-Intro Source Code Sets | [Link](https://archive.org/download/ni-sc/ni-sc/) |
 | mobasuite.com repo | [Link](http://90.230.15.92/) |
 | GoodSets | [Link](https://archive.org/details/@gudset) |
 | TOSEC (2021-08-08) | [Link](https://archive.org/download/tosec-main-2021-08-08) |
