@@ -152,7 +152,7 @@ PS3
 | PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
 | PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
 
-- |**Internet Archive: JAP PSN**|**Links**|
+- |**Internet Archive: All PSN**|**Links**|
 | ------ | ------ |
 | PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
 | PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
