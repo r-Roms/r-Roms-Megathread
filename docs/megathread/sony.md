@@ -9,38 +9,38 @@ PS1
 
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
-| PS1 Redump .CUE/.BIN Part 1 | [Link](https://archive.org/download/redump.psx) |
-| PS1 Redump .CUE/.BIN Part 2 | [Link](https://archive.org/download/redump.psx.p2) |
-| PS1 Redump .CUE/.BIN Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
-| PS1 Redump .CUE/.BIN Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
-| PS1 Redump .CHD USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
-| PS1 Redump .CHD EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
-| PS1 Redump .CHD JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
-| PS1 Redump .CHD JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
-| PS1 Redump .CHD Misc | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |  
+| PS1 Redump .cue/.bin Part 1 | [Link](https://archive.org/download/redump.psx) |
+| PS1 Redump .cue/.bin Part 2 | [Link](https://archive.org/download/redump.psx.p2) |
+| PS1 Redump .cue/.bin Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
+| PS1 Redump .cue/.bin Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
+| PS1 Redump .chd USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
+| PS1 Redump .chd EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
+| PS1 Redump .chd JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
+| PS1 Redump .chd JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
+| PS1 Redump .chd Misc | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |  
 
 ## **Sony Playstation 2**<br/>
 PS2
 
 - |**Google Drive*: ALL**|**Links**|
 | ------ | ------ |
-| PS2 Redump .ISO USA | [Link](https://drive.google.com/drive/folders/1RnvLCLNVlH5bgZLtA1tk7D6kBFZeJ1WI) |
-| PS2 Redump .ISO EUR | [Link](https://drive.google.com/drive/folders/1RsKYHOTiK3pza7MsL7epcTuRzqImcb4A) |
-| PS2 Redump .ISO EUR | [Link](https://drive.google.com/drive/folders/1RpSxXpqIbHhsBQUzFe_1UhB8XigSOVrT) |
+| PS2 Redump .iso USA | [Link](https://drive.google.com/drive/folders/1RnvLCLNVlH5bgZLtA1tk7D6kBFZeJ1WI) |
+| PS2 Redump .iso EUR | [Link](https://drive.google.com/drive/folders/1RsKYHOTiK3pza7MsL7epcTuRzqImcb4A) |
+| PS2 Redump .iso EUR | [Link](https://drive.google.com/drive/folders/1RpSxXpqIbHhsBQUzFe_1UhB8XigSOVrT) |
 
 - |**Internet Archive: USA**|**Links**|
 | ------ | ------ |
-| PS2 Redump .ISO USA (2018-08-01) Part 1 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
-| PS2 Redump .ISO USA (2018-08-01) Part 2 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2) |
-| PS2 Redump .ISO USA (2018-08-01) Part 3 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part3) |
-| PS2 Redump .ISO USA (2018-08-01) Part 4 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part4) |
-| PS2 Redump .ISO USA (2018-08-01) Part 5 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaOther2018Aug01) |
+| PS2 Redump .iso USA (2018-08-01) Part 1 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
+| PS2 Redump .iso USA (2018-08-01) Part 2 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2) |
+| PS2 Redump .iso USA (2018-08-01) Part 3 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part3) |
+| PS2 Redump .iso USA (2018-08-01) Part 4 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part4) |
+| PS2 Redump .iso USA (2018-08-01) Part 5 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaOther2018Aug01) |
 | PS2 Redump USA Part 1 | [Link](https://archive.org/download/ps2usaredump1) |
 | PS2 Redump USA Part 2 | [Link](https://archive.org/download/ps2usaredump1_20200816_1458) |
 | PS2 Redump USA Part 3 | [Link](https://archive.org/download/httpsarchive.orgdetailsps2usaredump3) |
-| PS2 Redump .CHD USA Part 1 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-1) | 
-| PS2 Redump .CHD USA Part 2 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-2) | 
-| PS2 Redump .CHD USA Part 3 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-3) | 
+| PS2 Redump .chd USA Part 1 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-1) | 
+| PS2 Redump .chd USA Part 2 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-2) | 
+| PS2 Redump .chd USA Part 3 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-3) | 
 
 - |**Internet Archive: EUR**|**Links**|
 | ------ | ------ |
@@ -74,11 +74,11 @@ PS2
 
 - |**Internet Archive: Japan**|**Links**|
 | ------ | ------ |
-| PS2 Redump .ISO Japan (#-E) | [Link](https://archive.org/download/ps2japanredump1) |
-| PS2 Redump .ISO Japan (F-K) | [Link](https://archive.org/download/ps2japanredump2) |
-| PS2 Redump .ISO Japan (L-R) | [Link](https://archive.org/download/ps2japanredump3) |
-| PS2 Redump .ISO Japan (S-U) | [Link](https://archive.org/download/httpsarchive.orgdetailsps2japanredump4) |
-| PS2 Redump .ISO Japan (V-Z) | [Link](https://archive.org/download/ps2japanredump5) |
+| PS2 Redump .iso Japan (#-E) | [Link](https://archive.org/download/ps2japanredump1) |
+| PS2 Redump .iso Japan (F-K) | [Link](https://archive.org/download/ps2japanredump2) |
+| PS2 Redump .iso Japan (L-R) | [Link](https://archive.org/download/ps2japanredump3) |
+| PS2 Redump .iso Japan (S-U) | [Link](https://archive.org/download/httpsarchive.orgdetailsps2japanredump4) |
+| PS2 Redump .iso Japan (V-Z) | [Link](https://archive.org/download/ps2japanredump5) |
 <!---
 | Redump PS2 Japan Part 1 | [Link](https://archive.org/download/redump-ps2-jpn) |
 | Redump PS2 Japan Part 2 | [Link](https://archive.org/download/redump-ps2-jpn-part2) |
@@ -103,7 +103,7 @@ PS3
 
 - |**Google Drive: All**|**Links**|
 | PS3 PSN | [Link](https://drive.google.com/drive/folders/1XRsE7N_efEhXgzYohccNaPp_mt46gNBx) |
-| PS3 Scene .ISO | [Link](https://drive.google.com/drive/folders/1EMUXroypw7cJ4U2KL3GyoBLAYjTpFHJ5) |
+| PS3 Scene .iso | [Link](https://drive.google.com/drive/folders/1EMUXroypw7cJ4U2KL3GyoBLAYjTpFHJ5) |
 
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |

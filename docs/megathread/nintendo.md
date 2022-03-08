@@ -87,13 +87,13 @@ If using real hardware, you can use [Dolphin Emulator](https://dolphin-emu.org/)
 
 - |**Internet Archive: ISO**|**Links**|
 | ------ | ------ |
-| Gamecube Redump .ISO (USA) Part 1 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmerica) | 
-| Gamecube Redump .ISO (USA) Part 2 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart2) | 
-| Gamecube Redump .ISO (USA) Part 3 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart3) |
-| Gamecube .ISO (Japan) | [Link](https://archive.org/download/NCubeJ) | 
-| Gamecube .ISO (Europe) | [Link](https://archive.org/download/EuropeanGamecubeCollectionByGhostware) | 
-| Gamecube .ISO (Oceania)| [Link](https://archive.org/download/AustraliaGamecubeCollectionByGhostware) | 
-| Gamecube .ISO (Asia) | [Link](https://archive.org/download/AsiaGamecubeCollectionByGhostware) | 
+| Gamecube Redump .iso (USA) Part 1 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmerica) | 
+| Gamecube Redump .iso (USA) Part 2 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart2) | 
+| Gamecube Redump .iso (USA) Part 3 | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart3) |
+| Gamecube .iso (Japan) | [Link](https://archive.org/download/NCubeJ) | 
+| Gamecube .iso (Europe) | [Link](https://archive.org/download/EuropeanGamecubeCollectionByGhostware) | 
+| Gamecube .iso (Oceania)| [Link](https://archive.org/download/AustraliaGamecubeCollectionByGhostware) | 
+| Gamecube .iso (Asia) | [Link](https://archive.org/download/AsiaGamecubeCollectionByGhostware) | 
 
 ## **Nintendo Wii**<br/>
 Wii
@@ -112,9 +112,9 @@ If using real hardware, you can use [Dolphin Emulator](https://dolphin-emu.org/)
 
 - |**Google Drive: ISO**|**Links**|
 | ------ | ------ |
-| Wii Redump .ISO (USA) | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
-| Wii Redump .ISO (Japan) | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
-| Wii Redump .ISO (Europe) | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
+| Wii Redump .iso (USA) | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
+| Wii Redump .iso (Japan) | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
+| Wii Redump .iso (Europe) | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
 
 - |**Internet Archive: NKit**|**Links**|
 | ------ | ------ |

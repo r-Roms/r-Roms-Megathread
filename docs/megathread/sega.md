@@ -8,8 +8,8 @@ Older systems can be found in the [Retro Tab](/megathread/retro)<br/>
 
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
-| Redump Sega Dreamcast .CUE/.BIN | [Link](https://archive.org/download/redump.dc.revival) |
-| Redump Sega Dreamcast .CHD | [Link](https://archive.org/download/chd_dc/CHD-DC/) |
+| Redump Sega Dreamcast .cue/.bin | [Link](https://archive.org/download/redump.dc.revival) |
+| Redump Sega Dreamcast .chd | [Link](https://archive.org/download/chd_dc/CHD-DC/) |
 | Dreamcast Uploaded by Ghostware | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
 | Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
 | TOSEC Dreamcast USA GDI | [Link](https://archive.org/download/tosecdcus20190822) |
@@ -28,18 +28,18 @@ Note: Not all Dreamcast emulators support CUE/BIN, GDI is recommended to ensure 
 
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
-| Redump Sega Saturn .CUE/.BIN | [Link](https://archive.org/download/redump.ss.revival) |
-| Redump Sega Saturn .CHD USA | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/USA/) |
-| Redump Sega Saturn .CHD EUR | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Europe/) |
-| Redump Sega Saturn .CHD JPN | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Japan/) | 
-| Redump Sega Saturn .CHD Other | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Other-Regions/) | 
+| Redump Sega Saturn .cue/.bin | [Link](https://archive.org/download/redump.ss.revival) |
+| Redump Sega Saturn .chd USA | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/USA/) |
+| Redump Sega Saturn .chd EUR | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Europe/) |
+| Redump Sega Saturn .chd JPN | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Japan/) | 
+| Redump Sega Saturn .chd Other | [Link](https://archive.org/download/chd_saturn/CHD-Saturn/Other-Regions/) | 
 
 ## **Sega CD**<br/>
 <br/>CD & Mega CD
 
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
-| Redump Sega Mega CD .CUE/.BIN | [Link](https://archive.org/download/redump.mcd.revival) |
-| Redump Sega CD & Mega CD .CHD USA | [Link](https://archive.org/download/chd_segacd/CHD-SegaCD-NTSC/) |
-| Redump Sega CD & Mega CD .CHD EUR | [Link](https://archive.org/download/chd_segacd/CHD-MegaCD-PAL/) |
-| Redump Sega CD & Mega CD .CHD JPN | [Link](https://archive.org/download/chd_segacd/CHD-MegaCD-NTSCJ/) |
+| Redump Sega Mega CD .cue/.bin | [Link](https://archive.org/download/redump.mcd.revival) |
+| Redump Sega CD & Mega CD .chd USA | [Link](https://archive.org/download/chd_segacd/CHD-SegaCD-NTSC/) |
+| Redump Sega CD & Mega CD .chd EUR | [Link](https://archive.org/download/chd_segacd/CHD-MegaCD-PAL/) |
+| Redump Sega CD & Mega CD .chd JPN | [Link](https://archive.org/download/chd_segacd/CHD-MegaCD-NTSCJ/) |
