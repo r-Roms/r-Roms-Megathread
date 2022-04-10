@@ -42,10 +42,6 @@ DSiWare
 | ------ | ------ |
 | hShop: 3DS Content in .cia Format and QR Codes | [Link](https://hshop.erista.me) |
 
-- |**Google Drive: ALL**|**Links**|
-| ------ | ------ |
-| No-Intro Nintendo (New) 3DS .3ds/.cia 2017/2018 | [Link](https://drive.google.com/drive/folders/1R5c6-nY5mMns8G1u2tcbYumfTCGXDQ5w) |
-
 - |**Internet Archive: ALL**|**Links**|
 | ------ | ------ |
 | No-Intro Nintendo 3DS Encrypted .3ds Part 1 (2021-12-31) | [Link](https://archive.org/download/3ds-main-encrypted) |
