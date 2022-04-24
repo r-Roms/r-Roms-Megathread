@@ -38,10 +38,6 @@ PS2
 | PS2 Redump USA Part 1 | [Link](https://archive.org/download/ps2usaredump1) |
 | PS2 Redump USA Part 2 | [Link](https://archive.org/download/ps2usaredump1_20200816_1458) |
 | PS2 Redump USA Part 3 | [Link](https://archive.org/download/httpsarchive.orgdetailsps2usaredump3) |
-| PS2 Redump .chd USA Part 1 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-1) | 
-| PS2 Redump .chd USA Part 2 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-2) | 
-| PS2 Redump .chd USA Part 3 | [Link](https://archive.org/download/ps2-redump-usa-chd-part-3) | 
-
 - |**Internet Archive: EUR**|**Links**|
 | ------ | ------ |
 | PS2 Game Collection EUR (# - A) | [Link](https://archive.org/download/PS2_COLLECTION_PART1) |
