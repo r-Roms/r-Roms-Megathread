@@ -22,12 +22,6 @@ PS1
 ## **Sony Playstation 2**<br/>
 PS2
 
-- |**Google Drive*: ALL**|**Links**|
-| ------ | ------ |
-| PS2 Redump .iso USA | [Link](https://drive.google.com/drive/folders/1RnvLCLNVlH5bgZLtA1tk7D6kBFZeJ1WI) |
-| PS2 Redump .iso EUR | [Link](https://drive.google.com/drive/folders/1RsKYHOTiK3pza7MsL7epcTuRzqImcb4A) |
-| PS2 Redump .iso EUR | [Link](https://drive.google.com/drive/folders/1RpSxXpqIbHhsBQUzFe_1UhB8XigSOVrT) |
-
 - |**Internet Archive: USA**|**Links**|
 | ------ | ------ |
 | PS2 Redump .iso USA (2018-08-01) Part 1 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
@@ -97,11 +91,6 @@ PS3
 
 <br/>
 
-- |**Google Drive: All**|**Links**|
-| ------ | ------ |
-| PS3 PSN | [Link](https://drive.google.com/drive/folders/1XRsE7N_efEhXgzYohccNaPp_mt46gNBx) |
-| PS3 Scene .iso | [Link](https://drive.google.com/drive/folders/1EMUXroypw7cJ4U2KL3GyoBLAYjTpFHJ5) |
-
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |
 | PS3 Games (# - C) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |
@@ -156,14 +145,6 @@ PS3
 
 ## **Sony Playstation Vita**<br/>
 PS Vita
-
-- |**Google Drive: All**|**Links**|
-| ------ | ------ |
-| PSVITA VPK No-Intro | [Link](https://drive.google.com/drive/folders/1X9dnsjV7v1UGb7VXxQA9uYRF63SwrSHa) |
-| PSVITA VPK | [Link](https://drive.google.com/drive/folders/1XCYWiYhwMq4ltHvlm62HDXf94ekZm736) |
-| PSVITA VPK PSN | [Link](https://drive.google.com/drive/folders/1XDe0tGRj3oE6MzFdjL6RKJR7SrK0hegE?usp=sharing) |
-| PSVITA VPK Patched | [Link](https://drive.google.com/drive/folders/1XBAzw_T5q8-yVrqzSveTsKhM2CKbm9tj) |
-| PSVITA MAIDUMP | [Link](https://drive.google.com/drive/folders/1E-ZPeEGA4dAn5pPUs52NVHFZotAeXlLe)
 
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |

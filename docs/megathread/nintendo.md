@@ -106,12 +106,6 @@ Wii
 RVZ Format is recommended due to its size and convenience. It works on Dolphin emulator but not on real hardware.
 If using real hardware, you can use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR)
 
-- |**Google Drive: ISO**|**Links**|
-| ------ | ------ |
-| Wii Redump .iso (USA) | [Link](https://drive.google.com/drive/folders/1xPi6MZMjqZ3scV16L4TwzclVl61LYPm-?usp=sharing) |
-| Wii Redump .iso (Japan) | [Link](https://drive.google.com/drive/folders/1x_91JdgvYoMPgzx7RSyFbY6ch7aBuJ7_?usp=sharing) |
-| Wii Redump .iso (Europe) | [Link](https://drive.google.com/drive/folders/1xLon6QBxNK6FhYePUF2OPI8FKt4D9TRo?usp=sharing) |
-
 - |**Internet Archive: NKit**|**Links**|
 | ------ | ------ |
 | Wii Redump NKit Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
