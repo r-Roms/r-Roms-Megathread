@@ -21,6 +21,7 @@ PS1
 
 ## **Sony Playstation 2**<br/>
 PS2
+
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |
 | PS2 Redump (#) | [Link](https://archive.org/download/sony_playstation2_numberssymbols) |
