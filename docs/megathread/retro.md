@@ -20,6 +20,7 @@ FinalBurn Neo
 | ------ | ------ |
 | FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn/) |
 | FinalBurn Neo 1.0.0.2 ROMs + Support | [Link](https://archive.org/download/fbneo/) |
+| FinalBurn Neo Arcade ROM Set (Full Non-Merged) | [Link](https://archive.org/download/fbnarcade-fullnonmerged/arcade/) |
 
 ## **Romsets**<br/>
 
