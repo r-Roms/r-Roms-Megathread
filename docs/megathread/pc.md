@@ -35,43 +35,43 @@ Links to PC stuff i guess<br/>
 
 - |**Redump IBM PC Compatibles**|**Links**|
 | ------ | ------ |
-| 0-9 | [Link](https://archive.org/download/redump_pc_0) |
-| A | [Link](https://archive.org/download/redump_pc_A) |
-| B Part 1 | [Link](https://archive.org/download/redump_pc_B) |
-| B Part 2 | [Link](https://archive.org/download/redump_pc_B-2) |
-| C Part 1 | [Link](https://archive.org/download/redump_pc_C) |
-| C Part 2 | [Link](https://archive.org/download/redump_pc_C-2) |
-| C Part 3 | [Link](https://archive.org/download/redump_pc_C-3) |
-| C Part 4 | [Link](https://archive.org/download/redump_pc_C-4) |
-| D Part 1 | [Link](https://archive.org/download/redump_pc_D) |
-| D Part 2 | [Link](https://archive.org/download/redump_pc_D-2) |
-| E | [Link](https://archive.org/download/redump_pc_E) |
-| F | [Link](https://archive.org/download/redump_pc_F) |
-| G Part 1 | [Link](https://archive.org/download/redump_pc_G) |
-| G Part 2 | [Link](https://archive.org/download/redump_pc_G-2) |
-| G Part 3 | [Link](https://archive.org/download/redump_pc_G-3) |
-| H | [Link](https://archive.org/download/redump_pc_H) |
-| I | [Link](https://archive.org/download/redump_pc_I) |
-| J | [Link](https://archive.org/download/redump_pc_J) |
-| K | [Link](https://archive.org/download/redump_pc_K) |
-| L | [Link](https://archive.org/download/redump_pc_L) |
-| M Part 1 | [Link](https://archive.org/download/redump_pc_M) |
-| M Part 2 | [Link](https://archive.org/download/redump_pc_M-2) |
-| N | [Link](https://archive.org/download/redump_pc_N) |
-| O | [Link](https://archive.org/download/redump_pc_O) |
-| P Part 1 | [Link](https://archive.org/download/redump_pc_P) |
-| P Part 2 | [Link](https://archive.org/download/redump_pc_P-2) |
-| P Part 3 | [Link](https://archive.org/download/redump_pc_P-3) |
-| Q | [Link](https://archive.org/download/redump_pc_Q) |
-| R | [Link](https://archive.org/download/redump_pc_R) |
-| S Part 1 | [Link](https://archive.org/download/redump_pc_S) |
-| S Part 2 | [Link](https://archive.org/download/redump_pc_S-2) |
-| S Part 3 | [Link](https://archive.org/download/redump_pc_S-3) |
-| T Part 1 | [Link](https://archive.org/download/redump_pc_T) |
-| T Part 2 | [Link](https://archive.org/download/redump_pc_T-2) |
-| U | [Link](https://archive.org/download/redump_pc_U) |
-| V | [Link](https://archive.org/download/redump_pc_V) |
-| W | [Link](https://archive.org/download/redump_pc_W) |
-| X | [Link](https://archive.org/download/redump_pc_X) |
-| Y | [Link](https://archive.org/download/redump_pc_Y) |
-| Z | [Link](https://archive.org/download/redump_pc_Z) |
+| Redump IBM PC Compatibles (0-9) | [Link](https://archive.org/download/redump_pc_0) |
+| Redump IBM PC Compatibles (A) | [Link](https://archive.org/download/redump_pc_A) |
+| Redump IBM PC Compatibles (B Part 1) | [Link](https://archive.org/download/redump_pc_B) |
+| Redump IBM PC Compatibles (B Part 2) | [Link](https://archive.org/download/redump_pc_B-2) |
+| Redump IBM PC Compatibles (C Part 1) | [Link](https://archive.org/download/redump_pc_C) |
+| Redump IBM PC Compatibles (C Part 2) | [Link](https://archive.org/download/redump_pc_C-2) |
+| Redump IBM PC Compatibles (C Part 3) | [Link](https://archive.org/download/redump_pc_C-3) |
+| Redump IBM PC Compatibles (C Part 4) | [Link](https://archive.org/download/redump_pc_C-4) |
+| Redump IBM PC Compatibles (D Part 1) | [Link](https://archive.org/download/redump_pc_D) |
+| Redump IBM PC Compatibles (D Part 2) | [Link](https://archive.org/download/redump_pc_D-2) |
+| Redump IBM PC Compatibles (E) | [Link](https://archive.org/download/redump_pc_E) |
+| Redump IBM PC Compatibles (F) | [Link](https://archive.org/download/redump_pc_F) |
+| Redump IBM PC Compatibles (G Part 1) | [Link](https://archive.org/download/redump_pc_G) |
+| Redump IBM PC Compatibles (G Part 2) | [Link](https://archive.org/download/redump_pc_G-2) |
+| Redump IBM PC Compatibles (G Part 3) | [Link](https://archive.org/download/redump_pc_G-3) |
+| Redump IBM PC Compatibles (H) | [Link](https://archive.org/download/redump_pc_H) |
+| Redump IBM PC Compatibles (I) | [Link](https://archive.org/download/redump_pc_I) |
+| Redump IBM PC Compatibles (J) | [Link](https://archive.org/download/redump_pc_J) |
+| Redump IBM PC Compatibles (K) | [Link](https://archive.org/download/redump_pc_K) |
+| Redump IBM PC Compatibles (L) | [Link](https://archive.org/download/redump_pc_L) |
+| Redump IBM PC Compatibles (M Part 1) | [Link](https://archive.org/download/redump_pc_M) |
+| Redump IBM PC Compatibles (M Part 2) | [Link](https://archive.org/download/redump_pc_M-2) |
+| Redump IBM PC Compatibles (N) | [Link](https://archive.org/download/redump_pc_N) |
+| Redump IBM PC Compatibles (O) | [Link](https://archive.org/download/redump_pc_O) |
+| Redump IBM PC Compatibles (P Part 1) | [Link](https://archive.org/download/redump_pc_P) |
+| Redump IBM PC Compatibles (P Part 2) | [Link](https://archive.org/download/redump_pc_P-2) |
+| Redump IBM PC Compatibles (P Part 3) | [Link](https://archive.org/download/redump_pc_P-3) |
+| Redump IBM PC Compatibles (Q) | [Link](https://archive.org/download/redump_pc_Q) |
+| Redump IBM PC Compatibles (R) | [Link](https://archive.org/download/redump_pc_R) |
+| Redump IBM PC Compatibles (S Part 1) | [Link](https://archive.org/download/redump_pc_S) |
+| Redump IBM PC Compatibles (S Part 2) | [Link](https://archive.org/download/redump_pc_S-2) |
+| Redump IBM PC Compatibles (S Part 3) | [Link](https://archive.org/download/redump_pc_S-3) |
+| Redump IBM PC Compatibles (T Part 1) | [Link](https://archive.org/download/redump_pc_T) |
+| Redump IBM PC Compatibles (T Part 2) | [Link](https://archive.org/download/redump_pc_T-2) |
+| Redump IBM PC Compatibles (U) | [Link](https://archive.org/download/redump_pc_U) |
+| Redump IBM PC Compatibles (V) | [Link](https://archive.org/download/redump_pc_V) |
+| Redump IBM PC Compatibles (W) | [Link](https://archive.org/download/redump_pc_W) |
+| Redump IBM PC Compatibles (X) | [Link](https://archive.org/download/redump_pc_X) |
+| Redump IBM PC Compatibles (Y) | [Link](https://archive.org/download/redump_pc_Y) |
+| Redump IBM PC Compatibles (Z) | [Link](https://archive.org/download/redump_pc_Z) |
