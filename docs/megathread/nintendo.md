@@ -8,6 +8,7 @@ DS
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ |
+| Nintendo DS Anti-Piracy Fixed ROMs | [Link](https://archive.org/download/nds_apfix/apfix/) |
 | No-Intro Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
 | No-Intro Nintendo DS (Decrypted) (2021-06-27) | [Link](https://archive.org/download/no-ndsdec2021) |
 | No-Intro Nintendo DS (Decrypted) (2021-07-24) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-decrypted) |
