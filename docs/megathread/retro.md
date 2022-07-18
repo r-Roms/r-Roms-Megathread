@@ -73,6 +73,7 @@ Internet Archive Redump
 
 - |**System**|**Links**|
 | ------ | ------ |
+| Audio CD | [Part 1](https://archive.org/download/audio_cd_part1) [Part 2](https://archive.org/download/audio_cd_part2) |
 | Atari Jaguar CD Interactive Multimedia System | [Link](https://archive.org/download/redump.jaguar.revival) |
 | Bandai - Pippin | [Link](https://archive.org/download/redump-bandai-pippin) |
 | Fujitsu - FM-Towns | [Link](https://archive.org/details/redump.fm.revival) |
