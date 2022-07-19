@@ -5,12 +5,15 @@ Links to PC stuff i guess<br/>
 - |**MS-DOS**|**Links**|
 | ------ | ------ |
 | Total DOS Collection #16 | [Link](https://archive.org/download/Total_DOS_Collection_Release_16_March_2019) |
-| eXoDOS v5 | [Link](https://exodos.the-eye.eu/) |
+| eXoDOS v5 | [Link](https://the-eye.eu/public/Games/eXo/eXoDOS_v5/) |
 
 - |**Windows 3.x**|**Links**|
 | ------ | ------ |
-| Win3xO | [Link](https://the-eye.eu/public/Games/eXo/Win3xO/) |
-| eXoWin3 2.0 | [Link](https://www.retro-exo.com/win3x.html) |
+| eXoWin3.x v2 | [Link](https://www.retro-exo.com/win3x.html) |
+
+- |**ScummVM**|**Links**|
+| ------ | ------ |
+| eXoScummVM v1 | [Link](https://www.retro-exo.com/scummvm.html) |
 
 - |**1990s to early 2000s**|**Links**|
 | ------ | ------ |
