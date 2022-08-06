@@ -7,12 +7,14 @@ MAME
 
 - |**MAME**|**Links**|
 | ------ | ------ |
-| MAME 0.245 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
-| MAME 0.245 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.245 ROMs Merged | [Link](https://archive.org/download/mame-merged/mame-merged/) |
-| MAME 0.245 BIOS Sets | [Link](https://archive.org/download/mame-merged/BIOS/) |
+| MAME 0.246 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
+| MAME 0.246 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.246 ROMs Merged | [Link](https://archive.org/download/mame-merged/mame-merged/) |
+| MAME 0.246 BIOS Sets | [Link](https://archive.org/download/mame-merged/BIOS/) |
 | HBMAME 0.244 ROMs Merged | [Link](https://archive.org/download/hbmame_0244_roms) |
 | MAME Support Files | [Link](https://archive.org/download/mame-support/Support/) |
+
+Other sets can be downloaded via torrent from [PleasureDome](https://pleasuredome.github.io/pleasuredome/)
 
 FinalBurn Neo
 
