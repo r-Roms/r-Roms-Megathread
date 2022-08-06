@@ -39,12 +39,9 @@ Romsets
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
-| SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/msu1roms) |
+| SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/SNES-MSU1-Arquivista) |
+| EverDrive - Sega MSU-MD Audio Enhancement ROMs | [Link](https://archive.org/download/MSU-MD-Arquivista) |
 | Nintendo - Super Famicom Speed Hack ROMs | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
-<!---
-| EverDrive - Sega MSU Audio Enhancement ROMs | [Link](https://archive.org/download/all-sega-msu) |
-| SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/msu-1-snes) |
--->
 
 Internet Archive No-Intro
 
