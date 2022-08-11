@@ -40,7 +40,7 @@ Romsets
 | English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
 | SNES EverDrive - MSU-1 Enhancement ROMs | [Link](https://archive.org/download/SNES-MSU1-Arquivista) |
-| EverDrive - Sega MSU-MD Audio Enhancement ROMs | [Link](https://archive.org/download/MSU-MD-Arquivista) |
+| EverDrive - Sega MD Enhanced ROMs | [Link](https://archive.org/download/SegaMD-Enhanced-ROMs/ROMs/) |
 | Nintendo - Super Famicom Speed Hack ROMs | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
 | Sega Model 3 ROMs + SuperModel Emulator | [Link](https://archive.org/download/segamodel3/model3/) |
 
