@@ -70,7 +70,7 @@ Internet Archive No-Intro
 | Sega - Master System - Mark III | [Link](https://archive.org/download/nointro.ms-mkiii) |
 | Sega - Mega Drive - Genesis | [Link](https://archive.org/download/nointro.md) |
 
-Internet Archive Redump
+Internet Archive Redump .cue/.bin
 
 - |**System**|**Links**|
 | ------ | ------ |
@@ -82,7 +82,7 @@ Internet Archive Redump
 | NEC - PC Engine CD & TurboGrafx CD | [Link](https://archive.org/download/redump.pce.revival) |
 | NEC - PC-FX & PC-FXGA | [Link](https://archive.org/download/redump.pcfx.revival) |
 | NEC - PC9800 | [Link](https://archive.org/download/redump.pc98.revival)
-| Panasonic - 3DO Interactive Multiplaye | [Link](https://archive.org/download/redump.3DO.revival) |
+| Panasonic - 3DO Interactive Multiplayer | [Link](https://archive.org/download/redump.3DO.revival) |
 | Philips - CD-i | [Link](https://archive.org/download/redump.cdi.revival) |
 | Photo CD | [Link](https://archive.org/download/redump.photo.revival) |
 | SNK - Neo Geo CD | [Link](https://archive.org/download/redump.ngcd.revival) |
@@ -90,7 +90,13 @@ Internet Archive Redump
 | Sega - Sega Naomi | [Link](https://archive.org/download/redump.naomi.revival) |
 | Sega - Sega Naomi2 | [Link](https://archive.org/download/redump.naomi2.revival) |
 
+Internet Archive Redump .chd 
 
+- |*System**|**Links**|
+| ------ | ------ |
+| PC Engine CD - TurboGrafx CD | [Link](https://archive.org/download/chd_pcecd/) |
+| Panasonic - 3DO Interactive Multiplayer | [Link](https://archive.org/download/chd_3do/CHD-3DO/) |
+| SNK - NeoGeo CD | [Link](https://archive.org/download/chd_neogeocd/CHD-NeoGeoCD/) |
 
 ## **BIOS**
 
