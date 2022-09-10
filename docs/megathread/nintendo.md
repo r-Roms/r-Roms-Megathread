@@ -11,7 +11,6 @@ DS
 | Nintendo DS Anti-Piracy Fixed ROMs | [Link](https://archive.org/download/nds_apfix/apfix/) |
 | No-Intro Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
 | No-Intro Nintendo DS (Decrypted) (2021-06-27) | [Link](https://archive.org/download/no-ndsdec2021) |
-| No-Intro Nintendo DS (Decrypted) (2021-07-24) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-decrypted) |
 
 DS Download Play
 
@@ -52,8 +51,7 @@ DSiWare
 | Nintendo 3DS eShop Complete Collection .cia/.3ds | [Link](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
-| No-Intro Nintendo 3DS DLC and Updates Encrypted .cia (2021-10-16) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-3ds-digital-updates-and-dlc-encrypted) |
-| No-Intro Nintendo New 3DS Encrypted .3ds (2021-01-01) | [Link](https://archive.org/download/no-intro-nintendo-new-nintendo-3ds-encrypted) |
+| No-Intro Nintendo 3DS DLC and Updates Encrypted .cia (2021-10-16) | [Link](https://archive.org/download/3ds-dlc-and-updates-encrypted) |
 
 - **.3ds/.cia Decryption Instructions:**
 
@@ -63,7 +61,7 @@ Or add the following AES keys to CitraAES Keys for Citra, [Pastebin Link](https:
 Click download on Pastebin to download the text in this file as a .txt file.
 
 Windows installation instructions
-Add the downloaded pastebin text file to `C:/Users/"your_user_name"/AppData/Roaming/Citra/sysdata` make sure it is named aes_keys.txt
+Add the downloaded pastebin text file to `C:/Users/<your_user_name>/AppData/Roaming/Citra/sysdata` make sure it is named aes_keys.txt
 
 Linux/MacOS Installation instructions
 Add the downloaded pastebin text file to `~/.local/share/citra-emu/sysdata` make sure it is named aes_keys.txt
