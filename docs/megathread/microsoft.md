@@ -70,6 +70,8 @@ Xbox 360
 - |**Internet Archive: All (No-Intro?)**|**Links**|
 | ------ | ------ |
 | Microsoft Xbox 360 - Digital (Part 1) | [Link](https://archive.org/download/microsoft_xbox360_digital_part1) |
+| Microsoft Xbox 360 - Digital (Part 2) | [Link](https://archive.org/download/microsoft_xbox360_digital_part2) |
+| Microsoft Xbox 360 - Digital (Part 2) | [Link](https://archive.org/download/microsoft_xbox360_digital_part3) |
 
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |
