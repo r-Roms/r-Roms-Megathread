@@ -16,13 +16,13 @@ DS Download Play
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
-| No-Intro Nintendo DS (Download Play) (2021-01-04) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-download-play) | 
+| No-Intro Nintendo DS (Download Play) (2022-07-07) | [Link](https://archive.org/details/no-intro-nintendo-nintendo-ds-download-play_202207) | 
 
 DSi
 
 - |**Internet Archive: All**|**Links**| 
 | ------ | ------ | 
-| No-Intro Nintendo DSi (Decrypted) (2021-04-20) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-dsi-decrypted) |
+| No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Link](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
 
 
 DSiWare
