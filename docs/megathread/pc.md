@@ -33,6 +33,10 @@ Links to PC stuff i guess<br/>
 | /r/PiratedGames Megathread | [Link](https://rentry.org/pgames-mega-thread) |
 | Doom WADs | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
 
+- |**Apple Macintosh**|**Links**|
+| ------ | ------ |
+| Apple Macintosh Redump | [Link](https://archive.org/download/apple_macintosh) |
+
 - |**Redump IBM PC Compatibles**|**Links**|
 | ------ | ------ |
 | Redump IBM PC Compatibles (0-9) | [Link](https://archive.org/download/redump_pc_0) |
