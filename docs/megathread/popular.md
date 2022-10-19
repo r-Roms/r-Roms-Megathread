@@ -96,7 +96,7 @@ Persona Games
 | Persona 3 FES (USA) | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%203%20FES%20%28USA%29.7z) |
 | Persona 3 Portable (USA) | [Link](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20%28USA%29.zip) |
 | Persona 2: Innocent Sin (USA/Japan) | [PSP](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%202%20-%20Innocent%20Sin%20%28USA%29.zip) / [PS1](https://archive.org/download/redump.psx.p3/Persona%202%20-%20Tsumi%20-%20Innocent%20Sin%20%28Japan%29.zip) |
-| Persona 2: Eternal Punishment (USA) | [Link](https://archive.org/download/redump.psx.p3/Persona%202%20-%20Eternal%20Punishment%20%28USA%29.zip) |
+| Persona 2: Eternal Punishment (USA) | [PSP](https://archive.org/details/persona-2-eternal-punishment-english-v-1.00.iso.-7z)/ [PS1](https://archive.org/download/redump.psx.p3/Persona%202%20-%20Eternal%20Punishment%20%28USA%29.zip) |
 | Persona 1 (USA) | [PSP](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%20%28USA%29.zip) / [PS1](https://archive.org/download/redump.psx.p3/Persona%20%28USA%29.zip) |
 
 ## Zelda<br/>
