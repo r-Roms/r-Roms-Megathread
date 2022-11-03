@@ -182,6 +182,8 @@ PS3
 ## **Sony Playstation Vita**<br/>
 PS Vita
 
+#### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS Vita games. Please only check the links below if you are looking for content NoPayStation does not have.
+
 - |**Internet Archive: All**|**Links**|
 | ------ | ------ |
 | PSVITA VPK | [Link](https://archive.org/download/PSVITA_VPK) |
