@@ -141,9 +141,6 @@ Wii U
 
 To unpack the files for Cemu, use [CDecrypt v3.0](https://github.com/phacoxcll/cdecrypt/releases/tag/v3.0) or [CDecrypt v4.0](https://github.com/VitaSmith/cdecrypt/releases/latest) for Linux/macOS support or if you lack the common keys.
 
-- |**Redump**|**Links**|
-| ------ | ------ |
-
 - |**Virtual Console NUS**|**Links**|
 | ------ | ------ |
 | TurboGrafx-16 NUS | [Link](https://archive.org/download/wii-u-turbografx16-nus) |
