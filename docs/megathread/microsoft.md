@@ -71,14 +71,13 @@
 | ------ | ------ |
 | Unofficial - Microsoft - Xbox 360 (Title Updates) | [Download](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Microsoft%20-%20Xbox%20360%20(Title%20Updates)/) |
 | Microsoft - Xbox 360 (Digital) | [Download](https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20360%20(Digital)/) |
-| Microsoft - Xbox 360 (Digital) | [Download](https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20360%20(Digital)/) |
 
 |**Internet Archive (No-Intro)**||
 | ------ | ------ |
 | Microsoft Xbox 360 - Title Updates - No-Intro | [Download](https://archive.org/download/microsoft_xbox360_title-updates) |
 | Microsoft Xbox 360 - Digital (Part 1) | [Download](https://archive.org/download/microsoft_xbox360_digital_part1) |
 | Microsoft Xbox 360 - Digital (Part 2) | [Download](https://archive.org/download/microsoft_xbox360_digital_part2) |
-| Microsoft Xbox 360 - Digital (Part 2) | [Download](https://archive.org/download/microsoft_xbox360_digital_part3) |
+| Microsoft Xbox 360 - Digital (Part 3) | [Download](https://archive.org/download/microsoft_xbox360_digital_part3) |
 
 |**Internet Archive (Alvro)**||
 | ------ | ------ |
