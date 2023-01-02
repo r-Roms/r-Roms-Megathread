@@ -1,4 +1,4 @@
-### **Rom Center Markdown Edition 2023**
+# **Rom Center Markdown Edition 2023**
 
 - ##### Use the menu bar at the top to navigate the megathread.
 - ##### Retro games, Arcade games, and BIOS files can be found in the [Retro Games page](/megathread/retro).
