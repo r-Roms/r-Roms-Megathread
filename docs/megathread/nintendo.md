@@ -124,7 +124,7 @@ If using real hardware, use [Nkit](https://archive.org/download/wii_rvz_usa_p4/t
 
 - | Wiiware and Virtual Console| |
 | ------ | ------ |
-| Google Drive | [Link](https://drive.google.com/drive/folders/1ZpX5Nh4BNzWDvpXJJuqVlX2Qz7xpwpVU) |
+| MarioCube (archive.org) | [Link](https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/) |
 
 
 ## **Nintendo Wii U**<br/>
@@ -132,14 +132,16 @@ Wii U
 
 - |**Tools**|**Links**|
 | ------ | ------ |
-| Wii U USB Helper | [Link](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`) |
+| WiiUDownloader | [Link](https://github.com/Xpl0itU/WiiUDownloader/releases/latest)
+
+Note that this is meant to be a replacement for Wii U USB Helper as it is more lightweight and supports Mac and Linux. If for whatever reason you would like to install legacy Wii U USB Helper you can follow [This Guide](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) to get it.
 
 - |**NUS Format**|**Links**|
 | ------ | ------ |
 | Retail NUS (USA) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
 
-To unpack the files for Cemu, use [CDecrypt v3.0](https://github.com/phacoxcll/cdecrypt/releases/tag/v3.0) or [CDecrypt v4.0](https://github.com/VitaSmith/cdecrypt/releases/latest) for Linux/macOS support or if you lack the common keys.
+To unpack the files for Cemu, use [CDecrypt 4.0](https://github.com/VitaSmith/cdecrypt/releases/latest) .
 
 - |**Virtual Console NUS**|**Links**|
 | ------ | ------ |
