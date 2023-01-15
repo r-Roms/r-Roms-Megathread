@@ -1,6 +1,6 @@
 # Nintendo Games
 
-##### Nintendo 64 and older can be found in the [Retro Games page](/megathread/retro).
+ If you are looking for Retro ROMs, see the [Retro Games page](/megathread/retro).
 
 ## **Nintendo DS**
 
@@ -13,9 +13,9 @@
 | Nintendo - Nintendo DSi (Encrypted) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20(Encrypted)/) |
 | Nintendo - Nintendo DSi (Digital) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DSi%20(Digital)/) |
 
-|**Google Drive**||
-| ------ | ------ |
-| MarioCube (DSiWare) | [Download](https://drive.google.com/drive/folders/1BWAjCC9W0tlcoF_cW50jGggPGXgmQHfZ?usp=sharing) |
+|**MarioCube**|Open Directory|Internet Archive|
+| ------ | ------ | ------ |
+| DSiWare | [Download](https://repo.mariocube.com/DSiWare/) | [Download](https://archive.org/download/MarioCubeLite/DSiWare/) |
 
 |**Internet Archive (No-Intro)**|| 
 | ------ | ------ |
@@ -24,13 +24,13 @@
 | No-Intro Nintendo DS (Decrypted) (2021-06-27) | [Download](https://archive.org/download/no-ndsdec2021) |
 | No-Intro Nintendo DS (Download Play) (2022-07-07) | [Download](https://archive.org/details/no-intro-nintendo-nintendo-ds-download-play_202207) |
 | No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Download](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
-| No-Intro Nintendo DSi (Digital) (2021-10-08) | [Download](https://archive.org/download/no-intro-nintendo-nintendo-dsi-digital) |
+| No-Intro Nintendo DSi (Digital) | [Download](https://archive.org/download/nintendo-dsi/Nintendo%20DSi%20%28Digital%29/) |
 
 ## **Nintendo 3DS**
 
 |**hShop**||
 | ------ | ------ |
-| hShop: 3DS Content in CIA Format | [Download](https://hshop.erista.me) |
+| 3DS Content in CIA Format | [Download](https://hshop.erista.me) |
 
 |**Myrient (No-Intro)**||
 | ------ | ------ |
@@ -46,8 +46,6 @@
 | ------ | ------ |
 | No-Intro Nintendo 3DS Encrypted .3ds Part 1 (2021-12-31) | [Download](https://archive.org/download/3ds-main-encrypted) |
 | No-Intro Nintendo 3DS Encrypted .3ds Part 2 (2021-12-31) | [Download](https://archive.org/download/3ds-main-encrypted-p2) |
-| No-Intro Nintendo 3DS Encrypted .3ds Part 1 (2022-01-03) | [Download](https://archive.org/download/no-intro-nintendo-nintendo-3ds-encrypted) |
-| No-Intro Nintendo 3DS Encrypted .3ds Part 2 (2022-01-03) | [Download](https://archive.org/download/no-intro-nintendo-nintendo-3ds-encrypted-part-2) |
 | Nintendo 3DS eShop Complete Collection .cia/.3ds | [Download](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1-1700] | [Download](https://archive.org/download/nintendo-3ds-complete-collection) |
 | Nintendo 3DS Complete Collection .3ds [1701-1861] | [Download](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
@@ -74,8 +72,8 @@ For more information, refer to the [Citra Wiki](https://citra-emu.org/wiki/user-
 
 ## **Nintendo GameCube**
 
-The RVZ format is recommended for its size and convenience. It works on Dolphin emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR).
+The RVZ format is recommended for its size and convenience. It works in Dolphin Emulator but not on real hardware.
+If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO. [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4)
 
 |**Myrient (Redump) (RVZ)**||
 | ------ | ------ |
@@ -83,12 +81,9 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 |**Internet Archive (Redump) (RVZ)**||
 | ------ | ------ |
-| Gamecube Redump RVZ (USA)* | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/) |
-| Gamecube Redump RVZ (EUR)* | [Download](https://archive.org/download/rvz-gc-europe-redump/RVZ-GC-EUROPE-REDUMP/) |
-| Gamecube Redump RVZ (Asia)* | [Download](https://archive.org/download/rvz-gc-asia-redump/RVZ-GC-ASIA-REDUMP/) |
-
-*Works on Dolphin emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR).
+| Gamecube Redump RVZ (USA) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/) |
+| Gamecube Redump RVZ (EUR) | [Download](https://archive.org/download/rvz-gc-europe-redump/RVZ-GC-EUROPE-REDUMP/) |
+| Gamecube Redump RVZ (Asia) | [Download](https://archive.org/download/rvz-gc-asia-redump/RVZ-GC-ASIA-REDUMP/) |
 
 |**Internet Archive (Redump) (ISO)**||
 | ------ | ------ |
@@ -102,14 +97,14 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## **Nintendo Wii**
 
-The RVZ format is recommended for its size and convenience. It works on Dolphin emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR).
+The RVZ format is recommended for its size and convenience. It works in Dolphin Emulator but not on real hardware.
+If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO. [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4)
 
 |**Myrient (Redump) (RVZ)**||
 | ------ | ------ |
 | Nintendo - Wii - NKit RVZ [zstd-19-128k] | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/) |
 
-|**Internet Archive (Redump) (RVZ)**|**Downloads**|
+|**Internet Archive (Redump) (RVZ)**||
 | ------ | ------ |
 | Wii RVZ (USA) Part 1 (# to E) | [Download](https://archive.org/download/wii_rvz_usa/wii_rvz_usa/) |
 | Wii RVZ (USA) Part 2 (F to M) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/) |
@@ -117,26 +112,20 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii RVZ (USA) Part 4 (T to Z) | [Download](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/) |
 
 
-|**Internet Archive (Redump) (NKit)**|**Downloads**|
+|**Internet Archive (Redump) (NKit)**||
 | ------ | ------ |
-| Wii Redump NKit Part 1** | [Download](https://archive.org/download/WiiRedumpNKitPart1) |
-| Wii Redump NKit Part 2** | [Download](https://archive.org/download/WiiRedumpNKitPart2) |
-| Wii Redump NKit Part 3** | [Download](https://archive.org/download/WiiRedumpNKitPart3) |
-| Wii Redump NKit Part 4** | [Download](https://archive.org/download/WiiRedumpNKitPart4) |
-| Wii Redump NKit Part 5** | [Download](https://archive.org/download/WiiRedumpNKitPart5) |
-| Wii Redump NKit Part 6** | [Download](https://archive.org/download/WiiRedumpNKitPart6) |
-| Wii Redump NKit Part 7** | [Download](https://archive.org/download/WiiRedumpNKitPart7) |
-| Wii Redump NKit Part 8** | [Download](https://archive.org/download/WiiRedumpNKitPart8) |
+| Wii Redump NKit Part 1 | [Download](https://archive.org/download/WiiRedumpNKitPart1) |
+| Wii Redump NKit Part 2 | [Download](https://archive.org/download/WiiRedumpNKitPart2) |
+| Wii Redump NKit Part 3 | [Download](https://archive.org/download/WiiRedumpNKitPart3) |
+| Wii Redump NKit Part 4 | [Download](https://archive.org/download/WiiRedumpNKitPart4) |
+| Wii Redump NKit Part 5 | [Download](https://archive.org/download/WiiRedumpNKitPart5) |
+| Wii Redump NKit Part 6 | [Download](https://archive.org/download/WiiRedumpNKitPart6) |
+| Wii Redump NKit Part 7 | [Download](https://archive.org/download/WiiRedumpNKitPart7) |
+| Wii Redump NKit Part 8 | [Download](https://archive.org/download/WiiRedumpNKitPart8) |
 
-**Works on Dolphin emulator but not on real hardware.
-If you are using real hardware, use [Nkit](https://archive.org/download/wii_rvz_usa_p4/tools/Nkit1.4_FullyLoaded_2021-12-01.zip) to convert the files to ISO.
-
-
-|**MarioCube**|**Downloads**|
-| ------ | ------ |
-| MarioCube Open Directory (WiiWare and Virtual Console) | [Download](https://repo.mariocube.com/WADs/_WiiWare,%20VC,%20DLC,%20Channels%20&%20IOS/) |
-| MarioCube Lite (WiiWare and Virtual Console) | [Download](https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/) |
-
+|**MarioCube**|Open Directory|Internet Archive|
+| ------ | ------ | ------ |
+| WiiWare and Virtual Console | [Download](https://repo.mariocube.com/WADs/_WiiWare,%20VC,%20DLC,%20Channels%20&%20IOS/) | [Download](https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/) |
 
 ## **Nintendo Wii U**
 
@@ -144,28 +133,32 @@ If you are using real hardware, use [Nkit](https://archive.org/download/wii_rvz_
 | ------ | ------ |
 | WiiUDownloader | [Download](https://github.com/Xpl0itU/WiiUDownloader/releases/latest) |
 
-Note that this is meant to be a replacement for Wii U USB Helper as it is more lightweight and supports Mac and Linux. If for whatever reason you would like to install legacy Wii U USB Helper you can follow [This Guide](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) to get it.
+Note: This is meant to be a replacement for Wii U USB Helper as it is more lightweight and supports Mac and Linux. If for whatever reason you want to install Wii U USB Helper, you can follow [this guide](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher).
 
 |**Myrient (No-Intro)**||
 | ------ | ------ |
-| Nintendo - Wii U (Digital) (CDN) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |
+| Nintendo - Wii U (Digital) (CDN)* | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |
 
-|**Internet Archive (NUS)**|**Downloads**|
+|**Internet Archive (NUS)**||
 | ------ | ------ |
-| Retail NUS (USA)*** | [Download](https://archive.org/download/wii-u-retail-nus-usa) |
-| Download NUS (USA)*** | [Download](https://archive.org/download/wii-u-download-nus-usa) |
+| Retail NUS (USA)* | [Download](https://archive.org/download/wii-u-retail-nus-usa) |
+| Download NUS (USA)* | [Download](https://archive.org/download/wii-u-download-nus-usa) |
 
-***To unpack the files for Cemu, use [CDecrypt 4.0](https://github.com/VitaSmith/cdecrypt/releases/latest).
-
-|**Internet Archive (NUS)**|**Downloads**|
+|**Internet Archive (NUS)**||
 | ------ | ------ |
-| TurboGrafx-16 NUS**** | [Download](https://archive.org/download/wii-u-turbografx16-nus) |
-| Wii NUS**** | [Download](https://archive.org/download/wii-u-wii-nus) |
-| Nintendo 64 NUS**** | [Download](https://archive.org/download/wii-u-nintendo-64-nus) |
-| NES & Famicom NUS**** | [Download](https://archive.org/download/wii-u-nes-fc-nus) |
-| Super Nintendo NUS**** | [Download](https://archive.org/download/wii-u-super-nintendo-snes-nus) |
-| Nintendo DS NUS**** | [Download](https://archive.org/download/wii-u-nintendo-ds-nds-nus) |
-| Gameboy Advance NUS**** | [Download](https://archive.org/download/wii-u-gameboy-advance-nus) |
-| Retail Game Disc NUS**** | [Download](https://archive.org/download/wii-u-retail-game-disc-nus-usa) |
+| TurboGrafx-16 NUS* | [Download](https://archive.org/download/wii-u-turbografx16-nus) |
+| Wii NUS* | [Download](https://archive.org/download/wii-u-wii-nus) |
+| Nintendo 64 NUS* | [Download](https://archive.org/download/wii-u-nintendo-64-nus) |
+| NES & Famicom NUS* | [Download](https://archive.org/download/wii-u-nes-fc-nus) |
+| Super Nintendo NUS* | [Download](https://archive.org/download/wii-u-super-nintendo-snes-nus) |
+| Nintendo DS NUS* | [Download](https://archive.org/download/wii-u-nintendo-ds-nds-nus) |
+| Gameboy Advance NUS* | [Download](https://archive.org/download/wii-u-gameboy-advance-nus) |
+| Retail Game Disc NUS* | [Download](https://archive.org/download/wii-u-retail-game-disc-nus-usa) |
 
-****These files are not ROMs themselves; they are CDN (content delivery network) contents of Virtual Console games on the Wii U. If you are looking for Retro ROMs, see the [Retro Games page](/megathread/retro).
+*To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
+
+|**Myrient (Redump)**||
+| ------ | ------ |
+| Nintendo - Wii U - WUX** | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20U%20-%20WUX/) |
+
+**Follow [this guide](https://myrient.erista.me/assets/wux.mp4) to learn how to convert WUX files to WUD.

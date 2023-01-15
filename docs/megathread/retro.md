@@ -67,8 +67,8 @@
 |**Internet Archive (Redump) (BIN/CUE)**||
 | ------ | ------ |
 | Atari Jaguar CD Interactive Multimedia System | [Download](https://archive.org/download/redump.jaguar.revival) |
-| Bandai - Pippin | [Download](https://archive.org/download/redump-bandai-pippin) |
-| Fujitsu - FM-Towns | [Download](https://archive.org/details/redump.fm.revival) |
+| Bandai - Pippin | [Download](https://archive.org/download/bandai_pippin) |
+| Fujitsu - FM-Towns | [Download](https://archive.org/download/redump.fm.revival) |
 | NEC - PC Engine CD & TurboGrafx CD | [Download](https://archive.org/download/redump.pce.revival) |
 | NEC - PC-FX & PC-FXGA | [Download](https://archive.org/download/redump.pcfx.revival) |
 | NEC - PC9800 | [Download](https://archive.org/download/redump.pc98.revival)

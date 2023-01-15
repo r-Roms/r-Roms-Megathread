@@ -1,17 +1,25 @@
-# Miscellaneous Tab
+# Miscellaneous
 
-## **Romsets**
+## **ROM Sets**
 
-|**Other**||
+|**Myrient**||
 | ------ | ------ |
-| Myrient (No-Intro) | [Download](https://myrient.erista.me/files/No-Intro/) |
-| Myrient (Redump) | [Download](https://myrient.erista.me/files/Redump/) |
-| Myrient FTP | [Details](https://myrient.erista.me/ftp/) |
-| Myrient rsync | [Details](https://myrient.erista.me/rsync/) |
+| No-Intro | [Download](https://myrient.erista.me/files/No-Intro/) |
+| Redump | [Download](https://myrient.erista.me/files/Redump/) |
+| TOSEC | [Download](https://myrient.erista.me/files/TOSEC/) |
+| TOSEC-PIX | [Download](https://myrient.erista.me/files/TOSEC-PIX/) |
+| FTP Access | [Details](https://myrient.erista.me/ftp/) |
+| rsync Access | [Details](https://myrient.erista.me/rsync/) |
+
+|**MOBASuite**||
+| ------ | ------ |
+| mobasuite.com repo | [Download](http://81.234.103.195/) |
+
+|**Internet Archive**||
+| ------ | ------ |
 | No-Intro Collection 2022 (Requires an account to download) | [Download](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) |
 | No-Intro Collection 2016-01-03 | [Download](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | No-Intro Source Code Sets | [Download](https://archive.org/download/ni-sc/ni-sc/) |
-| mobasuite.com repo | [Download](http://81.234.103.195/) |
 | GoodSets | [Download](https://archive.org/details/@gudset) |
 | TOSEC (2021-08-08) | [Download](https://archive.org/download/tosec-main-2021-08-08) |
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Download](https://archive.org/download/htgdb-gamepacks) |

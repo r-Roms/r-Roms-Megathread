@@ -19,7 +19,6 @@
 
 |**Other**||
 | ------ | ------ |
-| GOG Mirror (Tor)| [Download](https://goggamespc7v6z5e.onion/) |
 | GOG Mirror | [Download](https://freegogpcgames.com/) |
 | Ovagames | [Download](http://www.ovagames.com/) |
 | FitGirl Repacks | [Download](https://fitgirl-repacks.site/) |

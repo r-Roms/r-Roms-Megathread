@@ -1,6 +1,6 @@
 # SEGA Games
 
-Older systems can be found in the [Retro Games page](/megathread/retro)
+Older systems can be found in the [Retro Games page](/megathread/retro).
 
 ## **Sega Dreamcast**
 
@@ -26,7 +26,7 @@ Older systems can be found in the [Retro Games page](/megathread/retro)
 | ------ | ------ |
 | TiZ Homebrew Apps | [Download](https://mega.nz/#F!q7oxzDga!JfJulP8EX1-poB0nkgy2ZA) |
 
-Note: Not all Dreamcast emulators support BIN CUE. GDI is recommended to ensure that the game can run.
+Note: Not all Dreamcast emulators support the BIN/CUE format. The GDI format is recommended to ensure that the game can run.
 
 ## **Sega Saturn**
 

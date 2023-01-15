@@ -1,12 +1,19 @@
 # **Rom Center Markdown Edition 2023**
 
-- ##### Use the menu bar at the top to navigate the megathread.
-- ##### Retro games, Arcade games, and BIOS files can be found in the [Retro Games page](/megathread/retro).
-- ##### Popular games can be found in the [Popular Games page](/megathread/popular).
+- ### Use the menu bar at the top to navigate the megathread.
+- ### Retro games, Arcade games, and BIOS files can be found in the [Retro Games page](/megathread/retro).
+- ### Popular games can be found in the [Popular Games page](/megathread/popular).
 
 ## **About Locked Internet Archive Items**
-Internet Archive restricts items that generate a high amount of traffic from being able to be downloaded without an account. This is shown by a lock icon beside the file name in the item's file listing (example below). This means that you have to [register an archive.org account](https://archive.org/account/signup) to be able to download them.
+Internet Archive restricts items that generate a high amount of traffic from being able to be downloaded without an account to prevent abuse. This is shown with a lock icon beside the file name in the item's file listing.
+
 ![IALOCK](img/internetarchivelock.png)
+
+When accessing the file directly, the following error is shown instead.
+
+![IALOCKFILE](img/internetarchivelockfile.png)
+
+To download locked items, [register an archive.org account](https://archive.org/account/signup).
 
 ## **Additional Information**
 
@@ -17,6 +24,7 @@ No-Intro and Redump are groups that catalog hashes of dumped games for different
 **About Internet Archive Items**
 
 Internet Archive items will have metadata files that end in extensions such as `.xml` and `.sqlite`. These files are not important to download but are meant for the website to know what files to display and the reviews of the item.
+
 ![IAMETA](img/internetarchivemetadata.png)
 
 **About Internet Archive Torrents**
