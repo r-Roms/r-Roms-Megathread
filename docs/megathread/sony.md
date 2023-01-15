@@ -57,6 +57,7 @@
 | PS2 Redump (S Part 1) | [Download](https://archive.org/download/sony_playstation2_s_part1) |
 | PS2 Redump (S Part 2) | [Download](https://archive.org/download/sony_playstation2_s_part2) |
 | PS2 Redump (S Part 3) | [Download](https://archive.org/download/sony_playstation2_s_part3) |
+| PS2 Redump (S Part 4) | [Link](https://archive.org/download/sony_playstation2_s_part4) |
 | PS2 Redump (T) | [Download](https://archive.org/download/sony_playstation2_t) |
 | PS2 Redump (U) | [Download](https://archive.org/download/sony_playstation2_u) |
 | PS2 Redump (V) | [Download](https://archive.org/download/sony_playstation2_v) |
@@ -194,6 +195,8 @@
 | PS3 Games (T - Z) | [Download](https://archive.org/download/PS3_ALVRO_PART_11) |
 
 ## **Sony Playstation Vita**
+
+#### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS Vita games. Please only check the links below if you are looking for content NoPayStation does not have.
 
 |**Myrient (No-Intro)**||
 | ------ | ------ |

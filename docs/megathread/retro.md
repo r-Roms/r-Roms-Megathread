@@ -42,7 +42,8 @@
 | Nintendo - Game Boy | [Download](https://archive.org/download/nointro.gb) |
 | Nintendo - Nintendo 64 | [Download](https://archive.org/download/nointro.n64) |
 | Nintendo - Nintendo 64DD | [Download](https://archive.org/download/nointro.n64dd) |
-| Nintendo - Nintendo Entertainment System | [Download](https://archive.org/download/nointro.nes) |
+| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://archive.org/download/nointro.nes-headered) |
+| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://archive.org/download/nointro.nes) |
 | Nintendo - Pokémon Mini | [Download](http://archive.org/download/nointro.poke-mini) |
 | Nintendo - Super Nintendo Entertainment System | [Download](https://archive.org/download/nointro.snes) |
 | Nintendo - Virtual Boy | [Download](https://archive.org/download/nointro.vb) |
@@ -108,12 +109,12 @@
 
 |**Internet Archive (MAME)**||
 | ------ | ------ |
-| MAME 0.250 Software List ROMs Merged | [Download](https://archive.org/download/mame-sl/mame-sl/) |
-| MAME 0.250 CHDs Merged | [Download](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.250 ROMs Merged | [Download](https://archive.org/download/mame-merged/mame-merged/) |
-| MAME 0.250 BIOS Sets | [Download](https://archive.org/download/mame-merged/BIOS/) |
+| MAME 0.251 Software List ROMs Merged | [Download](https://archive.org/download/mame-sl/mame-sl/) |
+| MAME 0.251 CHDs Merged | [Download](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.251 ROMs Merged | [Download](https://archive.org/download/mame-merged/mame-merged/) |
+| MAME 0.251 BIOS Sets | [Download](https://archive.org/download/mame-merged/BIOS/) |
 | HBMAME 0.244 ROMs Merged | [Download](https://archive.org/download/hbmame_0244_roms) |
-| MAME 0.250 ROMs + CHDs + EXTRAs [Guide](https://archive.org/details/mame-chds-roms-extras-complete) | [Download](https://archive.org/download/mame-chds-roms-extras-complete) |
+| MAME 0.251 ROMs + CHDs + EXTRAs [Guide](https://archive.org/details/mame-chds-roms-extras-complete) | [Download](https://archive.org/download/mame-chds-roms-extras-complete) |
 | MAME Support Files | [Download](https://archive.org/download/mame-support/Support/) |
 
 Other sets can be downloaded via torrent from [PleasureDome](https://pleasuredome.github.io/pleasuredome/).

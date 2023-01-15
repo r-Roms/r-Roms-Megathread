@@ -24,7 +24,6 @@
 | No-Intro Nintendo DS (Decrypted) (2021-06-27) | [Download](https://archive.org/download/no-ndsdec2021) |
 | No-Intro Nintendo DS (Download Play) (2022-07-07) | [Download](https://archive.org/details/no-intro-nintendo-nintendo-ds-download-play_202207) |
 | No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Download](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
-| No-Intro Nintendo DSi (Digital) | [Download](https://archive.org/download/nintendo-dsi/Nintendo%20DSi%20%28Digital%29/) |
 
 ## **Nintendo 3DS**
 
@@ -111,7 +110,6 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii RVZ (USA) Part 3 (N to S) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/) |
 | Wii RVZ (USA) Part 4 (T to Z) | [Download](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/) |
 
-
 |**Internet Archive (Redump) (NKit)**||
 | ------ | ------ |
 | Wii Redump NKit Part 1 | [Download](https://archive.org/download/WiiRedumpNKitPart1) |
@@ -122,6 +120,8 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii Redump NKit Part 6 | [Download](https://archive.org/download/WiiRedumpNKitPart6) |
 | Wii Redump NKit Part 7 | [Download](https://archive.org/download/WiiRedumpNKitPart7) |
 | Wii Redump NKit Part 8 | [Download](https://archive.org/download/WiiRedumpNKitPart8) |
+
+[NKit Fully Loaded](https://archive.org/compress/NKitFullyLoaded2020429) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
 
 |**MarioCube**|Open Directory|Internet Archive|
 | ------ | ------ | ------ |
@@ -159,6 +159,6 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 
 |**Myrient (Redump)**||
 | ------ | ------ |
-| Nintendo - Wii U - WUX** | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20U%20-%20WUX/) |
+| Nintendo - Wii U - WUX*** | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20U%20-%20WUX/) |
 
 **Follow [this guide](https://myrient.erista.me/assets/wux.mp4) to learn how to convert WUX files to WUD.
