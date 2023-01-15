@@ -132,16 +132,19 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 If you are using real hardware, use [Nkit](https://archive.org/download/wii_rvz_usa_p4/tools/Nkit1.4_FullyLoaded_2021-12-01.zip) to convert the files to ISO.
 
 
-|**Google Drive**||
+|**MarioCube**|**Downloads**|
 | ------ | ------ |
-| MarioCube (WiiWare and Virtual Console)| [Download](https://drive.google.com/drive/folders/1ZpX5Nh4BNzWDvpXJJuqVlX2Qz7xpwpVU) |
+| MarioCube Open Directory (WiiWare and Virtual Console) | [Download](https://repo.mariocube.com/WADs/_WiiWare,%20VC,%20DLC,%20Channels%20&%20IOS/) |
+| MarioCube Lite (WiiWare and Virtual Console) | [Download](https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/) |
 
 
 ## **Nintendo Wii U**
 
-|**Wii U USB Helper (NUS)**||
+|**WiiUDownloader (NUS)**||
 | ------ | ------ |
-| Wii U USB Helper | [Download](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) (Note: to use files with cemu emulator, check the checkbox that says `Unpack`) |
+| WiiUDownloader | [Download](https://github.com/Xpl0itU/WiiUDownloader/releases/latest) |
+
+Note that this is meant to be a replacement for Wii U USB Helper as it is more lightweight and supports Mac and Linux. If for whatever reason you would like to install legacy Wii U USB Helper you can follow [This Guide](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher) to get it.
 
 |**Myrient (No-Intro)**||
 | ------ | ------ |
@@ -152,7 +155,7 @@ If you are using real hardware, use [Nkit](https://archive.org/download/wii_rvz_
 | Retail NUS (USA)*** | [Download](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA)*** | [Download](https://archive.org/download/wii-u-download-nus-usa) |
 
-***To unpack the files for Cemu, use [CDecrypt v3.0](https://github.com/phacoxcll/cdecrypt/releases/tag/v3.0) or [CDecrypt v4.0](https://github.com/VitaSmith/cdecrypt/releases/latest) for Linux/macOS support or if you lack the common keys.
+***To unpack the files for Cemu, use [CDecrypt 4.0](https://github.com/VitaSmith/cdecrypt/releases/latest).
 
 |**Internet Archive (NUS)**|**Downloads**|
 | ------ | ------ |

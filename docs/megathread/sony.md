@@ -113,11 +113,6 @@
 | PS2 Redump .iso Japan (L-R) | [Download](https://archive.org/download/ps2japanredump3) |
 | PS2 Redump .iso Japan (S-U) | [Download](https://archive.org/download/httpsarchive.orgdetailsps2japanredump4) |
 | PS2 Redump .iso Japan (V-Z) | [Download](https://archive.org/download/ps2japanredump5) |
-<!---
-| Redump PS2 Japan Part 1 | [Download](https://archive.org/download/redump-ps2-jpn) |
-| Redump PS2 Japan Part 2 | [Download](https://archive.org/download/redump-ps2-jpn-part2) |
-| Redump PS2 Japan Part 3 | [Download](https://archive.org/download/redump-ps2-jpn-part3) |
--->
 
 ## **Sony Playstation Portable**
 
