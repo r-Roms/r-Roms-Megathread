@@ -42,8 +42,8 @@
 | Nintendo - Game Boy | [Download](https://archive.org/download/nointro.gb) |
 | Nintendo - Nintendo 64 | [Download](https://archive.org/download/nointro.n64) |
 | Nintendo - Nintendo 64DD | [Download](https://archive.org/download/nointro.n64dd) |
-| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://archive.org/download/nointro.nes-headered) |
-| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://archive.org/download/nointro.nes) |
+| Nintendo - Nintendo Entertainment System (Headered) | [Download](https://archive.org/download/nointro.nes-headered) |
+| Nintendo - Nintendo Entertainment System (Headerless) | [Download](https://archive.org/download/nointro.nes) |
 | Nintendo - Pokémon Mini | [Download](http://archive.org/download/nointro.poke-mini) |
 | Nintendo - Super Nintendo Entertainment System | [Download](https://archive.org/download/nointro.snes) |
 | Nintendo - Virtual Boy | [Download](https://archive.org/download/nointro.vb) |

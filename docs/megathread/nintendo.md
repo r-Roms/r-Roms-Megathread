@@ -159,6 +159,6 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 
 |**Myrient (Redump)**||
 | ------ | ------ |
-| Nintendo - Wii U - WUX*** | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20U%20-%20WUX/) |
+| Nintendo - Wii U - WUX** | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20U%20-%20WUX/) |
 
 **Follow [this guide](https://myrient.erista.me/assets/wux.mp4) to learn how to convert WUX files to WUD.
