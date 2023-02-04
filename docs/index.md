@@ -19,7 +19,7 @@ To download locked items, [register an archive.org account](https://archive.org/
 
 **About "No-Intro" and "Redump"**
 
-No-Intro and Redump are groups that catalog hashes of dumped games for different systems. If a link has "No-Intro" or "Redump" in the name, it is a collection of known good dumps for the system. These should be your go-to links if what you are looking for is not in the [Popular Games page](/megathread/popular).
+No-Intro and Redump are groups that catalog hashes of dumped games for different systems. If a link has "No-Intro" or "Redump" in the name, it is a collection of the currently best-available ROMs for the system. These should be your go-to links if what you are looking for is not in the [Popular Games page](/megathread/popular).
 
 **About Internet Archive Items**
 
