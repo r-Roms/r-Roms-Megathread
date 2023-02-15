@@ -7,6 +7,7 @@
 | No-Intro | [Download](https://myrient.erista.me/files/No-Intro/) |
 | Redump | [Download](https://myrient.erista.me/files/Redump/) |
 | TOSEC | [Download](https://myrient.erista.me/files/TOSEC/) |
+| TOSEC-ISO | [Download](https://myrient.erista.me/files/TOSEC-ISO/) |
 | TOSEC-PIX | [Download](https://myrient.erista.me/files/TOSEC-PIX/) |
 | FTP Access | [Details](https://myrient.erista.me/ftp/) |
 | rsync Access | [Details](https://myrient.erista.me/rsync/) |
