@@ -135,6 +135,11 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 Note: This is meant to be a replacement for Wii U USB Helper as it is more lightweight and supports Mac and Linux. If for whatever reason you want to install Wii U USB Helper, you can follow [this guide](https://wiki.agilly1989.xyz/books/wiiu/page/usbhelper-usbhelperlauncher).
 
+|**Internet Archive (WUA)**||
+| ------ | ------ |
+| Nintendo - Wii U Disc .WUA (USA) | [Link](https://archive.org/download/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates) |
+| Nintendo - Wii U eShop .WUA (USA) | [Link](https://archive.org/download/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates) |
+
 |**Myrient (No-Intro)**||
 | ------ | ------ |
 | Nintendo - Wii U (Digital) (CDN)* | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |

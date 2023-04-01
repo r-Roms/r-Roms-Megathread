@@ -210,5 +210,7 @@
 
 |**Internet Archive**||
 | ------ | ------ |
+| Sony - PlayStation Vita Games (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format) |
+| Sony - PlayStation Vita DLC & Updates (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates) |
 | PSVITA VPK | [Link](https://archive.org/download/PSVITA_VPK) |
 | PSVITA MAIDUMP | [Link](https://archive.org/download/PSVITA_MAIDUMP)
