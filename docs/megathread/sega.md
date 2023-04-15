@@ -11,7 +11,7 @@ Older systems can be found in the [Retro Games page](/megathread/retro).
 |**Internet Archive**||
 | ------ | ------ |
 | Redump Sega Dreamcast .cue/.bin | [Link](https://archive.org/download/redump.dc.revival) |
-| Redump Sega Dreamcast .chd | [Link](https://archive.org/download/chd_dc/CHD-DC/) |
+| Redump Sega Dreamcast .chd | [Link](https://archive.org/download/chd_dc/CHD-Dreamcast/) |
 | Dreamcast Uploaded by Ghostware | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
 | Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
 | TOSEC Dreamcast USA GDI | [Link](https://archive.org/download/tosecdcus20190822) |

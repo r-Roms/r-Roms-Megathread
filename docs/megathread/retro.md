@@ -5,7 +5,7 @@
 | Atari - 2600 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%202600/) |
 | Atari - 5200 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%205200/) |
 | Atari - 7800 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%207800/) |
-| NEC - PC Engine - TurboGrafx 16 | [Link](https://myrient.erista.me/files/No-Intro/NEC%20-%20PC%20Engine%20-%20TurboGrafx%2016/) |
+| NEC - PC Engine - TurboGrafx 16 | [Link](https://myrient.erista.me/files/No-Intro/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16/) |
 | Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) |
 | Nintendo - Family Computer Disk System (FDSStickRAW) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDSStickRAW)/) |
 | Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) |
