@@ -22,7 +22,7 @@
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | No-Intro Source Code Sets | [Link](https://archive.org/download/ni-sc/ni-sc/) |
 | GoodSets | [Link](https://archive.org/details/@gudset) |
-| TOSEC (2023-01-23) | [Link](hhttps://archive.org/download/tosec-main) |
+| TOSEC (2023-01-23) | [Link](https://archive.org/download/tosec-main) |
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
