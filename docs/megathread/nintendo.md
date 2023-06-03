@@ -121,6 +121,12 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii Redump NKit Part 7 | [Link](https://archive.org/download/WiiRedumpNKitPart7) |
 | Wii Redump NKit Part 8 | [Link](https://archive.org/download/WiiRedumpNKitPart8) |
 
+|**Internet Archive (WBFS)**||
+| ------ | ------ |
+| Ghostware Wii Rom Set Part 1 | [Link](https://archive.org/download/WiiRomSetByGhostware) |
+| Ghostware Wii Rom Set Part 2 | [Link](https://archive.org/download/WiiRomSetByGhostwarePart2) |
+| Ghostware Wii Rom Set Part 3 | [Link](https://archive.org/download/WiiRomSetByGhostwarePart3) |
+
 [NKit Fully Loaded](https://archive.org/compress/NKitFullyLoaded2020429) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
 
 |**MarioCube**|Open Directory|Internet Archive|
