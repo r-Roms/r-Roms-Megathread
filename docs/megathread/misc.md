@@ -14,7 +14,7 @@
 
 |**MOBASuite**||
 | ------ | ------ |
-| mobasuite.com repo | [Link](http://90.230.96.228/) |
+| mobasuite.com repo | [Link](http://90.230.15.34/) |
 
 |**Internet Archive**||
 | ------ | ------ |
