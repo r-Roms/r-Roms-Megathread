@@ -35,11 +35,15 @@
 | ------ | ------ |
 | Nintendo - Nintendo 3DS (Decrypted) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/) |
 | Nintendo - Nintendo 3DS (Encrypted) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/) |
-| Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Updates%20and%20DLC)%20(Decrypted)/) |
-| Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Updates%20and%20DLC)%20(Encrypted)/) |
 | Nintendo - New Nintendo 3DS (Decrypted) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Decrypted)/) |
 | Nintendo - New Nintendo 3DS (Encrypted) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Encrypted)/) |
+| Nintendo - Nintendo 3DS (Digital) (Depreciated) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Deprecated)/) |
 | Nintendo - New Nintendo 3DS (Digital) (Deprecated) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20New%20Nintendo%203DS%20(Digital)%20(Deprecated)/) |
+| Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Decrypted) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Updates%20and%20DLC)%20(Decrypted)/) |
+| Unofficial - Nintendo - Nintendo 3DS (Digital) (Updates and DLC) (Encrypted) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Updates%20and%20DLC)%20(Encrypted)/) |
+| Nintendo - Nintendo 3DS (Digital) (CDN) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Digital)%20(CDN)/) |
+| Nintendo - Nintendo 3DS (Digital) (Dev ROMs) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Dev%20ROMs)/) |
+| Nintendo - Nintendo 3DS (Digital) (Pre-Install) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Digital)%20(Pre-Install)/) |
 
 |**Internet Archive (No-Intro)**||
 | ------ | ------ |
