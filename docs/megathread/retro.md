@@ -38,7 +38,7 @@
 | Nintendo - Family Computer Disk System | [Link](http://archive.org/download/nointro.fds) |
 | Nintendo - Game Boy Advance (Multiboot) | [Link](https://archive.org/download/nointro.gba-multiboot) |
 | Nintendo - Game Boy Advance | [Link](https://archive.org/download/nointro.gba) |
-| Nintendo - Game Boy Color | [Link](https://archive.org/download/nointro.gbc) |
+| Nintendo - Game Boy Color | [Link](https://archive.org/download/nointro.gbc-1) |
 | Nintendo - Game Boy | [Link](https://archive.org/download/nointro.gb) |
 | Nintendo - Nintendo 64 | [Link](https://archive.org/download/nointro.n64) |
 | Nintendo - Nintendo 64DD | [Link](https://archive.org/download/nointro.n64dd) |
