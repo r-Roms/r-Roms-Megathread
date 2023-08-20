@@ -3,7 +3,7 @@ site_url: https://r-Roms.github.io
 extra_css:
   - css/extra.css
 theme:
-  name: cinder
+  name: darkly
 nav:
   - Home: index.md
   - Popular: megathread/popular.md
