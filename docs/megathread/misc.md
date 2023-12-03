@@ -18,11 +18,11 @@
 
 |**Internet Archive**||
 | ------ | ------ |
-| No-Intro Collection 2022 (Requires an account to download) | [Link](https://archive.org/download/no-intro_romsets/no-intro%20romsets/) |
+| No-Intro Collection 2023 | [Link](https://archive.org/details/ni-romsets) |
 | No-Intro Collection 2016-01-03 | [Link](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) |
 | No-Intro Source Code Sets | [Link](https://archive.org/download/ni-sc/ni-sc/) |
 | GoodSets | [Link](https://archive.org/details/@gudset) |
-| TOSEC (2023-01-23) | [Link](https://archive.org/download/tosec-main) |
+| TOSEC (2023-07-10) | [Link](https://archive.org/download/tosec-main) |
 | Hardware Target Game Database (Everdrive & MiSTerFPGA) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
 | English Translated ROMs | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
@@ -71,6 +71,6 @@
 
 |**Internet Archive**||
 | ------ | ------ |
-| RetroArch BIOS| [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
+| RetroArch BIOS | [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 | Redump BIOS | [Link](https://archive.org/download/2019_11_25_redump_bios) |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |
