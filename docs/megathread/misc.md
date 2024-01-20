@@ -56,6 +56,14 @@
 | Hasbro VideoNow XP | [Link](https://archive.org/download/hasbro_videonow_xp) |
 | Photo CD | [Link](https://archive.org/download/redump.photo.revival) |
 
+## **Safe Sites**
+
+|**Safe Sites**||
+| ------ | ------ |
+| Vimm's Lair | [Link](https://vimm.net/?p=vault) |
+| edge emulation | [Link](https://edgeemu.net/) |
+| CDRomance | [Link](https://cdromance.com/) |
+
 ## **BIOS Files**
 
 |**Myrient (Redump)**||
