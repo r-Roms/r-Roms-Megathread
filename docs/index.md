@@ -1,7 +1,8 @@
 # **Rom Center Markdown Edition 2023**
 
 - ### Use the menu bar at the top to navigate the megathread.
-- ### Retro games, Arcade games, and BIOS files can be found in the [Retro Games page](/megathread/retro).
+- ### Retro games and Arcade games can be found in the [Retro Games page](/megathread/retro).
+- ### BIOS files can be found in the [Miscellaneous page](/megathread/misc)
 - ### Popular games can be found in the [Popular Games page](/megathread/popular).
 
 ## **About Locked Internet Archive Items**
