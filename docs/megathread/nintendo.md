@@ -60,7 +60,7 @@ If Citra says the ROM is encrypted, use [Batch CIA-3DS Decryptor](https://gbatem
 
 If you would like to get a proper No-Intro hash from the converted file, use [this script](https://archive.org/download/pkmn_collection/3DS%20%2B%20CIA%20Rom%20Script.rar).
 
-Or, add the following AES keys to Citra from [here](https://pastebin.com/vRy8c6JP). ([backup link](https://web.archive.org/https://pastebin.com/tBY6RHh4))
+Or, add the following AES keys to Citra from [here](https://pastebin.com/vRy8c6JP). ([backup link](https://web.archive.org/web/20230118022720/https://pastebin.com/tBY6RHh4))
 Click download on Pastebin to download the text in the file as a TXT. Then, follow the installation instructions below for your OS.
 
 **Windows Installation Instructions**
