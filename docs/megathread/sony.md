@@ -123,10 +123,15 @@
 
 |**Internet Archive**||
 | ------ | ------ |
-| Redump PSP ISO Part 1 | [Link](https://archive.org/download/redump.psp) |
-| Redump PSP ISO Part 2 | [Link](https://archive.org/download/redump.psp.p2) |
+| PSP Redump .iso (Part 1) | [Link](https://archive.org/download/sony_playstation_portable_part1) |
+| PSP Redump .iso (Part 2) | [Link](https://archive.org/download/sony_playstation_portable_part2) |
+| PSP Redump .iso (Part 3) | [Link](https://archive.org/download/sony_playstation_portable_part3) |
+| PSP Redump .iso (Part 4) | [Link](https://archive.org/download/sony_playstation_portable_part4) |
+| PSP Redump .chd (Part 1) | [Link](https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/) |
+| PSP Redump .chd (Part 2) | [Link](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/) |
 | PSP DLC (Alvro Files) | [Link](https://archive.org/download/PSP_DLC) |
 | PSP DLC | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
+| PSP No-Intro DLC | [Link](https://archive.org/download/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) |
 
 |**1fichier**||
 | ------ | ------ |

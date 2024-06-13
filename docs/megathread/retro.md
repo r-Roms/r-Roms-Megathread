@@ -109,10 +109,10 @@
 
 |**Internet Archive (MAME)**||
 | ------ | ------ |
-| MAME 0.261 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
-| MAME 0.261 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
-| MAME 0.261 ROMs Merged | [Link](https://archive.org/download/mame-merged/mame-merged/) |
-| MAME 0.261 BIOS Sets | [Link](https://archive.org/download/mame-merged/BIOS/) |
+| MAME 0.266 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
+| MAME 0.266 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
+| MAME 0.265 ROMs Merged | [Link](https://archive.org/download/mame-merged/mame-merged/) |
+| MAME 0.265 BIOS Sets | [Link](https://archive.org/download/mame-merged/BIOS/) |
 | HBMAME 0.244 ROMs Merged | [Link](https://archive.org/download/hbmame_0244_roms) |
 | MAME 0.258 ROMs + CHDs + EXTRAs [Guide](https://archive.org/details/mame-chds-roms-extras-complete) | [Link](https://archive.org/download/mame-chds-roms-extras-complete) |
 | MAME Support Files | [Link](https://archive.org/download/mame-support/Support/) |
