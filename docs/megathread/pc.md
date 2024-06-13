@@ -15,7 +15,7 @@
 
 |**GoodOldDownloads**||
 | ------ | ------ |
-| GoodOldDownloads | [Link](https://gog-games.com) |
+| GoodOldDownloads | [Link](https://gog-games.to/) |
 
 |**Other**||
 | ------ | ------ |
