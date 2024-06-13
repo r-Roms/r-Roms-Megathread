@@ -9,13 +9,6 @@
 | ------ | ------ |
 | Sony - PlayStation | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/) |
 
-|**Internet Archive (Redump) (BIN/CUE)**||
-| ------ | ------ |
-| PS1 Redump .cue/.bin Part 1 | [Link](https://archive.org/download/redump.psx) |
-| PS1 Redump .cue/.bin Part 2 | [Link](https://archive.org/download/redump.psx.p2) |
-| PS1 Redump .cue/.bin Part 3 | [Link](https://archive.org/download/redump.psx.p3) |
-| PS1 Redump .cue/.bin Part 4 | [Link](https://archive.org/download/redump.psx.p4) |
-
 |**Internet Archive (Redump) (CHD)**||
 | ------ | ------ |
 | PS1 Redump .chd USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
