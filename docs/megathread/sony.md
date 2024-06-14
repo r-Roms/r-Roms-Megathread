@@ -180,6 +180,10 @@
 | ------ | ------ |
 | Sony - PlayStation 3 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/) |
 
+**Redump PS3 ISO Decryption Instructions**
+
+Redump PS3 ISOs must be decrypted for use with RPCS3, see [this site](https://consolemods.org/wiki/PS3:Decrypting_PS3_ISOs) for decryption methods.
+
 |**Internet Archive (Alvro)**||
 | ------ | ------ |
 | PS3 Games (# - C) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |
