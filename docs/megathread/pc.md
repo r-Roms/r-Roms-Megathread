@@ -21,8 +21,6 @@
 | ------ | ------ |
 | GOG Mirror | [Link](https://freegogpcgames.com/) |
 | Ovagames | [Link](http://www.ovagames.com/) |
-| FitGirl Repacks | [Link](https://fitgirl-repacks.site/) |
-| /r/PiratedGames Megathread | [Link](https://rentry.org/pgames-mega-thread) |
 | Doom WADs | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
 
 |**Myrient (Redump)**||
