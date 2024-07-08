@@ -12,9 +12,9 @@
 | FTP Access | [Details](https://myrient.erista.me/ftp/) |
 | rsync Access | [Details](https://myrient.erista.me/rsync/) |
 
-|**MOBASuite**||
+|**MOBASuite / LoLSuite**||
 | ------ | ------ |
-| mobasuite.com repo | [Link](http://90.230.15.34/) |
+| mobasuite.com/lolsuite.org repo | [Link](http://78.72.143.223/index.php) |
 
 |**Internet Archive**||
 | ------ | ------ |
