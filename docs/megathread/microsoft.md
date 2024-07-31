@@ -38,10 +38,10 @@
 | Xbox Redump (T Part 2) | [Link](https://archive.org/download/microsoft_xbox_t_part2) |
 | Xbox Redump (U) | [Link](https://archive.org/download/microsoft_xbox_u) |
 | Xbox Redump (V) | [Link](https://archive.org/download/microsoft_xbox_v) |
-| Xbox Redump (V) | [Link](https://archive.org/download/microsoft_xbox_w) |
-| Xbox Redump (V) | [Link](https://archive.org/download/microsoft_xbox_x) |
-| Xbox Redump (V) | [Link](https://archive.org/download/microsoft_xbox_y) |
-| Xbox Redump (V) | [Link](https://archive.org/download/microsoft_xbox_z) |
+| Xbox Redump (W) | [Link](https://archive.org/download/microsoft_xbox_w) |
+| Xbox Redump (X) | [Link](https://archive.org/download/microsoft_xbox_x) |
+| Xbox Redump (Y) | [Link](https://archive.org/download/microsoft_xbox_y) |
+| Xbox Redump (Z) | [Link](https://archive.org/download/microsoft_xbox_z) |
 
 ## Microsoft Xbox 360
 
