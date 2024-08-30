@@ -8,17 +8,40 @@
 
 |**Internet Archive (Redump)**||
 | ------ | ------ |
-| Xbox Redump (0-C) | [Link](https://archive.org/download/xboxrepo0-Calt) |
-| Xbox Redump (D-F) | [Link](https://archive.org/download/xboxrepoD-F) |
-| Xbox Redump (G-L) | [Link](https://archive.org/download/xboxrepoG-L) |
-| Xbox Redump (M Part 1) | [Link](https://archive.org/download/x-rM22020) |
-| Xbox Redump (M Part 2) | [Link](https://archive.org/download/x-rM12020) |
-| Xbox Redump (N Part 1) | [Link](https://archive.org/download/x-rN12020) |
-| Xbox Redump (N Part 2) | [Link](https://archive.org/download/x-rN22020) |
-| Xbox Redump (O) | [Link](https://archive.org/download/x-rO2020) |
-| Xbox Redump (P-Q) | [Link](https://archive.org/download/x-rP2020) |
-| Xbox Redump (R-S) | [Link](https://archive.org/download/xboxrepoR-S) |
-| Xbox Redump (T-Z) | [Link](https://archive.org/download/xboxrepoT-Z) |
+| Microsoft Xbox - # - Redump.org | [Link](https://archive.org/download/microsoft_xbox_numberssymbols) |
+| Microsoft Xbox - A - Redump.org | [Link](https://archive.org/download/microsoft_xbox_a) |
+| Microsoft Xbox - B - Redump.org | [Link](https://archive.org/download/microsoft_xbox_b) |
+| Microsoft Xbox - C (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_c_part1) |
+| Microsoft Xbox - C (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_c_part2) |
+| Microsoft Xbox - D (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_d_part1) |
+| Microsoft Xbox - D (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_d_part2) |
+| Microsoft Xbox - E - Redump.org | [Link](https://archive.org/download/microsoft_xbox_e) |
+| Microsoft Xbox - F - Redump.org | [Link](https://archive.org/download/microsoft_xbox_f) |
+| Microsoft Xbox - G - Redump.org | [Link](https://archive.org/download/microsoft_xbox_g) |
+| Microsoft Xbox - H - Redump.org | [Link](https://archive.org/download/microsoft_xbox_h) |
+| Microsoft Xbox - I - Redump.org | [Link](https://archive.org/download/microsoft_xbox_i) |
+| Microsoft Xbox - J - Redump.org | [Link](https://archive.org/download/microsoft_xbox_j) |
+| Microsoft Xbox - K - Redump.org | [Link](https://archive.org/download/microsoft_xbox_k) |
+| Microsoft Xbox - L - Redump.org | [Link](https://archive.org/download/microsoft_xbox_l) |
+| Microsoft Xbox - M (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_m_part1) |
+| Microsoft Xbox - M (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_m_part2) |
+| Microsoft Xbox - N (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_n_part1) |
+| Microsoft Xbox - N (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_n_part2) |
+| Microsoft Xbox - O (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_o_part1) |
+| Microsoft Xbox - O (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_o_part2) |
+| Microsoft Xbox - P - Redump.org | [Link](https://archive.org/download/microsoft_xbox_p) |
+| Microsoft Xbox - Q - Redump.org | [Link](https://archive.org/download/microsoft_xbox_q) |
+| Microsoft Xbox - R - Redump.org | [Link](https://archive.org/download/microsoft_xbox_r) |
+| Microsoft Xbox - S (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_s_part1) |
+| Microsoft Xbox - S (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_s_part2) |
+| Microsoft Xbox - T (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_t_part1) |
+| Microsoft Xbox - T (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox_t_part2) |
+| Microsoft Xbox - U - Redump.org | [Link](https://archive.org/download/microsoft_xbox_u) |
+| Microsoft Xbox - V - Redump.org | [Link](https://archive.org/download/microsoft_xbox_v) |
+| Microsoft Xbox - W - Redump.org | [Link](https://archive.org/download/microsoft_xbox_w) |
+| Microsoft Xbox - X - Redump.org | [Link](https://archive.org/download/microsoft_xbox_x) |
+| Microsoft Xbox - Y - Redump.org | [Link](https://archive.org/download/microsoft_xbox_y) |
+| Microsoft Xbox - Z - Redump.org | [Link](https://archive.org/download/microsoft_xbox_z) |
 
 ## Microsoft Xbox 360
 
@@ -78,6 +101,10 @@
 | Microsoft Xbox 360 - Digital (Part 1) | [Link](https://archive.org/download/microsoft_xbox360_digital_part1) |
 | Microsoft Xbox 360 - Digital (Part 2) | [Link](https://archive.org/download/microsoft_xbox360_digital_part2) |
 | Microsoft Xbox 360 - Digital (Part 3) | [Link](https://archive.org/download/microsoft_xbox360_digital_part3) |
+| Microsoft Xbox 360 - Digital (Part 4) | [Link](https://archive.org/download/microsoft_xbox360_digital_part4) |
+| Microsoft Xbox 360 - Digital (Part 5) | [Link](https://archive.org/download/microsoft_xbox360_digital_part5) |
+| Microsoft Xbox 360 - Digital (Part 6) | [Link](https://archive.org/download/microsoft_xbox360_digital_part6) |
+| Microsoft Xbox 360 - Digital (Part 7) | [Link](https://archive.org/download/microsoft_xbox360_digital_part7) |
 
 |**Internet Archive (Alvro)**||
 | ------ | ------ |
@@ -101,6 +128,6 @@
 | Xbox 360 XBLA | [Link](https://archive.org/download/XBOX_360_XBLA) |
 | Xbox 360 XBLA DLC | [Link](https://archive.org/download/XBOX_360_XBLA_DLC) |
 
-|**Internet Archive (Misc)**||
+|**Internet Archive (Miscellaneous)**||
 | ------ | ------ |
 | Rock Band DLC Collection | [Link](https://archive.org/download/rock-band-dlc-complete-collection-xbox-360-by-americo) |

@@ -61,14 +61,14 @@
 
 |**Internet Archive (Redump) (USA)**||
 | ------ | ------ |
-| PS2 Redump .iso USA (2018-08-01) Part 1 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
+| PS2 Redump .iso USA (2018-08-01) Part 1 | *Unavailable* |
 | PS2 Redump .iso USA (2018-08-01) Part 2 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2) |
 | PS2 Redump .iso USA (2018-08-01) Part 3 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part3) |
 | PS2 Redump .iso USA (2018-08-01) Part 4 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part4) |
 | PS2 Redump .iso USA (2018-08-01) Part 5 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaOther2018Aug01) |
 | PS2 Redump USA Part 1 | [Link](https://archive.org/download/ps2usaredump1) |
 | PS2 Redump USA Part 2 | [Link](https://archive.org/download/ps2usaredump1_20200816_1458) |
-| PS2 Redump USA Part 3 | [Link](https://archive.org/download/httpsarchive.orgdetailsps2usaredump3) |
+| PS2 Redump USA Part 3 | *Unavailable* |
 
 |**Internet Archive (Redump) (EUR)**||
 | ------ | ------ |
@@ -126,7 +126,7 @@
 | PSP DLC | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
 | PSP No-Intro DLC | [Link](https://archive.org/download/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) |
 
-|**1fichier**||
+|**1Fichier**||
 | ------ | ------ |
 | PSP PSN | [Link](https://1fichier.com/dir/SAtw4wRm) |
 

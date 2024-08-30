@@ -20,9 +20,9 @@
 |**Internet Archive (No-Intro)**|| 
 | ------ | ------ |
 | Nintendo DS Anti-Piracy Fixed ROMs | [Link](https://archive.org/download/nds_apfix/apfix/) |
+| No-Intro Nintendo DS Decrypted ROMs 0001-6308 + x001-x193 + xB01-xB03 + z001-z183 | [Link](https://archive.org/download/no-intro-nintendo-ds-decrypted-roms-0001-6308-x-001-x-193-x-b-01-x-b-03-z-001-z-183/No-Intro%20Nintendo%20DS%20Decrypted%20ROMs%200001-6308%20%2B%20x001-x193%20%2B%20xB01-xB03%20%2B%20z001-z183/) |
 | No-Intro Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
-| No-Intro Nintendo DS (Decrypted) (2021-06-27) | [Link](https://archive.org/download/no-ndsdec2021) |
-| No-Intro Nintendo DS (Download Play) (2022-07-07) | [Link](https://archive.org/details/no-intro-nintendo-nintendo-ds-download-play_202207) |
+| No-Intro Nintendo DS (Download Play) (2022-07-07) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-download-play_202207) |
 | No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Link](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
 
 ## **Nintendo 3DS**
@@ -60,12 +60,11 @@ If Citra says the ROM is encrypted, use [Batch CIA-3DS Decryptor](https://gbatem
 
 If you would like to get a proper No-Intro hash from the converted file, use [this script](https://archive.org/download/pkmn_collection/3DS%20%2B%20CIA%20Rom%20Script.rar).
 
-Or, add the following AES keys to Citra from [here](https://pastebin.com/vRy8c6JP). ([backup link](https://web.archive.org/web/20230118022720/https://pastebin.com/tBY6RHh4))
-Click download on Pastebin to download the text in the file as a TXT. Then, follow the installation instructions below for your OS.
+Or, add the following AES keys to Citra from [here](https://pastebin.com/vRy8c6JP) or [here](https://web.archive.org/web/20220707222654/https://pastebin.com/tBY6RHh4). Click download on Pastebin to download the text in the file as a TXT. Then, follow the installation instructions below for your OS.
 
 **Windows Installation Instructions**
 
-Add the downloaded Pastebin TXT file to `C:/Users/<your_user_name>/AppData/Roaming/Citra/sysdata` and make sure it is named `aes_keys.txt`.
+Add the downloaded Pastebin TXT file to `C:/Users/<your user name>/AppData/Roaming/Citra/sysdata` and make sure it is named `aes_keys.txt`.
 
 **Linux or MacOS Installation Instructions**
 
@@ -75,8 +74,7 @@ For more information, refer to the [Citra Wiki](https://citra-emu.org/wiki/user-
 
 ## **Nintendo GameCube**
 
-The RVZ format is recommended for its size and convenience. It works in Dolphin Emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO. [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4)
+The RVZ format is recommended for its size and convenience. It also helps save bandwidth for both you and the website hosting the files when downloading. It works in Dolphin Emulator but not on real hardware. If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4).
 
 |**Myrient (Redump) (RVZ)**||
 | ------ | ------ |
@@ -100,8 +98,7 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## **Nintendo Wii**
 
-The RVZ format is recommended for its size and convenience. It works in Dolphin Emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO. [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4)
+The RVZ format is recommended for its size and convenience. It also helps save bandwidth for both you and the website hosting the files when downloading. It works in Dolphin Emulator but not on real hardware. If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4).
 
 |**Myrient (Redump) (RVZ)**||
 | ------ | ------ |
@@ -113,17 +110,6 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Wii RVZ (USA) Part 2 (F to M) | [Link](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/) |
 | Wii RVZ (USA) Part 3 (N to S) | [Link](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/) |
 | Wii RVZ (USA) Part 4 (T to Z) | [Link](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/) |
-
-|**Internet Archive (Redump) (NKit)**||
-| ------ | ------ |
-| Wii Redump NKit Part 1 | [Link](https://archive.org/download/WiiRedumpNKitPart1) |
-| Wii Redump NKit Part 2 | [Link](https://archive.org/download/WiiRedumpNKitPart2) |
-| Wii Redump NKit Part 3 | [Link](https://archive.org/download/WiiRedumpNKitPart3) |
-| Wii Redump NKit Part 4 | [Link](https://archive.org/download/WiiRedumpNKitPart4) |
-| Wii Redump NKit Part 5 | [Link](https://archive.org/download/WiiRedumpNKitPart5) |
-| Wii Redump NKit Part 6 | [Link](https://archive.org/download/WiiRedumpNKitPart6) |
-| Wii Redump NKit Part 7 | [Link](https://archive.org/download/WiiRedumpNKitPart7) |
-| Wii Redump NKit Part 8 | [Link](https://archive.org/download/WiiRedumpNKitPart8) |
 
 |**Internet Archive (WBFS)**||
 | ------ | ------ |
@@ -154,10 +140,14 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 | ------ | ------ |
 | Nintendo - Wii U (Digital) (CDN)* | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |
 
+*To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
+
 |**Internet Archive (NUS)**||
 | ------ | ------ |
 | Retail NUS (USA)* | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
 | Download NUS (USA)* | [Link](https://archive.org/download/wii-u-download-nus-usa) |
+
+*To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
 
 |**Internet Archive (NUS)**||
 | ------ | ------ |

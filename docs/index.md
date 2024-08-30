@@ -1,47 +1,49 @@
-# **Rom Center Markdown Edition 2023**
+# **r/ROMs Megathread**
+- ### Use the menu bar at the top to navigate this megathread.
+- ROMs of popular games can be found in the [Popular Games page](/megathread/popular/).
+- ROMs of games for Nintendo systems can be found in the [Nintendo Games page](/megathread/nintendo/).
+- ROMs of games for Sony systems can be found in the [Sony Games page](/megathread/sony/).
+- ROMs of games for Microsoft systems can be found in the [Microsoft Games page](/megathread/microsoft/).
+- ROMs of games for Sega systems can be found in the [Sega Games page](/megathread/sega/).
+- ROMs of retro and arcade games can be found in the [Retro & Arcade Games page](/megathread/retro).
+- PC games can be found in the [PC Games page](/megathread/pc/).
+- BIOS files can be found in the [Miscellaneous page](/megathread/misc).
 
-- ### Use the menu bar at the top to navigate the megathread.
-- ### Retro games and Arcade games can be found in the [Retro Games page](/megathread/retro).
-- ### BIOS files can be found in the [Miscellaneous page](/megathread/misc)
-- ### Popular games can be found in the [Popular Games page](/megathread/popular).
+## **Donate to Myrient and/or the Internet Archive**
+This megathread comprises of aggregated links hosted at [Myrient](https://myrient.erista.me) and the [Internet Archive](https://archive.org). Without the support of users like you, this megathread would have much less content available for download.
 
-## **About Locked Internet Archive Items**
+Please consider making a donation to Myrient [here](https://myrient.erista.me/donate/) and/or to the Internet Archive [here](https://archive.org/donate).
+
+## **Additional Information**
+### **"No-Intro" and "Redump"**
+No-Intro and Redump are groups that catalog hashes of dumped games for many systems. If "No-Intro" or "Redump" is present in the name of a group of links, it is a collection of the currently best-available ROMs for the system.
+
+### **Locked Internet Archive Items**
 Internet Archive restricts items that generate a high amount of traffic from being able to be downloaded without an account to prevent abuse. This is shown with a lock icon beside the file name in the item's file listing.
 
 ![IALOCK](img/internetarchivelock.png)
 
-When accessing the file directly, the following error is shown instead.
+When accessing the file directly, the following error is shown.
 
 ![IALOCKFILE](img/internetarchivelockfile.png)
 
-To download locked items, [register an archive.org account](https://archive.org/account/signup).
+To download locked items, [register an Internet Archive account](https://archive.org/account/signup).
 
-## **Additional Information**
-
-**About "No-Intro" and "Redump"**
-
-No-Intro and Redump are groups that catalog hashes of dumped games for different systems. If a link has "No-Intro" or "Redump" in the name, it is a collection of the currently best-available ROMs for the system. These should be your go-to links if what you are looking for is not in the [Popular Games page](/megathread/popular).
-
-**About Internet Archive Items**
-
-Internet Archive items will have metadata files that end in extensions such as `.xml` and `.sqlite`. These files are not important to download but are meant for the website to know what files to display and the reviews of the item.
+### **Internet Archive Metadata**
+Internet Archive items have metadata files that end in extensions such as `.xml` and `.sqlite`. These files are not important to download but are meant for the website to know what files to display and the reviews of the item.
 
 ![IAMETA](img/internetarchivemetadata.png)
 
-**About Internet Archive Torrents**
+### **Internet Archive Torrents**
+Some Internet Archive items contain torrent files as another download method. However, the torrent's file listing is usually incomplete compared to what is listed on the website. For this reason, it is recommended to use direct downloads with a download manager instead of torrents.
 
-Some Internet Archive items will contain torrent files to provide another download method. However, the torrent's files listing is usually incomplete compared to what is listed on the website. For this reason, it is recommended to use direct downloads with a download manager instead of torrents.
+### **Archive File Types (ZIP, 7z, RAR)**
+ZIP, 7z, and RAR are archive file types which means they must be extracted. 7-Zip is recommended for extracting these files. Download and install it [here](https://www.7-zip.org/) and run it. Then, open the archive file in 7-Zip or right click on it and go to `7-Zip -> Extract Files`.
 
-**About Archive Files (ZIP, 7z, RAR):**
+## **Blocking Ads with uBlock Origin**
+uBlock Origin is recommended when accessing certain links on this megathread and the Internet in general. It blocks ads, trackers,and much more.
 
-These files are not ROMs themselves; to use them, you must extract them. 7-Zip is recommended for extracting these files. Download and install it [here](https://www.7-zip.org/) and run it. Then, open the archive file in 7-Zip or right click on it and go to `7-Zip -> Extract Files`.
-
-## **About uBlock Origin**
-
-While not required anymore due to megaup links being removed, uBlock Origin is recommended when accessing certain links on this megathread and the Internet in general. It blocks ads, trackers,and much more.
-
-Below are links to download and install it for popular web browsers.
-
+Below are links to download and install it for certain web browsers.
 |**Store Name**|**Links**|
 | ------ | ------ |
 | Chrome Web Store | [Link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) |
@@ -50,20 +52,17 @@ Below are links to download and install it for popular web browsers.
 
 For Android: Download Firefox from the Play Store, locate the Addons menu and select uBlock Origin. Add it to Firefox and remember to only use Firefox to download ROMs.
 
-## **How to Bypass Download Limits**
+## **Bypassing Download Limits**
+### **Google Drive**
+From time to time when trying to download a file, you may see an error message saying “Download quota exceeded, so you can’t download this file at this time”. The steps to bypass the download quota limit are as follows:
 
-**Google Drive**
-
-From time to time when trying to download a file, you may see an error message saying “Download quota exceeded, so you can’t download this file at this time”. Here are steps to bypass the download quota limit:
-
-1. Log into your Google account, if you haven’t already.
+1. Sign in to your Google account or create one, if you have not already.
 2. Open Google Drive and go to “My Drive” in the sidebar.
-3. Make a new folder in your drive. It doesn’t matter what you name it.
-4. Go to the quota'd folder, right click on whatever you want to download, and click “Add Shortcut to Drive”.
+3. Make a new folder. It does not matter what you name it.
+4. Go to the quota'd folder, right click on the file you want to download, and click “Add Shortcut to Drive”.
 5. Navigate to “My Drive” and then to the folder you made, and click “Add Shortcut”.
 6. Go to “My Drive” on the sidebar. Right-click the folder you made and click “Download”.
-7. A .zip file with the file(s) you selected will start downloading.
+7. A .zip file with the file(s) you selected starts downloading.
 
-**MEGA and 1Fichier**
-
-MEGA and 1Fichier have pretty serious data caps and unlike Google Drive, there is no easy way to get around them. To bypass the MEGA and 1Fichier download limits, you will need either a VPN or a list of proxies. For the VPN, connect to it and you are good to go. For a list of proxies, you will have to use some 3rd party tool like [JDownloader2](https://jdownloader.org/jdownloader2) and give it the list of proxies. Do note that this process is fairly advanced. After that, you can start downloading by feeding JDownloader2 links to the files you would like to download.
+### **MEGA**
+MEGA has a 5 GB download limit every 24 hours. To bypass MEGA's download limits, you will need either a VPN or a list of proxies. If you are using a VPN, simply connect to it. If you are using a list of proxies, download [MegaBasterd](https://github.com/tonikelope/megabasterd) and configure it with the list of proxies.
