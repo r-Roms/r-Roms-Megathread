@@ -4,7 +4,7 @@ Older systems can be found in the [Retro Games page](/megathread/retro).
 
 ## **Sega Dreamcast**
 
-|**Myrient (Redump BIN/CUE)**||
+|**Myrient (Redump BIN/CUE) (Fast)**||
 | ------ | ------ |
 | Sega - Dreamcast | [Link](https://myrient.erista.me/files/Redump/Sega%20-%20Dreamcast/) |
 
@@ -12,7 +12,7 @@ Older systems can be found in the [Retro Games page](/megathread/retro).
 | ------ | ------ |
 | Redump Sega Dreamcast .cue/.bin | [Link](https://archive.org/download/sega_dreamcast) |
 | Redump Sega Dreamcast .chd | [Link](https://archive.org/download/dc-chd-zstd-redump/dc-chd-zstd/) |
-| Dreamcast Uploaded by Ghostware | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
+| Dreamcast Collection By Ghostware Multi-region | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
 | Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
 | TOSEC Dreamcast USA GDI | [Link](https://archive.org/download/tosecdcus20190822) |
 | TOSEC Dreamcast EUR GDI | [Link](https://archive.org/download/18wheeleramericanprotruckerv1.7002001segapalm4) |
@@ -26,7 +26,7 @@ Note: Not all Dreamcast emulators support the BIN/CUE format. The GDI format is 
 
 ## **Sega Saturn**
 
-|**Myrient (Redump BIN/CUE)**||
+|**Myrient (Redump BIN/CUE) (Fast)**||
 | ------ | ------ |
 | Sega - Saturn | [Link](https://myrient.erista.me/files/Redump/Sega%20-%20Saturn/) |
 
@@ -40,7 +40,7 @@ Note: Not all Dreamcast emulators support the BIN/CUE format. The GDI format is 
 
 ## **Sega CD**
 
-|**Myrient (Redump BIN/CUE)**||
+|**Myrient (Redump BIN/CUE) (Fast)**||
 | ------ | ------ |
 | Sega - Mega CD & Sega CD | [Link](https://myrient.erista.me/files/Redump/Sega%20-%20Mega%20CD%20&%20Sega%20CD/) |
 

@@ -1,83 +1,45 @@
 # Retro Games
 
-|**Myrient (No-Intro)**||
-| ------ | ------ |
-| Atari - 2600 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%202600/) |
-| Atari - 5200 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%205200/) |
-| Atari - 7800 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%207800/) |
-| NEC - PC Engine - TurboGrafx 16 | [Link](https://myrient.erista.me/files/No-Intro/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16/) |
-| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) |
-| Nintendo - Family Computer Disk System (FDSStickRAW) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDSStickRAW)/) |
-| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) |
-| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) |
-| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) |
-| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) |
-| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) |
-| Nintendo - Game Boy Color | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/) |
-| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) |
-| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) |
-| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) |
-| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) |
-| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) |
-| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) |
-| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) |
-| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) |
-| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) |
-| Sega - 32X | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%2032X/) |
-| Sega - Game Gear | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/) |
-| Sega - Master System - Mark III | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/) |
-| Sega - Mega Drive - Genesis | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/) |
+|**No-Intro**|**Myrient (Fast)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Atari - 2600 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%202600/) | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-2600) |
+| Atari - 5200 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%205200/) | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-5200) |
+| Atari - 7800 | [Link](https://myrient.erista.me/files/No-Intro/Atari%20-%207800/) | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%207800.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-7800) |
+| NEC - PC Engine - TurboGrafx 16 | [Link](https://myrient.erista.me/files/No-Intro/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16/) | [Link](https://archive.org/download/ni-roms/roms/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16.zip/) [(Alt Link)](https://archive.org/download/nointro.tg-16) |
+| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28FDS%29.zip/) [(Alt Link)](https://archive.org/download/nointro.fds) |
+| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28QD%29.zip/) |
+| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance.zip/) [(Alt Link)](https://archive.org/download/nointro.gba) |
+| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Multiboot%29.zip/) [(Alt Link)](https://archive.org/download/nointro.gba-multiboot) |
+| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Video%29.zip/) |
+| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28e-Reader%29.zip/) |
+| Nintendo - Game Boy Color | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Color.zip/) [(Alt Link)](https://archive.org/download/nointro.gbc-1) |
+| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.gb) |
+| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29.zip/) [(Alt Link)](https://archive.org/download/nointro.n64) |
+| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28ByteSwapped%29.zip/) |
+| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064DD.zip/) [(Alt Link)](https://archive.org/download/nointro.n64dd) |
+| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes-headered) |
+| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Unheadered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes) |
+| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Pokemon%20Mini.zip/) [(Alt Link)](https://archive.org/download/nointro.poke-mini) |
+| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip/) [(Alt Link)](https://archive.org/download/nointro.snes) |
+| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Virtual%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.vb) |
+| Sega - 32X | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%2032X/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%2032X.zip/) [(Alt Link)](https://archive.org/download/nointro.32x) |
+| Sega - Game Gear | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Game%20Gear.zip/) [(Alt Link)](https://archive.org/download/nointro.gg) |
+| Sega - Master System - Mark III | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Master%20System%20-%20Mark%20III.zip/) [(Alt Link)](https://archive.org/download/nointro.ms-mkiii) |
+| Sega - Mega Drive - Genesis | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/) [(Alt Link)](https://archive.org/download/nointro.md) |
 
+|**Redump (BIN/CUE)**|**Myrient (Fast)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Atari - Jaguar CD Interactive Multimedia System | [Link](https://myrient.erista.me/files/Redump/Atari%20-%20Jaguar%20CD%20Interactive%20Multimedia%20System/) | [Link](https://archive.org/download/atari_jaguar-cd) |
+| Bandai - Pippin | [Link](https://myrient.erista.me/files/Redump/Bandai%20-%20Pippin/) | [Link](https://archive.org/download/bandai_pippin) |
+| Fujitsu - FM-Towns | [Link](https://myrient.erista.me/files/Redump/Fujitsu%20-%20FM-Towns/) | [Link](https://archive.org/download/fujitsu_fm_towns_series) |
+| NEC - PC Engine CD & TurboGrafx CD | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC%20Engine%20CD%20&%20TurboGrafx%20CD/) | [Link](https://archive.org/download/nec_pc-engine-cd_turbografx-cd) |
+| NEC - PC-FX & PC-FXGA | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC-FX%20&%20PC-FXGA/) | [Link](https://archive.org/download/nec_pc-fxpc_fxga) |
+| NEC - PC-98 series | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC-98%20series/) | [Link](https://archive.org/download/nec_pc-98_series)
+| Panasonic - 3DO Interactive Multiplayer | [Link](https://myrient.erista.me/files/Redump/Panasonic%20-%203DO%20Interactive%20Multiplayer/) | [Link](https://archive.org/download/panasonic_3do_interactive_multiplayer) |
+| Philips - CD-i | [Link](https://myrient.erista.me/files/Redump/Philips%20-%20CD-i/) | [Link](https://archive.org/download/philips_cd-i) |
+| SNK - Neo Geo CD | [Link](https://myrient.erista.me/files/Redump/SNK%20-%20Neo%20Geo%20CD/) | [Link](https://archive.org/download/snk_neo_geo) |
 
-|**Internet Archive (No-Intro)**||
-| ------ | ------ |
-| Atari - 2600 | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-2600) |
-| Atari - 5200 | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%202600.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-5200) |
-| Atari - 7800 | [Link](https://archive.org/download/ni-roms/roms/Atari%20-%207800.zip/) [(Alt Link)](https://archive.org/download/nointro.atari-7800) |
-| NEC - PC Engine - TurboGrafx 16 | [Link](https://archive.org/download/ni-roms/roms/NEC%20-%20PC%20Engine%20-%20TurboGrafx-16.zip/) [(Alt Link)](https://archive.org/download/nointro.tg-16) |
-| Nintendo - Family Computer Disk System | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28FDS%29.zip/) [(Alt Link)](https://archive.org/download/nointro.fds) |
-| Nintendo - Game Boy Advance (Multiboot) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Multiboot%29.zip/) [(Alt Link)](https://archive.org/download/nointro.gba-multiboot) |
-| Nintendo - Game Boy Advance | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance.zip/) [(Alt Link)](https://archive.org/download/nointro.gba) |
-| Nintendo - Game Boy Color | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Color.zip/) [(Alt Link)](https://archive.org/download/nointro.gbc-1) |
-| Nintendo - Game Boy | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.gb) |
-| Nintendo - Nintendo 64 | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29.zip/) [(Alt Link)](https://archive.org/download/nointro.n64) |
-| Nintendo - Nintendo 64DD | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064DD.zip/) [(Alt Link)](https://archive.org/download/nointro.n64dd) |
-| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes-headered) |
-| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Unheadered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes) |
-| Nintendo - Pokémon Mini | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Pokemon%20Mini.zip/) [(Alt Link)](https://archive.org/download/nointro.poke-mini) |
-| Nintendo - Super Nintendo Entertainment System | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip/) [(Alt Link)](https://archive.org/download/nointro.snes) |
-| Nintendo - Virtual Boy | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Virtual%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.vb) |
-| Nintendo - e-Reader | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28e-Reader%29.zip/) [(Alt Link)](https://archive.org/download/nointro.e-reader) |
-| Sega - 32X | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%2032X.zip/) [(Alt Link)](https://archive.org/download/nointro.32x) |
-| Sega - Game Gear | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Game%20Gear.zip/) [(Alt Link)](https://archive.org/download/nointro.gg) |
-| Sega - Master System - Mark III | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Master%20System%20-%20Mark%20III.zip/) [(Alt Link)](https://archive.org/download/nointro.ms-mkiii) |
-| Sega - Mega Drive - Genesis | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/) [(Alt Link)](https://archive.org/download/nointro.md) |
-
-|**Myrient (Redump) (BIN/CUE)**||
-| ------ | ------ |
-| Atari - Jaguar CD Interactive Multimedia System | [Link](https://myrient.erista.me/files/Redump/Atari%20-%20Jaguar%20CD%20Interactive%20Multimedia%20System/) |
-| Bandai - Pippin | [Link](https://myrient.erista.me/files/Redump/Bandai%20-%20Pippin/) |
-| Fujitsu - FM-Towns | [Link](https://myrient.erista.me/files/Redump/Fujitsu%20-%20FM-Towns/) |
-| NEC - PC Engine CD & TurboGrafx CD | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC%20Engine%20CD%20&%20TurboGrafx%20CD/) |
-| NEC - PC-FX & PC-FXGA | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC-FX%20&%20PC-FXGA/) |
-| NEC - PC-98 series | [Link](https://myrient.erista.me/files/Redump/NEC%20-%20PC-98%20series/) |
-| Panasonic - 3DO Interactive Multiplayer | [Link](https://myrient.erista.me/files/Redump/Panasonic%20-%203DO%20Interactive%20Multiplayer/) |
-| Philips - CD-i | [Link](https://myrient.erista.me/files/Redump/Philips%20-%20CD-i/) |
-| SNK - Neo Geo CD | [Link](https://myrient.erista.me/files/Redump/SNK%20-%20Neo%20Geo%20CD/) |
-
-|**Internet Archive (Redump) (BIN/CUE)**||
-| ------ | ------ |
-| Atari Jaguar CD Interactive Multimedia System | [Link](https://archive.org/download/atari_jaguar-cd) |
-| Bandai - Pippin | [Link](https://archive.org/download/bandai_pippin) |
-| Fujitsu - FM-Towns | [Link](https://archive.org/download/fujitsu_fm_towns_series) |
-| NEC - PC Engine CD & TurboGrafx CD | [Link](https://archive.org/download/nec_pc-engine-cd_turbografx-cd) |
-| NEC - PC-FX & PC-FXGA | [Link](https://archive.org/download/nec_pc-fxpc_fxga) |
-| NEC - PC9800 | [Link](https://archive.org/download/nec_pc-98_series)
-| Panasonic - 3DO Interactive Multiplayer | [Link](https://archive.org/download/panasonic_3do_interactive_multiplayer) |
-| Philips - CD-i | [Link](https://archive.org/download/philips_cd-i) |
-| SNK - Neo Geo CD | [Link](https://archive.org/download/snk_neo_geo) |
-
-|**Internet Archive (Redump) (CHD)**||
+|**Redump (CHD)**|**Internet Archive**|
 | ------ | ------ |
 | Atari Jaguar | [Link](https://archive.org/download/jagcd-chd-zstd/jagcd-chd-zstd/) |
 | PC Engine CD - TurboGrafx CD | [Link](https://archive.org/download/pcecd-chd-zstd-redump) |
@@ -86,39 +48,23 @@
 
 ## **Arcade**
 
-|**Myrient (Redump)**||
-| ------ | ------ |
-| Arcade - Konami - FireBeat | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20FireBeat/) |
-| Arcade - Konami - M2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20M2/) |
-| Arcade - Konami - System 573 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20System%20573/) |
-| Arcade - Konami - System GV | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20System%20GV/) |
-| Arcade - Konami - e-Amusement | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20e-Amusement/) |
-| Arcade - Namco - Sega - Nintendo - Triforce | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Namco%20-%20Sega%20-%20Nintendo%20-%20Triforce/) |
-| Arcade - Namco - System 246 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Namco%20-%20System%20246/) |
-| Arcade - Sega - Chihiro | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Chihiro/) |
-| Arcade - Sega - Lindbergh | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Lindbergh/) |
-| Arcade - Sega - Naomi | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Naomi/) |
-| Arcade - Sega - Naomi 2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Naomi%202/) |
-| Arcade - Sega - RingEdge | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20RingEdge/) |
-| Arcade - Sega - RingEdge 2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20RingEdge%202/) |
+|**Redump**|**Myrient (Fast)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Arcade - Konami - FireBeat | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20FireBeat/) | [Link](https://archive.org/download/konami_firebeat) |
+| Arcade - Konami - M2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20M2/) | [Link](https://archive.org/download/konami_m2) |
+| Arcade - Konami - System 573 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20System%20573/) | [Link](https://archive.org/download/konami_system_573) |
+| Arcade - Konami - System GV | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20System%20GV/) | [Link](https://archive.org/download/konami_system_gv) |
+| Arcade - Konami - e-Amusement | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Konami%20-%20e-Amusement/) | [Link](https://archive.org/download/konami_e-amusement) |
+| Arcade - Namco - Sega - Nintendo - Triforce | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Namco%20-%20Sega%20-%20Nintendo%20-%20Triforce/) | [Link](https://archive.org/download/namco_sega_nintendo_triforce) |
+| Arcade - Namco - System 246 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Namco%20-%20System%20246/) | [Link](https://archive.org/download/namco_system_246) |
+| Arcade - Sega - Chihiro | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Chihiro/) | [Link](https://archive.org/download/sega_chihiro) |
+| Arcade - Sega - Lindbergh | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Lindbergh/) | [Link](https://archive.org/download/sega_lindbergh) |
+| Arcade - Sega - Naomi | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Naomi/) | [Link](https://archive.org/download/sega_naomi) |
+| Arcade - Sega - Naomi 2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20Naomi%202/) | [Link](https://archive.org/download/sega_naomi_2) |
+| Arcade - Sega - RingEdge | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20RingEdge/) | [Link](https://archive.org/download/sega_ringedge) |
+| Arcade - Sega - RingEdge 2 | [Link](https://myrient.erista.me/files/Redump/Arcade%20-%20Sega%20-%20RingEdge%202/) | [Link](https://archive.org/download/sega_ringedge_2) |
 
-|**Internet Archive (Redump)**||
-| ------ | ------ |
-| Konami Firebeat | [Link](https://archive.org/download/konami_firebeat) |
-| Arcade - Konami - M2 | [Link](https://archive.org/download/konami_m2) |
-| Arcade - Konami - System 573 | [Link](https://archive.org/download/konami_system_573) |
-| Arcade - Konami - System GV | [Link](https://archive.org/download/konami_system_gv) |
-| Arcade - Konami - e-Amusement | [Link](https://archive.org/download/konami_e-amusement) |
-| Arcade - Namco - Sega - Nintendo - Triforce | [Link](https://archive.org/download/namco_sega_nintendo_triforce) |
-| Arcade - Namco - System 246 | [Link](https://archive.org/download/namco_system_246) |
-| Sega - Sega Chihiro | [Link](https://archive.org/download/sega_chihiro) |
-| Arcade - Sega - Lindbergh | [Link](https://archive.org/download/sega_lindbergh) |
-| Sega - Sega Naomi | [Link](https://archive.org/download/sega_naomi) |
-| Sega - Sega Naomi2 | [Link](https://archive.org/download/sega_naomi_2) |
-| Arcade - Sega - RingEdge | [Link](https://archive.org/download/sega_ringedge) |
-| Arcade - Sega - RingEdge 2 | [Link](https://archive.org/download/sega_ringedge_2) |
-
-|**Internet Archive (MAME)**||
+|**MAME**|**Internet Archive**|
 | ------ | ------ |
 | MAME 0.266 Software List ROMs Merged | [Link](https://archive.org/download/mame-sl/mame-sl/) |
 | MAME 0.266 CHDs Merged | [Link](https://archive.org/download/MAME_0.225_CHDs_merged) |
@@ -130,7 +76,7 @@
 
 Other sets can be downloaded via torrent from [PleasureDome](https://pleasuredome.github.io/pleasuredome/).
 
-|**Internet Archive (FinalBurn Neo)**||
+|**FinalBurn Neo**|**Internet Archive**|
 | ------ | ------ |
 | FinalBurn Neo Nightly ROMs + Support (Updated Monthly) | [Link](https://archive.org/download/2020_01_06_fbn/) |
 | FinalBurn Neo 1.0.0.2 ROMs + Support | [Link](https://archive.org/download/fbneo/) |

@@ -2,7 +2,7 @@
 
 ## Microsoft Xbox
 
-|**Myrient (Redump)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Microsoft - Xbox | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox/) |
 
@@ -45,7 +45,7 @@
 
 ## Microsoft Xbox 360
 
-|**Myrient (Redump)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Microsoft - Xbox 360 | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/) |
 
@@ -77,7 +77,7 @@
 | Microsoft Xbox 360 - O - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_o) |
 | Microsoft Xbox 360 - P - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_p) |
 | Microsoft Xbox 360 - Q - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_q) |
-| Microsoft Xbox 360 - R - Redump.org [WIP] | [Link](https://archive.org/download/microsoft_xbox360_r) |
+| Microsoft Xbox 360 - R - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_r) |
 | Microsoft Xbox 360 - S (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_s_part1) |
 | Microsoft Xbox 360 - S (Part 2) - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_s_part2) |
 | Microsoft Xbox 360 - T (Part 1) - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_t_part1) |
@@ -90,7 +90,7 @@
 | Microsoft Xbox 360 - Y - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_y) |
 | Microsoft Xbox 360 - Z - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_z) |
 
-|**Myrient (No-Intro)**||
+|**Myrient (No-Intro) (Fast)**||
 | ------ | ------ |
 | Unofficial - Microsoft - Xbox 360 (Title Updates) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Microsoft%20-%20Xbox%20360%20(Title%20Updates)/) |
 | Microsoft - Xbox 360 (Digital) | [Link](https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20360%20(Digital)/) |
@@ -130,4 +130,4 @@
 
 |**Internet Archive (Miscellaneous)**||
 | ------ | ------ |
-| Rock Band DLC Collection | [Link](https://archive.org/download/rock-band-dlc-complete-collection-xbox-360-by-americo) |
+| Rock Band DLC Complete Collection Xbox 360 by Americo | [Link](https://archive.org/download/rock-band-dlc-complete-collection-xbox-360-by-americo) |
