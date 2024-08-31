@@ -7,10 +7,10 @@ theme:
 nav:
   - Home: index.md
   - Popular: megathread/popular.md
-  - Microsoft: megathread/microsoft.md
-  - Misc: megathread/misc.md
   - Nintendo: megathread/nintendo.md
-  - PC: megathread/pc.md
-  - Retro: megathread/retro.md
-  - Sega: megathread/sega.md
   - Sony: megathread/sony.md
+  - Microsoft: megathread/microsoft.md
+  - Sega: megathread/sega.md
+  - Retro & Arcade: megathread/retro.md
+  - PC: megathread/pc.md
+  - Miscellaneous: megathread/misc.md

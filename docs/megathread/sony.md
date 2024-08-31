@@ -5,9 +5,17 @@
 
 ## **Sony Playstation**
 
-|**Myrient (Redump) (BIN/CUE)**||
+|**Myrient (Redump) (BIN/CUE) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/) |
+
+|**Internet Archive (Redump)**||
+| ------ | ------ |
+| Sony PlayStation (Part 1: #-D) - Redump.org | [Link](https://archive.org/download/sony_playstation_part1) |
+| Sony PlayStation (Part 2: E-I) - Redump.org | [Link](https://archive.org/download/sony_playstation_part2) |
+| Sony PlayStation (Part 3: J-N) - Redump.org | [Link](https://archive.org/download/sony_playstation_part3) |
+| Sony PlayStation (Part 4: O-S) - Redump.org | [Link](https://archive.org/download/sony_playstation_part4) |
+| Sony PlayStation (Part 5: T-Z) - Redump.org | [Link](https://archive.org/download/sony_playstation_part5) |
 
 |**Internet Archive (Redump) (CHD)**||
 | ------ | ------ |
@@ -19,98 +27,49 @@
 
 ## **Sony Playstation 2**
 
-|**Myrient (Redump)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation 2 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/) |
 
 |**Internet Archive (Redump)**||
 | ------ | ------ |
-| PS2 Redump (#) | [Link](https://archive.org/download/sony_playstation2_numberssymbols) |
-| PS2 Redump (A) | [Link](https://archive.org/download/sony_playstation2_a) |
-| PS2 Redump (B) | [Link](https://archive.org/download/sony_playstation2_b) |
-| PS2 Redump (C) | [Link](https://archive.org/download/sony_playstation2_c) |
-| PS2 Redump (D Part 1) | [Link](https://archive.org/download/sony_playstation2_d_part1) |
-| PS2 Redump (D Part 2) | [Link](https://archive.org/download/sony_playstation2_d_part2) |
-| PS2 Redump (E) | [Link](https://archive.org/download/sony_playstation2_e) |
-| PS2 Redump (F) | [Link](https://archive.org/download/sony_playstation2_f) |
-| PS2 Redump (G) | [Link](https://archive.org/download/sony_playstation2_g) |
-| PS2 Redump (H) | [Link](https://archive.org/download/sony_playstation2_h) |
-| PS2 Redump (I) | [Link](https://archive.org/download/sony_playstation2_i) |
-| PS2 Redump (J) | [Link](https://archive.org/download/sony_playstation2_j) |
-| PS2 Redump (K) | [Link](https://archive.org/download/sony_playstation2_k) |
-| PS2 Redump (L) | [Link](https://archive.org/download/sony_playstation2_l) |
-| PS2 Redump (M Part 1) | [Link](https://archive.org/download/sony_playstation2_m_part1) |
-| PS2 Redump (M Part 2) | [Link](https://archive.org/download/sony_playstation2_m_part2) |
-| PS2 Redump (N) | [Link](https://archive.org/download/sony_playstation2_n) |
-| PS2 Redump (O Part 1) | [Link](https://archive.org/download/sony_playstation2_o_part1) |
-| PS2 Redump (O Part 2) | [Link](https://archive.org/download/sony_playstation2_o_part2) |
-| PS2 Redump (P) | [Link](https://archive.org/download/sony_playstation2_p) |
-| PS2 Redump (Q) | [Link](https://archive.org/download/sony_playstation2_q) |
-| PS2 Redump (R) | [Link](https://archive.org/download/sony_playstation2_r) |
-| PS2 Redump (S Part 1) | [Link](https://archive.org/download/sony_playstation2_s_part1) |
-| PS2 Redump (S Part 2) | [Link](https://archive.org/download/sony_playstation2_s_part2) |
-| PS2 Redump (S Part 3) | [Link](https://archive.org/download/sony_playstation2_s_part3) |
-| PS2 Redump (S Part 4) | [Link](https://archive.org/download/sony_playstation2_s_part4) |
-| PS2 Redump (T) | [Link](https://archive.org/download/sony_playstation2_t) |
-| PS2 Redump (U) | [Link](https://archive.org/download/sony_playstation2_u) |
-| PS2 Redump (V) | [Link](https://archive.org/download/sony_playstation2_v) |
-| PS2 Redump (W) | [Link](https://archive.org/download/sony_playstation2_w) |
-| PS2 Redump (X) | [Link](https://archive.org/download/sony_playstation2_x) |
-| PS2 Redump (Y) | [Link](https://archive.org/download/sony_playstation2_y) |
-| PS2 Redump (Z) | [Link](https://archive.org/download/sony_playstation2_z) |
-
-|**Internet Archive (Redump) (USA)**||
-| ------ | ------ |
-| PS2 Redump .iso USA (2018-08-01) Part 1 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01) |
-| PS2 Redump .iso USA (2018-08-01) Part 2 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2) |
-| PS2 Redump .iso USA (2018-08-01) Part 3 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part3) |
-| PS2 Redump .iso USA (2018-08-01) Part 4 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part4) |
-| PS2 Redump .iso USA (2018-08-01) Part 5 | [Link](https://archive.org/download/redumpSonyPlaystation2UsaOther2018Aug01) |
-| PS2 Redump USA Part 1 | [Link](https://archive.org/download/ps2usaredump1) |
-| PS2 Redump USA Part 2 | [Link](https://archive.org/download/ps2usaredump1_20200816_1458) |
-| PS2 Redump USA Part 3 | [Link](https://archive.org/download/httpsarchive.orgdetailsps2usaredump3) |
-
-|**Internet Archive (Redump) (EUR)**||
-| ------ | ------ |
-| PS2 Game Collection EUR (# - A) | [Link](https://archive.org/download/PS2_COLLECTION_PART1) |
-| PS2 Game Collection EUR (A - B) | [Link](https://archive.org/download/PS2_COLLECTION_PART2) |
-| PS2 Game Collection EUR (B) | [Link](https://archive.org/download/PS2_COLLECTION_PART3) |
-| PS2 Game Collection EUR (B - C) | [Link](https://archive.org/download/PS2_COLLECTION_PART4) |
-| PS2 Game Collection EUR (C - D) | [Link](https://archive.org/download/PS2_COLLECTION_PART5) |
-| PS2 Game Collection EUR (D) | [Link](https://archive.org/download/ps2_collection_part6_202008) |
-| PS2 Game Collection EUR (D) | [Link](https://archive.org/download/ps2_collection_part7) |
-| PS2 Game Collection EUR (D - F) | [Link](https://archive.org/download/PS2_COLLECTION_PART8) |
-| PS2 Game Collection EUR (F) | [Link](https://archive.org/download/PS2_COLLECTION_PART9) |
-| PS2 Game Collection EUR (F - G) | [Link](https://archive.org/download/PS2_COLLECTION_PART10) |
-| PS2 Game Collection EUR (G - H) | [Link](https://archive.org/download/PS2_COLLECTION_PART11) |
-| PS2 Game Collection EUR (I - K) | [Link](https://archive.org/download/PS2_COLLECTION_PART12) |
-| PS2 Game Collection EUR (K - M) | [Link](https://archive.org/download/PS2_COLLECTION_PART13) |
-| PS2 Game Collection EUR (M) | [Link](https://archive.org/download/PS2_COLLECTION_PART14) |
-| PS2 Game Collection EUR (M - N) | [Link](https://archive.org/download/PS2_COLLECTION_PART15) |
-| PS2 Game Collection EUR (N - O) | [Link](https://archive.org/download/PS2_COLLECTION_PART16) |
-| PS2 Game Collection EUR (O) | [Link](https://archive.org/download/PS2_COLLECTION_PART17) |
-| PS2 Game Collection EUR (O - P) | [Link](https://archive.org/download/PS2_COLLECTION_PART18) |
-| PS2 Game Collection EUR (P - R) | [Link](https://archive.org/download/PS2_COLLECTION_PART19) |
-| PS2 Game Collection EUR (R - S) | [Link](https://archive.org/download/PS2_COLLECTION_PART20) |
-| PS2 Game Collection EUR (S) | [Link](https://archive.org/download/PS2_COLLECTION_PART21) |
-| PS2 Game Collection EUR (S) | [Link](https://archive.org/download/PS2_COLLECTION_PART22) |
-| PS2 Game Collection EUR (S) | [Link](https://archive.org/download/PS2_COLLECTION_PART23) |
-| PS2 Game Collection EUR (S) | [Link](https://archive.org/download/PS2_COLLECTION_PART24) |
-| PS2 Game Collection EUR (S - T) | [Link](https://archive.org/download/PS2_COLLECTION_PART25) |
-| PS2 Game Collection EUR (T) | [Link](https://archive.org/download/PS2_COLLECTION_PART26) |
-| PS2 Game Collection EUR (T - Z) | [Link](https://archive.org/download/PS2_COLLECTION_PART27) |
-
-|**Internet Archive (Redump) (JPN)**||
-| ------ | ------ |
-| PS2 Redump .iso Japan (#-E) | [Link](https://archive.org/download/ps2japanredump1) |
-| PS2 Redump .iso Japan (F-K) | [Link](https://archive.org/download/ps2japanredump2) |
-| PS2 Redump .iso Japan (L-R) | [Link](https://archive.org/download/ps2japanredump3) |
-| PS2 Redump .iso Japan (S-U) | [Link](https://archive.org/download/httpsarchive.orgdetailsps2japanredump4) |
-| PS2 Redump .iso Japan (V-Z) | [Link](https://archive.org/download/ps2japanredump5) |
+| Sony PlayStation 2 - # - Redump.org | [Link](https://archive.org/download/sony_playstation2_numberssymbols) |
+| Sony PlayStation 2 - A - Redump.org | [Link](https://archive.org/download/sony_playstation2_a) |
+| Sony PlayStation 2 - B - Redump.org | [Link](https://archive.org/download/sony_playstation2_b) |
+| Sony PlayStation 2 - C - Redump.org | [Link](https://archive.org/download/sony_playstation2_c) |
+| Sony PlayStation 2 - D (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation2_d_part1) |
+| Sony PlayStation 2 - D (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation2_d_part2) |
+| Sony PlayStation 2 - E - Redump.org | [Link](https://archive.org/download/sony_playstation2_e) |
+| Sony PlayStation 2 - F - Redump.org | [Link](https://archive.org/download/sony_playstation2_f) |
+| Sony PlayStation 2 - G - Redump.org | [Link](https://archive.org/download/sony_playstation2_g) |
+| Sony PlayStation 2 - H - Redump.org | [Link](https://archive.org/download/sony_playstation2_h) |
+| Sony PlayStation 2 - I - Redump.org | [Link](https://archive.org/download/sony_playstation2_i) |
+| Sony PlayStation 2 - J - Redump.org | [Link](https://archive.org/download/sony_playstation2_j) |
+| Sony PlayStation 2 - K - Redump.org | [Link](https://archive.org/download/sony_playstation2_k) |
+| Sony PlayStation 2 - L - Redump.org | [Link](https://archive.org/download/sony_playstation2_l) |
+| Sony PlayStation 2 - M (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation2_m_part1) |
+| Sony PlayStation 2 - M (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation2_m_part2) |
+| Sony PlayStation 2 - N - Redump.org | [Link](https://archive.org/download/sony_playstation2_n) |
+| Sony PlayStation 2 - O (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation2_o_part1) |
+| Sony PlayStation 2 - O (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation2_o_part2) |
+| Sony PlayStation 2 - P - Redump.org | [Link](https://archive.org/download/sony_playstation2_p) |
+| Sony PlayStation 2 - Q - Redump.org | [Link](https://archive.org/download/sony_playstation2_q) |
+| Sony PlayStation 2 - R - Redump.org | [Link](https://archive.org/download/sony_playstation2_r) |
+| Sony PlayStation 2 - S (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation2_s_part1) |
+| Sony PlayStation 2 - S (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation2_s_part2) |
+| Sony PlayStation 2 - S (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation2_s_part3) |
+| Sony PlayStation 2 - S (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation2_s_part4) |
+| Sony PlayStation 2 - T - Redump.org | [Link](https://archive.org/download/sony_playstation2_t) |
+| Sony PlayStation 2 - U - Redump.org | [Link](https://archive.org/download/sony_playstation2_u) |
+| Sony PlayStation 2 - V - Redump.org | [Link](https://archive.org/download/sony_playstation2_v) |
+| Sony PlayStation 2 - W - Redump.org | [Link](https://archive.org/download/sony_playstation2_w) |
+| Sony PlayStation 2 - X - Redump.org | [Link](https://archive.org/download/sony_playstation2_x) |
+| Sony PlayStation 2 - Y - Redump.org | [Link](https://archive.org/download/sony_playstation2_y) |
+| Sony PlayStation 2 - Z - Redump.org | [Link](https://archive.org/download/sony_playstation2_z) |
 
 ## **Sony Playstation Portable**
 
-|**Myrient (Redump)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation Portable | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/) |
 
@@ -126,7 +85,7 @@
 | PSP DLC | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
 | PSP No-Intro DLC | [Link](https://archive.org/download/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) |
 
-|**1fichier**||
+|**1Fichier**||
 | ------ | ------ |
 | PSP PSN | [Link](https://1fichier.com/dir/SAtw4wRm) |
 
@@ -134,7 +93,7 @@
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS3 games. Please check the Downloads below only if NoPayStation does not have the content you are looking for.
 
-|**Myrient (No-Intro)**||
+|**Myrient (No-Intro) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation 3 (PSN) (Content) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/) |
 | Sony - PlayStation 3 (PSN) (Updates) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Updates)/) |
@@ -176,9 +135,78 @@
 | PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
 | PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
 
-|**Myrient (Redump)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation 3 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/) |
+
+|**Internet Archive (Redump)**||
+| ------ | ------ |
+| Sony PlayStation 3 - # - Redump.org | [Link](https://archive.org/download/sony_playstation3_numberssymbols) |
+| Sony PlayStation 3 - A (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_a_part1) |
+| Sony PlayStation 3 - A (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_a_part2) |
+| Sony PlayStation 3 - A (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_a_part3) |
+| Sony PlayStation 3 - B (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_b_part1) |
+| Sony PlayStation 3 - B (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_b_part2) |
+| Sony PlayStation 3 - B (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_b_part3) |
+| Sony PlayStation 3 - C (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_c_part1) |
+| Sony PlayStation 3 - C (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_c_part2) |
+| Sony PlayStation 3 - C (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_c_part3) |
+| Sony PlayStation 3 - D (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_d_part1) |
+| Sony PlayStation 3 - D (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_d_part2) |
+| Sony PlayStation 3 - D (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_d_part3) |
+| Sony PlayStation 3 - D (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation3_d_part4) |
+| Sony PlayStation 3 - D (Part 5) - Redump.org | [Link](https://archive.org/download/sony_playstation3_d_part5) |
+| Sony PlayStation 3 - E - Redump.org | [Link](https://archive.org/download/sony_playstation3_e) |
+| Sony PlayStation 3 - F (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_f_part1) |
+| Sony PlayStation 3 - F (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_f_part2) |
+| Sony PlayStation 3 - F (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_f_part3) |
+| Sony PlayStation 3 - G (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_g_part1) |
+| Sony PlayStation 3 - G (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_g_part2) |
+| Sony PlayStation 3 - G (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_g_part3) |
+| Sony PlayStation 3 - H (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_h_part1) |
+| Sony PlayStation 3 - H (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_h_part2) |
+| Sony PlayStation 3 - I - Redump.org | [Link](https://archive.org/download/sony_playstation3_i) |
+| Sony PlayStation 3 - J - Redump.org | [Link](https://archive.org/download/sony_playstation3_j) |
+| Sony PlayStation 3 - K - Redump.org | [Link](https://archive.org/download/sony_playstation3_k) |
+| Sony PlayStation 3 - L (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_l_part1) |
+| Sony PlayStation 3 - L (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_l_part2) |
+| Sony PlayStation 3 - L (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_l_part3) |
+| Sony PlayStation 3 - M (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_m_part1) |
+| Sony PlayStation 3 - M (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_m_part2) |
+| Sony PlayStation 3 - M (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_m_part3) |
+| Sony PlayStation 3 - M (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation3_m_part4) |
+| Sony PlayStation 3 - M (Part 5) - Redump.org | [Link](https://archive.org/download/sony_playstation3_m_part5) |
+| Sony PlayStation 3 - N (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_n_part1) |
+| Sony PlayStation 3 - N (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_n_part2) |
+| Sony PlayStation 3 - N (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_n_part3) |
+| Sony PlayStation 3 - O (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_o_part1) |
+| Sony PlayStation 3 - O (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_o_part2) |
+| Sony PlayStation 3 - O (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_o_part3) |
+| Sony PlayStation 3 - P (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_p_part1) |
+| Sony PlayStation 3 - P (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_p_part2) |
+| Sony PlayStation 3 - Q - Redump.org | [Link](https://archive.org/download/sony_playstation3_q) |
+| Sony PlayStation 3 - R (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_r_part1) |
+| Sony PlayStation 3 - R (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_r_part2) |
+| Sony PlayStation 3 - R (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_r_part3) |
+| Sony PlayStation 3 - R (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation3_r_part4) |
+| Sony PlayStation 3 - S (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part1) |
+| Sony PlayStation 3 - S (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part2) |
+| Sony PlayStation 3 - S (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part3) |
+| Sony PlayStation 3 - S (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part4) |
+| Sony PlayStation 3 - S (Part 5) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part5) |
+| Sony PlayStation 3 - S (Part 6) - Redump.org | [Link](https://archive.org/download/sony_playstation3_s_part6) |
+| Sony PlayStation 3 - T (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_t_part1) |
+| Sony PlayStation 3 - T (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_t_part2) |
+| Sony PlayStation 3 - T (Part 3) - Redump.org | [Link](https://archive.org/download/sony_playstation3_t_part3) |
+| Sony PlayStation 3 - T (Part 4) - Redump.org | [Link](https://archive.org/download/sony_playstation3_t_part4) |
+| Sony PlayStation 3 - U (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_u_part1) |
+| Sony PlayStation 3 - U (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_u_part2) |
+| Sony PlayStation 3 - V - Redump.org | [Link](https://archive.org/download/sony_playstation3_v) |
+| Sony PlayStation 3 - W (Part 1) - Redump.org | [Link](https://archive.org/download/sony_playstation3_w_part1) |
+| Sony PlayStation 3 - W (Part 2) - Redump.org | [Link](https://archive.org/download/sony_playstation3_w_part2) |
+| Sony PlayStation 3 - X - Redump.org | [Link](https://archive.org/download/sony_playstation3_x) |
+| Sony PlayStation 3 - Y - Redump.org | [Link](https://archive.org/download/sony_playstation3_y) |
+| Sony PlayStation 3 - Z - Redump.org | [Link](https://archive.org/download/sony_playstation3_z) |
 
 |**Internet Archive (Alvro)**||
 | ------ | ------ |
@@ -200,7 +228,7 @@
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS Vita games. Please only check the links below if you are looking for content NoPayStation does not have.
 
-|**Myrient (No-Intro)**||
+|**Myrient (No-Intro) (Fast)**||
 | ------ | ------ |
 | Sony - PlayStation Vita (PSN) (Content) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/) |
 | Sony - PlayStation Vita (PSN) (Updates) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Updates)/) |

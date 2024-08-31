@@ -2,12 +2,11 @@
 
 ## About RVZ files
 
-RVZ files work with the Dolphin emulator but not on real hardware.
-If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO. [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4)
+RVZ files work with the Dolphin emulator but not on real hardware. They also help save bandwidth for both you and the website hosting the files when downloading. If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/) to convert the files to ISO [(Guide)](https://imgur.com/a/XWmsnoR) [(Video Guide)](https://myrient.erista.me/assets/rvz.mp4).
 
 ## Metroid
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Metroid Fusion (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20Fusion%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20Fusion%20%28USA%29.7z) |
 | Metroid Zero Mission (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20-%20Zero%20Mission%20%28USA%29.7z) |
@@ -20,7 +19,7 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## Mario
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Mario Party 7 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%207%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Mario%20Party%207%20%28USA%29%20%28Rev%201%29.rvz) |
 | Mario Party 8 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%208%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Mario%20Party%208%20%28USA%29%20%28Rev%201%29.rvz) |
@@ -34,7 +33,7 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## Fire Emblem
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Fire Emblem Path of Radiance (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Fire%20Emblem%20-%20Path%20of%20Radiance%20%28USA%29.rvz) |
 | Fire Emblem Radiant Dawn (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Radiant%20Dawn%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Fire%20Emblem%20-%20Radiant%20Dawn%20%28USA%29%20%28Rev%201%29.rvz) |
@@ -42,7 +41,7 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## Pokemon
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Pokemon Red (GB) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/Pokemon%20-%20Red%20Version%20(USA,%20Europe)%20(SGB%20Enhanced).zip) | [Download](https://archive.org/download/pkmn_collection/pkmn%20collection/GB/Pokemon%20-%20Red%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip) |
 | Pokemon Green (GB) (Japan) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/Pocket%20Monsters%20-%20Midori%20(Japan)%20(SGB%20Enhanced).zip) | [Download](https://archive.org/download/pkmn_collection/pkmn%20collection/GB/Pocket%20Monsters%20-%20Midori%20%28Japan%29%20%28SGB%20Enhanced%29.zip) |
@@ -76,21 +75,21 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 
 ## Persona
 
-|**Title**|**Myrient**|**Internet Archive**|**NoPayStation**|**Google Drive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|**NoPayStation**|**Google Drive**|
 | ------ | ------ | ------ | ------ | ------ |
-| Persona 5 (PS3) (USA) | [PKG](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/Persona%205%20(USA).zip) / [ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/Persona%205%20(USA).zip) || [PKG](https://nopaystation.com/view/PS3/NPUB31848/HDDBOOTPERSONA05/1?version=1) ||
-| Persona 4 (PS2) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/Shin%20Megami%20Tensei%20-%20Persona%204%20(USA).zip) | [Download](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%204%20%28USA%29.7z) |||
-| Persona 4 Golden (USA) | [PSV PKG](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/Persona%204%20Golden%20(USA).zip) || [PSV PKG](https://nopaystation.com/view/PSV/PCSE00120/PERSONA4GOLDEN01/1?version=1.01) | [PC](https://drive.google.com/file/d/1dALfgu038IyOiT2rCd4iK1tfy7Q55DBO/view?usp=sharing) |
+| Persona 5 (PS3) (USA) | [PS3 PKG](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/Persona%205%20(USA).zip) / [PS3 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/Persona%205%20(USA).zip) | [PS3 ISO](https://archive.org/download/sony_playstation3_p_part1/Persona%205%20%28USA%29.iso) | [PS3 PKG](https://nopaystation.com/get/PS3/NPUB31848/HDDBOOTPERSONA05/1/pkg?version=1) ||
+| Persona 4 (PS2) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/Shin%20Megami%20Tensei%20-%20Persona%204%20(USA).zip) | [Download](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%204%20%28USA%29.7z) | [PS3 PKG](https://nopaystation.com/get/PS3/NPUD21782/0000000000000000/0/pkg) ||
+| Persona 4 Golden (PSV) (USA) | [PSV PKG](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/Persona%204%20Golden%20(USA).zip) || [PSV PKG](https://nopaystation.com/get/PSV/PCSE00120/PERSONA4GOLDEN01/1/pkg?version=1.01) | [PC](https://drive.google.com/file/d/1dALfgu038IyOiT2rCd4iK1tfy7Q55DBO/view?usp=sharing) |
 | Persona 3 (PS2) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/Shin%20Megami%20Tensei%20-%20Persona%203%20(USA).zip) | [Download](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%203%20%28USA%29.7z) |||
-| Persona 3 FES (PS2) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/Shin%20Megami%20Tensei%20-%20Persona%203%20FES%20(USA).zip) | [Download](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%203%20FES%20%28USA%29.7z) |||
-| Persona 3 Portable (PSP) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20(USA).zip) | [Download](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20%28USA%29.zip) |||
-| Persona 2: Innocent Sin (USA/Japan) | [PSP ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%202%20-%20Innocent%20Sin%20(USA).zip) / [PS1 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/Persona%202%20-%20Tsumi%20-%20Innocent%20Sin%20(Japan).zip) | [PSP ISO](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%202%20-%20Innocent%20Sin%20%28USA%29.zip) / [PS1 ISO](https://archive.org/download/redump.psx.p3/Persona%202%20-%20Tsumi%20-%20Innocent%20Sin%20%28Japan%29.zip) |||
-| Persona 2: Eternal Punishment (USA) || [PSP ISO](https://archive.org/download/persona-2-eternal-punishment-english-v-1.00.iso.-7z/Persona%202%20-%20Eternal%20Punishment%20%28English%20v1.00%29.iso.7z) / [PS1 ISO](https://archive.org/download/redump.psx.p3/Persona%202%20-%20Eternal%20Punishment%20%28USA%29.zip) |||
-| Persona 1 (USA) | [PSP ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%20(USA).zip) / [PS1 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/Persona%20(USA).zip) | [PSP ISO](https://archive.org/download/redump.psp.p2/Shin%20Megami%20Tensei%20-%20Persona%20%28USA%29.zip) / [PS1 ISO](https://archive.org/download/redump.psx.p3/Persona%20%28USA%29.zip) |||
+| Persona 3 FES (PS2) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/Shin%20Megami%20Tensei%20-%20Persona%203%20FES%20(USA).zip) | [Download](https://archive.org/download/redumpSonyPlaystation2UsaGames2018Aug01Part2/Shin%20Megami%20Tensei%20-%20Persona%203%20FES%20%28USA%29.7z) | [PS3 PKG](https://nopaystation.com/get/PS3/NPUD21621/0000000000000000/0/pkg) ||
+| Persona 3 Portable (PSP) (USA) | [Download](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20(USA).zip) | [Download](https://archive.org/download/sony_playstation_portable_part4/Shin%20Megami%20Tensei%20-%20Persona%203%20Portable%20%28USA%29.zip) | [PSV PKG](https://nopaystation.com/get/PSP/ULUS10512/SMTP3PDIGITAL001/1/pkg?version=1) ||
+| Persona 2: Innocent Sin (USA/Japan) | [PSP ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%202%20-%20Innocent%20Sin%20(USA).zip) / [PS1 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/Persona%202%20-%20Tsumi%20-%20Innocent%20Sin%20%28Japan%29%20%28Rev%201%29.zip) | [PSP ISO](https://archive.org/download/sony_playstation_portable_part4/Shin%20Megami%20Tensei%20-%20Persona%202%20-%20Innocent%20Sin%20%28USA%29.zip) / [PS1 ISO](https://archive.org/download/sony_playstation_part4/Persona%202%20-%20Tsumi%20-%20Innocent%20Sin%20%28Japan%29%20%28Rev%201%29.zip) | [PSV PKG (PSP)](https://nopaystation.com/get/PSP/ULUS10584/SMTP2ISDIGITAL01/1/pkg?version=1) ||
+| Persona 2: Eternal Punishment (USA) | [PS1 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/Persona%202%20-%20Eternal%20Punishment%20%28USA%29.zip) | [PSP ISO](https://archive.org/download/persona-2-eternal-punishment-english-v-1.00.iso.-7z/Persona%202%20-%20Eternal%20Punishment%20%28English%20v1.00%29.iso.7z) / [PS1 ISO](https://archive.org/download/sony_playstation_part4/Persona%202%20-%20Eternal%20Punishment%20%28USA%29.zip) | [PSV PKG (PSX)](https://nopaystation.com/get/PSX/NPUJ01158/0000000000000001/0/pkg?version=1) / [PS3 PKG (PSX)](https://nopaystation.com/get/PS3/NPUJ01158/0000000000000001/0/pkg?version=1) ||
+| Persona 1 (USA) | [PSP ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/Shin%20Megami%20Tensei%20-%20Persona%20(USA).zip) / [PS1 ISO](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/Persona%20(USA).zip) | [PSP ISO](https://archive.org/download/sony_playstation_portable_part4/Shin%20Megami%20Tensei%20-%20Persona%20%28USA%29.zip) / [PS1 ISO](https://archive.org/download/sony_playstation_part4/Persona%20%28USA%29.zip) | [PSV PKG (PSP)](https://nopaystation.com/get/PSP/ULUS10432/SMTPERSONA111111/0/pkg?version=1) ||
 
 ## Zelda
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Legend of Zelda Twilight Princess (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.rvz) |
 | Legend of Zelda Twilight Princess (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.rvz) |
@@ -100,18 +99,23 @@ If you are using real hardware, use [Dolphin Emulator](https://dolphin-emu.org/)
 | Legend of Zelda Ocarina of Time (N64) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/Legend%20of%20Zelda,%20The%20-%20Ocarina%20of%20Time%20(USA).zip) | [Download](https://archive.org/download/pkmn_collection/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip) |
 | Legend of Zelda Breath of the Wild (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B00050000101C9400%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000E101C9400%5D%20%5BUPDATE%20v208%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000C101C9400%5D%20%5BDLC%5D.7z) |
 
+*To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
+
 ## Super Smash Bros
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Super Smash Bros Brawl (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Brawl%20(USA)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%202%29.rvz) |
 | Super Smash Bros Melee (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Melee%20(USA)%20(En,Ja)%20(Rev%202).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29%20%28Rev%202%29.rvz) |
 | Super Smash Bros for Wii U (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(v96)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000010144F00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000E10144F00%5D%20%5BUPDATE%20v304%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000C10144F00%5D%20%5BDLC%5D.7z) |
 
+*To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
+
 ## Xenoblade
 
-|**Title**|**Myrient**|**Internet Archive**|
+|**Title**|**Myrient (Fast)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Xenoblade Chronicles (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Xenoblade%20Chronicles%20(USA,%20Asia)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/Xenoblade%20Chronicles%20%28USA%2C%20Asia%29%20%28En%2CFr%2CEs%29.rvz) |
 | Xenoblade Chronicles X (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(v0)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B00050000101C4D00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000E101C4D00%5D%20%5BUPDATE%20v48%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000C101C4D00%5D%20%5BDLC%5D.7z) |
+
 *To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
