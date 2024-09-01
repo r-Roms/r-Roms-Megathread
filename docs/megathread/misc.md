@@ -90,19 +90,25 @@
 
 ## **BIOS Files**
 
-|**Myrient (Fast)**||
+|**Myrient (Redump) (Fast)**||
 | ------ | ------ |
 | Microsoft - Xbox - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20-%20BIOS%20Images/) |
 | Nintendo - GameCube - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20BIOS%20Images/) |
 | Sony - PlayStation - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20-%20BIOS%20Images/) |
 | Sony - PlayStation 2 - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202%20-%20BIOS%20Images/) |
 
-|**Internet Archive**||
+|**Internet Archive (Redump)**||
 | ------ | ------ |
-| Retroarch System Files (BIOS\Firmwares\OSs) | [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 | Redump BIOS sets | [Link](https://archive.org/download/2019_11_25_redump_bios) |
+
+|**Internet Archive (TOSEC)**||
+| ------ | ------ |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |
 
-|**MEGA**||
+|**Internet Archive (RetroArch)**||
+| ------ | ------ |
+| Retroarch System Files (BIOS\Firmwares\OSs) | [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
+
+|**MEGA (Miscellaneous)**||
 | ------ | ------ |
 | Firmwares | [Link](https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA) |

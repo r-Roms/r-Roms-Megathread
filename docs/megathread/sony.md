@@ -238,7 +238,7 @@
 | Unofficial - Sony - PlayStation Vita (PSVgameSD) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Sony%20-%20PlayStation%20Vita%20(PSVgameSD)/) |
 | Unofficial - Sony - PlayStation Vita (VPK) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Sony%20-%20PlayStation%20Vita%20(VPK)/) |
 
-|**Internet Archive**||
+|**Internet Archive (No-Intro)**||
 | ------ | ------ |
 | Sony - PlayStation Vita Games (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format) |
 | Sony - PlayStation Vita DLC & Updates (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates) |

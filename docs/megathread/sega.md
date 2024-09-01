@@ -8,17 +8,24 @@ Older systems can be found in the [Retro Games page](/megathread/retro).
 | ------ | ------ |
 | Sega - Dreamcast | [Link](https://myrient.erista.me/files/Redump/Sega%20-%20Dreamcast/) |
 
-|**Internet Archive**||
+|**Internet Archive (Redump)**||
 | ------ | ------ |
 | Redump Sega Dreamcast .cue/.bin | [Link](https://archive.org/download/sega_dreamcast) |
 | Redump Sega Dreamcast .chd | [Link](https://archive.org/download/dc-chd-zstd-redump/dc-chd-zstd/) |
-| Dreamcast Collection By Ghostware Multi-region | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
-| Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
+
+|**Internet Archive (TOSEC)**||
+| ------ | ------ |
 | TOSEC Dreamcast USA GDI | [Link](https://archive.org/download/tosecdcus20190822) |
 | TOSEC Dreamcast EUR GDI | [Link](https://archive.org/download/18wheeleramericanprotruckerv1.7002001segapalm4) |
 | TOSEC Dreamcast JAP GDI | [Link](https://archive.org/download/interludev1.0032003necinterchanneljp) |
 
-|**MEGA**||
+|**Internet Archive (Miscellaneous)**||
+| ------ | ------ |
+| Dreamcast Collection By Ghostware Multi-region | [Link](https://archive.org/download/DreamcastCollectionByGhostwareMulti-region) |
+| Almost Complete Dreamcast GDI | [Link](https://archive.org/download/almstcmpltdrmcst) |
+
+
+|**MEGA (Miscellaneous)**||
 | ------ | ------ |
 | TiZ Homebrew Apps | [Link](https://mega.nz/#F!q7oxzDga!JfJulP8EX1-poB0nkgy2ZA) |
 
