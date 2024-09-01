@@ -44,6 +44,7 @@ ZIP, 7z, and RAR are archive file types which means they must be extracted. 7-Zi
 uBlock Origin is recommended when accessing certain links on this megathread and the Internet in general. It blocks ads, trackers,and much more.
 
 Below are links to download and install it for certain web browsers.
+
 |**Store Name**|**Links**|
 | ------ | ------ |
 | Chrome Web Store | [Link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) |
