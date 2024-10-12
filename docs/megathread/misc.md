@@ -2,29 +2,29 @@
 
 ## **ROM Sets**
 
-|**Myrient (No-Intro) (Fast)**||
+|**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
 | No-Intro | [Link](https://myrient.erista.me/files/No-Intro/) |
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Redump | [Link](https://myrient.erista.me/files/Redump/) |
 
-|**Myrient (TOSEC) (Fast)**||
+|**Myrient (TOSEC) (Fast & Unrestricted)**||
 | ------ | ------ |
 | TOSEC | [Link](https://myrient.erista.me/files/TOSEC/) |
 
-|**Myrient (TOSEC-ISO) (Fast)**||
+|**Myrient (TOSEC-ISO) (Fast & Unrestricted)**||
 | ------ | ------ |
 | TOSEC-ISO | [Link](https://myrient.erista.me/files/TOSEC-ISO/) |
 
-|**Myrient (TOSEC-PIX) (Fast)**||
+|**Myrient (TOSEC-PIX) (Fast & Unrestricted)**||
 | ------ | ------ |
 | TOSEC-PIX | [Link](https://myrient.erista.me/files/TOSEC-PIX/) |
 
-|**Myrient (Miscellaneous) (Fast)**||
+|**Myrient (Miscellaneous) (Fast & Unrestricted)**||
 | ------ | ------ |
-| TOSEC-PIX | [Link](https://myrient.erista.me/files/Miscellaneous/) |
+| Miscellaneous | [Link](https://myrient.erista.me/files/Miscellaneous/) |
 
 |**Internet Archive (No-Intro)**||
 | ------ | ------ |
@@ -77,20 +77,20 @@
 | [TOSEC-PIX] Part 1 (2023-01-23) | [Link](https://archive.org/download/tosec-pix) |
 | [TOSEC-PIX] Part 2 (2023-01-23) | [Link](https://archive.org/download/tosec-pix-part2) |
 
-|**Internet Archive (Miscellaneous)**||
-| ------ | ------ |
-| Hardware Target Game Database (HTGDB) Gamepacks | [Link](https://archive.org/download/htgdb-gamepacks) |
-| English Translation ROMs Collection (2024) | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
-| Super Mario World Hacks | [Link](https://archive.org/download/super-mario-world-hacks) |
-| Nintendo - Super Famicom - MSU1 | [Link](https://archive.org/download/nintendo-super-famicom-msu1/ROMs/) |
-| Super Famicom - Enhanced Colors | [Link](https://archive.org/download/super-famicom-enhanced-colors/ROMs/) |
-| Nintendo - Super Famicom - Speed Hacks | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
-| Complete Sega MD+ Collection (MegaSD, Mega Everdrive Pro & Genesis Plus GX Compatible) | [Link](https://archive.org/download/mdplus_collection_22_04_16) |
-| Sega Model 3 ROMs | [Link](https://archive.org/download/segamodel3/ROMs/) |
+|**Internet Archive (Miscellaneous)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Hardware Target Game Database (HTGDB) Gamepacks | [Link](https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/) | [Link](https://archive.org/download/htgdb-gamepacks) |
+| English Translation ROMs Collection (2024) | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/En-ROMs/En-ROMs/) | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
+| Super Mario World Hacks | [Link](https://myrient.erista.me/files/Internet%20Archive/storage_manager/super-mario-world-hacks/) | [Link](https://archive.org/download/super-mario-world-hacks) |
+| Nintendo - Super Famicom - MSU1 | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/nintendo-super-famicom-msu1/ROMs/) | [Link](https://archive.org/download/nintendo-super-famicom-msu1/ROMs/) |
+| Super Famicom - Enhanced Colors | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/super-famicom-enhanced-colors/ROMs/) | [Link](https://archive.org/download/super-famicom-enhanced-colors/ROMs/) |
+| Nintendo - Super Famicom - Speed Hacks | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/sfc-speedhacks/ROMs/) | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
+| Complete Sega MD+ Collection (MegaSD, Mega Everdrive Pro & Genesis Plus GX Compatible) | [Link](https://myrient.erista.me/files/Internet%20Archive/md_/mdplus_collection_22_04_16/) | [Link](https://archive.org/download/mdplus_collection_22_04_16) |
+| Sega Model 3 ROMs | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/segamodel3/ROMs/) | [Link](https://archive.org/download/segamodel3/ROMs/) |
 
 ## **BIOS Files**
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Microsoft - Xbox - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20-%20BIOS%20Images/) |
 | Nintendo - GameCube - BIOS Images | [Link](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20BIOS%20Images/) |
@@ -105,9 +105,9 @@
 | ------ | ------ |
 | TOSEC Firmware and Operating Systems Collection | [Link](https://archive.org/download/tosec_fw_os) |
 
-|**Internet Archive (RetroArch)**||
-| ------ | ------ |
-| Retroarch System Files (BIOS\Firmwares\OSs) | [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
+|**Internet Archive (RetroArch)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Retroarch System Files (BIOS/Firmwares/OS) | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/RetroarchSystemFiles/Retroarch-System/) | [Link](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/) |
 
 |**MEGA (Miscellaneous)**||
 | ------ | ------ |

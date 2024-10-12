@@ -19,15 +19,16 @@ Please consider making a donation to Myrient [here](https://myrient.erista.me/do
 No-Intro and Redump are groups that catalog hashes of dumped games for many systems. If "No-Intro" or "Redump" is present in the name of a group of links, it is a collection of the currently best-available ROMs for the system.
 
 ### **Locked Internet Archive Items**
-Internet Archive restricts items that generate a high amount of traffic from being able to be downloaded without an account to prevent abuse. This is shown with a lock icon beside the file name in the item's file listing.
+Internet Archive restricts items that contain high-risk content or generate a high amount of traffic from being able to be downloaded without an account to decrease the likelihood of takedowns and to prevent abuse. This is shown with a lock icon beside the file name in the item's file listing.
 
 ![IALOCK](img/internetarchivelock.png)
 
-When accessing the file directly, the following error is shown.
+When accessing the file directly, one of the following errors is shown.
 
-![IALOCKFILE](img/internetarchivelockfile.png)
+![IALOCKFILE1](img/internetarchivelockfile1.png)
+![IALOCKFILE2](img/internetarchivelockfile2.png)
 
-To download locked items, [register an Internet Archive account](https://archive.org/account/signup).
+To download locked items or files, [register an Internet Archive account](https://archive.org/account/signup) or download it from Myrient instead.
 
 ### **Internet Archive Metadata**
 Internet Archive items have metadata files that end in extensions such as `.xml` and `.sqlite`. These files are not important to download but are meant for the website to know what files to display and the reviews of the item.

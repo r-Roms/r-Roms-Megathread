@@ -5,7 +5,7 @@
 
 ## **Sony Playstation**
 
-|**Myrient (Redump) (BIN/CUE) (Fast)**||
+|**Myrient (Redump) (BIN/CUE) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/) |
 
@@ -17,17 +17,17 @@
 | Sony PlayStation (Part 4: O-S) - Redump.org | [Link](https://archive.org/download/sony_playstation_part4) |
 | Sony PlayStation (Part 5: T-Z) - Redump.org | [Link](https://archive.org/download/sony_playstation_part5) |
 
-|**Internet Archive (Redump) (CHD)**||
-| ------ | ------ |
-| PS1 Redump .chd USA | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
-| PS1 Redump .chd EUR | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
-| PS1 Redump .chd JPN Part 1 | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
-| PS1 Redump .chd JPN Part 2 | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
-| PS1 Redump .chd Misc | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |  
+|**Internet Archive (Redump) (CHD)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| PS1 Redump .chd USA | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx/CHD-PSX-USA/) | [Link](https://archive.org/download/chd_psx/CHD-PSX-USA/) | 
+| PS1 Redump .chd EUR | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/) | [Link](https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/) |
+| PS1 Redump .chd JPN Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap/CHD-PSX-JAP/) | [Link](https://archive.org/download/chd_psx_jap/CHD-PSX-JAP/) |
+| PS1 Redump .chd JPN Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_jap_p2/CHD-PSX-JAP/) | [Link](https://archive.org/download/chd_psx_jap_p2/CHD-PSX-JAP/) |
+| PS1 Redump .chd Misc | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_misc/CHD-PSX-Misc/) | [Link](https://archive.org/download/chd_psx_misc/CHD-PSX-Misc/) |  
 
 ## **Sony Playstation 2**
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation 2 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%202/) |
 
@@ -69,21 +69,30 @@
 
 ## **Sony Playstation Portable**
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (ISO) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation Portable | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%20Portable/) |
 
-|**Internet Archive**||
+|**Internet Archive (Redump) (ISO)**||
 | ------ | ------ |
 | PSP Redump .iso (Part 1) | [Link](https://archive.org/download/sony_playstation_portable_part1) |
 | PSP Redump .iso (Part 2) | [Link](https://archive.org/download/sony_playstation_portable_part2) |
 | PSP Redump .iso (Part 3) | [Link](https://archive.org/download/sony_playstation_portable_part3) |
 | PSP Redump .iso (Part 4) | [Link](https://archive.org/download/sony_playstation_portable_part4) |
+
+|**Internet Archive (Redump) (CHD)**||
+| ------ | ------ |
 | PSP Redump .chd (Part 1) | [Link](https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/) |
 | PSP Redump .chd (Part 2) | [Link](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/) |
+
+|**Internet Archive (Other)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| PSP DLC | [Link](https://myrient.erista.me/files/Internet%20Archive/storage_manager/PSP-DLC/PSP%20DLC/) | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
+| PSP No-Intro DLC | [Link](https://myrient.erista.me/files/Internet%20Archive/storage_manager/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) | [Link](https://archive.org/download/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) |
+
+|**Internet Archive (Alvro)**||
+| ------ | ------ |
 | PSP DLC (Alvro Files) | [Link](https://archive.org/download/PSP_DLC) |
-| PSP DLC | [Link](https://archive.org/download/PSP-DLC/PSP%20DLC/) |
-| PSP No-Intro DLC | [Link](https://archive.org/download/PSP-DLC/%5BNo-Intro%5D%20PSP%20DLC/) |
 
 |**1Fichier**||
 | ------ | ------ |
@@ -93,7 +102,7 @@
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS3 games. Please check the Downloads below only if NoPayStation does not have the content you are looking for.
 
-|**Myrient (No-Intro) (Fast)**||
+|**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation 3 (PSN) (Content) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/) |
 | Sony - PlayStation 3 (PSN) (Updates) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Updates)/) |
@@ -130,12 +139,12 @@
 | PS3 No-Intro JAP Part 3 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_3) |
 | PS3 No-Intro JAP Part 4 | [Link](https://archive.org/download/PS3_NOINTRO_JAP_4) |
 
-|**Internet Archive (PSN)**||
-| ------ | ------ |
-| PS3 PSN Part 1 | [Link](https://archive.org/download/PS3_PSN_1) |
-| PS3 PSN Part 2 | [Link](https://archive.org/download/PS3_PSN_2) |
+|**Internet Archive (PSN) (Alvro)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| PS3 PSN Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_PSN_1/) | [Link](https://archive.org/download/PS3_PSN_1) |
+| PS3 PSN Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_PSN_2/) | [Link](https://archive.org/download/PS3_PSN_2) |
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation 3 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/) |
 
@@ -208,27 +217,26 @@
 | Sony PlayStation 3 - Y - Redump.org | [Link](https://archive.org/download/sony_playstation3_y) |
 | Sony PlayStation 3 - Z - Redump.org | [Link](https://archive.org/download/sony_playstation3_z) |
 
-|**Internet Archive (Alvro)**||
-| ------ | ------ |
-| PS3 Games (# - C) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |
-| PS3 Games (C - D) | [Link](https://archive.org/download/PS3_ALVRO_PART_2) |
-| PS3 Games (C - D) (Other) | [Link](https://archive.org/download/PS3_ALVRO_PART_2_OTHER) |
-| PS3 Games (D - G) | [Link](https://archive.org/download/PS3_ALVRO_PART_3) |
-| PS3 Games (D - G) (Other) | [Link](https://archive.org/download/PS3_ALVRO_PART_3_OTHER) |
-| PS3 Games (G - J) | [Link](https://archive.org/download/PS3_ALVRO_PART_4) |
-| PS3 Games (J - M) | [Link](https://archive.org/download/PS3_ALVRO_PART__5) |
-| PS3 Games (M - N) | [Link](https://archive.org/download/PS3_ALVRO_PART_6) |
-| PS3 Games (N - R) | [Link](https://archive.org/download/PS3_ALVRO_PART_7) |
-| PS3 Games (R - S) | [Link](https://archive.org/download/PS3_ALVRO_PART_8) |
-| PS3 Games (S - T) | [Link](https://archive.org/download/PS3_ALVRO_PART_9) |
-| PS3 Games (T) | [Link](https://archive.org/download/PS3_ALVRO_PART_10) |
-| PS3 Games (T - Z) | [Link](https://archive.org/download/PS3_ALVRO_PART_11) |
+|**Internet Archive (Alvro)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| PS3 Games (# - C) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_1/) | [Link](https://archive.org/download/PS3_ALVRO_PART_1) |
+| PS3 Games (C - D) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_2/) | [Link](https://archive.org/download/PS3_ALVRO_PART_2) |
+| PS3 Games (D - G) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_3/) | [Link](https://archive.org/download/PS3_ALVRO_PART_3) |
+| PS3 Games (D - G) (Other) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_3_OTHER/) | [Link](https://archive.org/download/PS3_ALVRO_PART_3_OTHER) |
+| PS3 Games (G - J) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_4/) | [Link](https://archive.org/download/PS3_ALVRO_PART_4) |
+| PS3 Games (J - M) || [Link](https://archive.org/download/PS3_ALVRO_PART__5) |
+| PS3 Games (M - N) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_6/) | [Link](https://archive.org/download/PS3_ALVRO_PART_6) |
+| PS3 Games (N - R) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_7/) | [Link](https://archive.org/download/PS3_ALVRO_PART_7) |
+| PS3 Games (R - S) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_8/) | [Link](https://archive.org/download/PS3_ALVRO_PART_8) |
+| PS3 Games (S - T) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_9/) | [Link](https://archive.org/download/PS3_ALVRO_PART_9) |
+| PS3 Games (T) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_10/) | [Link](https://archive.org/download/PS3_ALVRO_PART_10) |
+| PS3 Games (T - Z) | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_ALVRO_PART_11/) | [Link](https://archive.org/download/PS3_ALVRO_PART_11) |
 
 ## **Sony Playstation Vita**
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS Vita games. Please only check the links below if you are looking for content NoPayStation does not have.
 
-|**Myrient (No-Intro) (Fast)**||
+|**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation Vita (PSN) (Content) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/) |
 | Sony - PlayStation Vita (PSN) (Updates) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Updates)/) |
@@ -238,9 +246,9 @@
 | Unofficial - Sony - PlayStation Vita (PSVgameSD) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Sony%20-%20PlayStation%20Vita%20(PSVgameSD)/) |
 | Unofficial - Sony - PlayStation Vita (VPK) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Sony%20-%20PlayStation%20Vita%20(VPK)/) |
 
-|**Internet Archive (No-Intro)**||
-| ------ | ------ |
-| Sony - PlayStation Vita Games (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format) |
-| Sony - PlayStation Vita DLC & Updates (USA)(NoNpDRM)| [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates) |
-| PSVITA VPK | [Link](https://archive.org/download/PSVITA_VPK) |
-| PSVITA MAIDUMP | [Link](https://archive.org/download/PSVITA_MAIDUMP)
+|**Internet Archive (No-Intro)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Sony - PlayStation Vita Games (USA)(NoNpDRM) || [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format) |
+| Sony - PlayStation Vita DLC & Updates (USA)(NoNpDRM) | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates/) | [Link](https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates) |
+| PSVITA VPK || [Link](https://archive.org/download/PSVITA_VPK) |
+| PSVITA MAIDUMP | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PSVITA_MAIDUMP/) | [Link](https://archive.org/download/PSVITA_MAIDUMP)
