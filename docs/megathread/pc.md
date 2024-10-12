@@ -1,8 +1,8 @@
 # PC Games
 
-|**MS-DOS**||
-| ------ | ------ |
-| Total DOS Collection   Release 16   March 2019 | [Link](https://archive.org/download/Total_DOS_Collection_Release_16_March_2019) |
+|**MS-DOS**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Total DOS Collection   Release 16   March 2019 | [Link](https://myrient.erista.me/files/Internet%20Archive/sketch_the_cow/Total_DOS_Collection_Release_16_March_2019/) | [Link](https://archive.org/download/Total_DOS_Collection_Release_16_March_2019) |
 
 |**Windows 3.x**||
 | ------ | ------ |
@@ -18,13 +18,13 @@
 | ------ | ------ |
 | GoodOldDownloads | [Link](https://gog-games.to/) |
 
-|**Other**||
-| ------ | ------ |
+|**Other**|||**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ | ------ | ------ |
 | GOG Mirror | [Link](https://freegogpcgames.com/) |
 | Ovagames | [Link](http://www.ovagames.com/) |
-| DOOM WADs | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
+| DOOM WADs ||| [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/2020_03_22_DOOM/DOOM%20WADs/) | [Link](https://archive.org/download/2020_03_22_DOOM/DOOM%20WADs/) |
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Apple - Macintosh | [Link](https://myrient.erista.me/files/Redump/Apple%20-%20Macintosh/) |
 
@@ -32,7 +32,7 @@
 | ------ | ------ |
 | Apple Macintosh - Redump.org | [Link](https://archive.org/download/apple_macintosh) |
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | IBM - PC compatible | [Link](https://myrient.erista.me/files/Redump/IBM%20-%20PC%20compatible/) |
 

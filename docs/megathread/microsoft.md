@@ -2,7 +2,7 @@
 
 ## Microsoft Xbox
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Microsoft - Xbox | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox/) |
 
@@ -45,7 +45,7 @@
 
 ## Microsoft Xbox 360
 
-|**Myrient (Redump) (Fast)**||
+|**Myrient (Redump) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Microsoft - Xbox 360 | [Link](https://myrient.erista.me/files/Redump/Microsoft%20-%20Xbox%20360/) |
 
@@ -90,7 +90,7 @@
 | Microsoft Xbox 360 - Y - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_y) |
 | Microsoft Xbox 360 - Z - Redump.org | [Link](https://archive.org/download/microsoft_xbox360_z) |
 
-|**Myrient (No-Intro) (Fast)**||
+|**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Unofficial - Microsoft - Xbox 360 (Title Updates) | [Link](https://myrient.erista.me/files/No-Intro/Unofficial%20-%20Microsoft%20-%20Xbox%20360%20(Title%20Updates)/) |
 | Microsoft - Xbox 360 (Digital) | [Link](https://myrient.erista.me/files/No-Intro/Microsoft%20-%20Xbox%20360%20(Digital)/) |
@@ -128,6 +128,6 @@
 | Xbox 360 XBLA | [Link](https://archive.org/download/XBOX_360_XBLA) |
 | Xbox 360 XBLA DLC | [Link](https://archive.org/download/XBOX_360_XBLA_DLC) |
 
-|**Internet Archive (Miscellaneous)**||
-| ------ | ------ |
-| Rock Band DLC Complete Collection Xbox 360 by Americo | [Link](https://archive.org/download/rock-band-dlc-complete-collection-xbox-360-by-americo) |
+|**Internet Archive (Miscellaneous)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Rock Band DLC Complete Collection Xbox 360 by Americo | [Link](https://myrient.erista.me/files/Internet%20Archive/mdashk/rock-band-dlc-complete-collection-xbox-360-by-americo/) | [Link](https://archive.org/download/rock-band-dlc-complete-collection-xbox-360-by-americo) |
