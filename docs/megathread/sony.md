@@ -80,10 +80,10 @@
 | PSP Redump .iso (Part 3) | [Link](https://archive.org/download/sony_playstation_portable_part3) |
 | PSP Redump .iso (Part 4) | [Link](https://archive.org/download/sony_playstation_portable_part4) |
 
-|**Internet Archive (Redump) (CHD)**||
-| ------ | ------ |
-| PSP Redump .chd (Part 1) | [Link](https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/) |
-| PSP Redump .chd (Part 2) | [Link](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/) |
+|**Internet Archive (Redump) (CHD)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| PSP Redump .chd (Part 1) | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/psp-chd-zstd-redump-part1/psp-chd-zstd/) | [Link](https://archive.org/download/psp-chd-zstd-redump-part1/psp-chd-zstd/) |
+| PSP Redump .chd (Part 2) | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/psp-chd-zstd-redump-part2/psp-chd-zstd/) | [Link](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/) |
 
 |**Internet Archive (Other)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
