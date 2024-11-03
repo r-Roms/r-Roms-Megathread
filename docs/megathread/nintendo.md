@@ -73,7 +73,7 @@ Add the downloaded Pastebin TXT file to `C:/Users/<your user name>/AppData/Roami
 
 Add the downloaded Pastebin TXT file to `~/.local/share/citra-emu/sysdata` and make sure it is named `aes_keys.txt`.
 
-For more information, refer to the [Citra Wiki](https://citra-emu.org/wiki/user-directory/).
+For more information, refer to the [Citra Wiki](https://web.archive.org/web/20240304205930/https://citra-emu.org/wiki/user-directory/).
 
 ## **Nintendo GameCube**
 
@@ -120,7 +120,7 @@ The RVZ format is recommended for its size and convenience. It also helps save b
 | Wii Rom Set By Ghostware Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart2/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart2) |
 | Wii Rom Set By Ghostware Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart3/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart3) |
 
-[NKit Fully Loaded](https://archive.org/compress/NKitFullyLoaded2020429) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
+[NKit Fully Loaded](https://archive.org/download/NKitFullyLoaded2020429/NKit%202020.4.29) ([Myrient Mirror](https://myrient.erista.me/files/Internet%20Archive/bingbong294/NKitFullyLoaded2020429/NKit%202020.4.29/)) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
 
 |**MarioCube**|Open Directory|Internet Archive|
 | ------ | ------ | ------ |
