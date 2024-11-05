@@ -2,6 +2,14 @@
 
 Older systems can be found in the [Retro Games page](/megathread/retro).
 
+|**No-Intro**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+| ------ | ------ | ------ |
+| Sega - 32X | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%2032X/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%2032X.zip/) [(Alt Link)](https://archive.org/download/nointro.32x) |
+| Sega - Game Gear | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Game%20Gear/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Game%20Gear.zip/) [(Alt Link)](https://archive.org/download/nointro.gg) |
+| Sega - Master System - Mark III | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Master%20System%20-%20Mark%20III/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Master%20System%20-%20Mark%20III.zip/) [(Alt Link)](https://archive.org/download/nointro.ms-mkiii) |
+| Sega - Mega Drive - Genesis | [Link](https://myrient.erista.me/files/No-Intro/Sega%20-%20Mega%20Drive%20-%20Genesis/) | [Link](https://archive.org/download/ni-roms/roms/Sega%20-%20Mega%20Drive%20-%20Genesis.zip/) [(Alt Link)](https://archive.org/download/nointro.md) |
+
+
 ## **Sega Dreamcast**
 
 |**Redump**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
