@@ -2,25 +2,24 @@
 
  If you are looking for Retro ROMs, see the [Retro Games page](/megathread/retro).
 
-|**No-Intro**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
+|**No-Intro**|**Myrient (Fast & Unrestricted)**|
 | ------ | ------ | ------ |
-| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28FDS%29.zip/) [(Alt Link)](https://archive.org/download/nointro.fds) |
-| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28QD%29.zip/) |
-| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance.zip/) [(Alt Link)](https://archive.org/download/nointro.gba) |
-| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Multiboot%29.zip/) [(Alt Link)](https://archive.org/download/nointro.gba-multiboot) |
-| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Video%29.zip/) |
-| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28e-Reader%29.zip/) |
+| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) |
+| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | 
+| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | 
+| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) | 
+| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) | 
+| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) | 
 | Nintendo - Game Boy Color | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/) | |
-| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.gb) |
-| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29.zip/) [(Alt Link)](https://archive.org/download/nointro.n64) |
-| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28ByteSwapped%29.zip/) |
-| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064DD.zip/) [(Alt Link)](https://archive.org/download/nointro.n64dd) |
-| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes-headered) |
-| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Unheadered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes) |
-| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Pokemon%20Mini.zip/) [(Alt Link)](https://archive.org/download/nointro.poke-mini) |
-| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip/) [(Alt Link)](https://archive.org/download/nointro.snes) |
-| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Virtual%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.vb) |
-
+| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) | 
+| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) | 
+| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) | 
+| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) | 
+| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) | 
+| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) | 
+| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) |
+| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) | 
+| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) |
 
 ## **Nintendo DS**
 
