@@ -1,8 +1,8 @@
 # PC Games
 
-|**MS-DOS**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
-| ------ | ------ | ------ |
-| Total DOS Collection   Release 16   March 2019 | [Link](https://myrient.erista.me/files/Internet%20Archive/sketch_the_cow/Total_DOS_Collection_Release_16_March_2019/) | [Link](https://archive.org/download/Total_DOS_Collection_Release_16_March_2019) |
+|**MS-DOS**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|**ExoDos**
+| ------ | ------ | ------ | ----- |
+| Total DOS Collection   Release 16   March 2019 | [Link](https://myrient.erista.me/files/Internet%20Archive/sketch_the_cow/Total_DOS_Collection_Release_16_March_2019/) | [Link](https://archive.org/download/Total_DOS_Collection_Release_16_March_2019) | [Link](https://www.retro-exo.com/exodos.html)
 
 |**Windows 3.x**||
 | ------ | ------ |
