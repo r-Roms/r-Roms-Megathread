@@ -119,18 +119,11 @@ The RVZ format is recommended for its size and convenience. It also helps save b
 | ------ | ------ |
 | Nintendo - Wii - NKit RVZ [zstd-19-128k] | [Link](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/) |
 
-|**Internet Archive (Redump) (RVZ)**||
-| ------ | ------ |
-| Wii RVZ (USA) Part 1 (# to E) | [Link](https://archive.org/download/wii_rvz_usa/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 2 (F to M) | [Link](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 3 (N to S) | [Link](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 4 (T to Z) | [Link](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/) |
-
 |**Internet Archive (WBFS)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Wii Rom Set By Ghostware Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostware/) | [Link](https://archive.org/download/WiiRomSetByGhostware) |
-| Wii Rom Set By Ghostware Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart2/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart2) |
-| Wii Rom Set By Ghostware Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart3/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart3) |
+| Wii Rom Set By Ghostware Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostware/) | 
+| Wii Rom Set By Ghostware Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart2/) |
+| Wii Rom Set By Ghostware Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart3/) | 
 
 [NKit Fully Loaded](https://archive.org/download/NKitFullyLoaded2020429/NKit%202020.4.29) ([Myrient Mirror](https://myrient.erista.me/files/Internet%20Archive/bingbong294/NKitFullyLoaded2020429/NKit%202020.4.29/)) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
 
