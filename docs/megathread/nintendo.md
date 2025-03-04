@@ -3,7 +3,7 @@
  If you are looking for Retro ROMs, see the [Retro Games page](/megathread/retro).
 
 |**No-Intro**|**Myrient (Fast & Unrestricted)**|
-| ------ | ------ | ------ |
+| ------ | ------ |
 | Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) |
 | Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | 
 | Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | 
