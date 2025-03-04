@@ -105,8 +105,8 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Super Smash Bros Brawl (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Brawl%20(USA)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%202%29.rvz) |
-| Super Smash Bros Melee (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Melee%20(USA)%20(En,Ja)%20(Rev%202).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29%20%28Rev%202%29.rvz) |
+| Super Smash Bros Brawl (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Brawl%20(USA)%20(Rev%202).zip) |
+| Super Smash Bros Melee (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Melee%20(USA)%20(En,Ja)%20(Rev%202).zip) |
 | Super Smash Bros for Wii U (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(v96)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000010144F00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000E10144F00%5D%20%5BUPDATE%20v304%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000C10144F00%5D%20%5BDLC%5D.7z) |
 
 *To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
@@ -115,7 +115,7 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Xenoblade Chronicles (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Xenoblade%20Chronicles%20(USA,%20Asia)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/Xenoblade%20Chronicles%20%28USA%2C%20Asia%29%20%28En%2CFr%2CEs%29.rvz) |
+| Xenoblade Chronicles (Wii) (USA) |  |
 | Xenoblade Chronicles X (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(v0)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B00050000101C4D00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000E101C4D00%5D%20%5BUPDATE%20v48%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000C101C4D00%5D%20%5BDLC%5D.7z) |
 
 *To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
