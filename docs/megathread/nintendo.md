@@ -69,10 +69,6 @@
 | ------ | ------ |
 | 3DS-Main - Encrypted (Part 1) (#-R) | [Link](https://archive.org/download/3ds-main-encrypted) |
 | 3DS-Main - Encrypted (Part 2) (S-Z) | [Link](https://archive.org/download/3ds-main-encrypted-p2) |
-| Nintendo 3DS eShop Collection (up to 2020-04-09) | [Link](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
-| Nintendo 3DS Collection [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection) |
-| Nintendo 3DS Collection [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
-| 3DS DLC and Updates - Encrypted | [Link](https://archive.org/download/3ds-dlc-and-updates-encrypted) |
 
 **3DS/CIA Decryption Instructions**
 
