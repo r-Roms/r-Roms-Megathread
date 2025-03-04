@@ -8,12 +8,12 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Metroid Fusion (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20Fusion%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20Fusion%20%28USA%29.7z) |
-| Metroid Zero Mission (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20-%20Zero%20Mission%20%28USA%29.7z) |
-| Metroid Prime Trilogy (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20Trilogy%20(USA).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Metroid%20Prime%20Trilogy%20%28USA%29.rvz) |
-| Metroid Prime (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Metroid%20Prime%20%28USA%29%20%28Rev%202%29.rvz) |
-| Metroid Prime 2 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%202%20-%20Echoes%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Metroid%20Prime%202%20-%20Echoes%20%28USA%29.rvz) |
-| Metroid Prime 3 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%203%20-%20Corruption%20(USA).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Metroid%20Prime%203%20-%20Corruption%20%28USA%29.rvz) |
+| Metroid Fusion (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20Fusion%20(USA).zip) |
+| Metroid Zero Mission (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(USA).zip) |
+| Metroid Prime Trilogy (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20Trilogy%20(USA).zip) | 
+| Metroid Prime (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20(USA).zip) |
+| Metroid Prime 2 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%202%20-%20Echoes%20(USA).zip) | 
+| Metroid Prime 3 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%203%20-%20Corruption%20(USA).zip) | 
 
 
 
