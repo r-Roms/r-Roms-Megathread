@@ -82,7 +82,7 @@
 | Hardware Target Game Database (HTGDB) Gamepacks | [Link](https://myrient.erista.me/files/Internet%20Archive/the_last_collector/htgdb-gamepacks/) | [Link](https://archive.org/download/htgdb-gamepacks) |
 | English Translation ROMs Collection (2024) | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/En-ROMs/En-ROMs/) | [Link](https://archive.org/download/En-ROMs/En-ROMs/) |
 | Super Mario World Hacks | [Link](https://myrient.erista.me/files/Internet%20Archive/storage_manager/super-mario-world-hacks/) | [Link](https://archive.org/download/super-mario-world-hacks) |
-| Nintendo - Super Famicom - MSU1 | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/nintendo-super-famicom-msu1/ROMs/) | [Link](https://archive.org/download/nintendo-super-famicom-msu1/ROMs/) |
+| Nintendo - Super Famicom - MSU1 | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/nintendo-super-famicom-msu1/ROMs/) | |
 | Super Famicom - Enhanced Colors | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/super-famicom-enhanced-colors/ROMs/) | [Link](https://archive.org/download/super-famicom-enhanced-colors/ROMs/) |
 | Nintendo - Super Famicom - Speed Hacks | [Link](https://myrient.erista.me/files/Internet%20Archive/chadmaster/sfc-speedhacks/ROMs/) | [Link](https://archive.org/download/sfc-speedhacks/ROMs/) |
 | Complete Sega MD+ Collection (MegaSD, Mega Everdrive Pro & Genesis Plus GX Compatible) | [Link](https://myrient.erista.me/files/Internet%20Archive/md_/mdplus_collection_22_04_16/) | [Link](https://archive.org/download/mdplus_collection_22_04_16) |
