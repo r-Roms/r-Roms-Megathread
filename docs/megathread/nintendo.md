@@ -39,10 +39,7 @@
 
 |**Internet Archive (No-Intro)**|| 
 | ------ | ------ |
-| No-Intro Nintendo DS Decrypted ROMs 0001-6308 + x001-x193 + xB01-xB03 + z001-z183 | [Link](https://archive.org/download/no-intro-nintendo-ds-decrypted-roms-0001-6308-x-001-x-193-x-b-01-x-b-03-z-001-z-183/No-Intro%20Nintendo%20DS%20Decrypted%20ROMs%200001-6308%20%2B%20x001-x193%20%2B%20xB01-xB03%20%2B%20z001-z183/) |
-| No-Intro Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
 | No-Intro Nintendo DS (Download Play) (2022-07-07) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-download-play_202207) |
-| No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Link](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
 
 |**Internet Archive**|**Myrient (Fast & Unrestricted)**|**Internet Archive**| 
 | ------ | ------ | ------ |
