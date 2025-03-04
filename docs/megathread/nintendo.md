@@ -141,8 +141,8 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 
 |**Internet Archive (WUA)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Nintendo Wii U Disc (USA) Full Set WUA Format (Embedded DLC &  Updates) | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates/) | [Link](https://archive.org/download/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates) |
-| Nintendo Wii U [eShop] (USA) Full Set WUA Format (Embedded DLC &  Updates) + Virtual Console | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates/) | [Link](https://archive.org/download/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates) |
+| Nintendo Wii U Disc (USA) Full Set WUA Format (Embedded DLC &  Updates) | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates/) | 
+| Nintendo Wii U [eShop] (USA) Full Set WUA Format (Embedded DLC &  Updates) + Virtual Console | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates/) | 
 
 |**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
@@ -153,7 +153,7 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 |**Internet Archive (NUS)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Wii U: Retail NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-retail-nus-usa/) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
-| Wii U: Download NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-download-nus-usa/) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
+| Wii U: Download NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-download-nus-usa/) | |
 
 *To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
 
