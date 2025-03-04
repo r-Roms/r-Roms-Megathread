@@ -35,9 +35,9 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Fire Emblem Path of Radiance (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Fire%20Emblem%20-%20Path%20of%20Radiance%20%28USA%29.rvz) |
-| Fire Emblem Radiant Dawn (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Radiant%20Dawn%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Fire%20Emblem%20-%20Radiant%20Dawn%20%28USA%29%20%28Rev%201%29.rvz) |
-| Fire Emblem Fates Special Edition (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA).zip) | [Download](https://archive.org/download/3ds-main-encrypted/Fire%20Emblem%20Fates%20-%20Special%20Edition%20%28USA%29.7z) |
+| Fire Emblem Path of Radiance (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).zip) | 
+| Fire Emblem Radiant Dawn (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Radiant%20Dawn%20(USA)%20(Rev%201).zip) | 
+| Fire Emblem Fates Special Edition (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA).zip) | 
 
 ## Pokemon
 
