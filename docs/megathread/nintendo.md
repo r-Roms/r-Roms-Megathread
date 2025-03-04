@@ -103,9 +103,9 @@ The RVZ format is recommended for its size and convenience. It also helps save b
 
 |**Internet Archive (Redump) (ISO)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Redump - Nintendo - GameCube (America) (20160527) Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmerica/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmerica) | 
-| Redump - Nintendo - GameCube (America) (20160527) Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart2/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart2) | 
-| Redump - Nintendo - GameCube (America) (20160527) Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart3/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart3) |
+| Redump - Nintendo - GameCube (America) (20160527) Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmerica/) | |
+| Redump - Nintendo - GameCube (America) (20160527) Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart2/) | 
+| Redump - Nintendo - GameCube (America) (20160527) Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart3/) | 
 | Redump - Nintendo - GameCube (Japan) | [Link](https://myrient.erista.me/files/Internet%20Archive/pixelspoil/NCubeJ/) | [Link](https://archive.org/download/NCubeJ) | 
 | Redump - Nintendo - GameCube (Europe) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/EuropeanGamecubeCollectionByGhostware/) | 
 | Redump - Nintendo - GameCube (Australia) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/AustraliaGamecubeCollectionByGhostware/) | 
