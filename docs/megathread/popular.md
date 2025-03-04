@@ -21,15 +21,15 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Mario Party 7 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%207%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Mario%20Party%207%20%28USA%29%20%28Rev%201%29.rvz) |
-| Mario Party 8 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%208%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Mario%20Party%208%20%28USA%29%20%28Rev%201%29.rvz) |
-| Mario Party 9 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%209%20(USA,%20Asia)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Mario%20Party%209%20%28USA%2C%20Asia%29%20%28En%2CFr%2CEs%29.rvz) |
-| Mario Kart Double Dash (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Kart%20-%20Double%20Dash!!%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Mario%20Kart%20-%20Double%20Dash%21%21%20%28USA%29.rvz) |
-| Super Paper Mario (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Paper%20Mario%20(USA)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Paper%20Mario%20%28USA%29%20%28Rev%202%29.rvz) |
-| Super Mario Sunshine (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Sunshine%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Super%20Mario%20Sunshine%20%28USA%29.rvz) |
-| Super Mario Galaxy 1 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%20(USA)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Mario%20Galaxy%20%28USA%29%20%28En%2CFr%2CEs%29.rvz) |
-| Super Mario Galaxy 2 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%202%20(USA)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Mario%20Galaxy%202%20%28USA%29%20%28En%2CFr%2CEs%29.rvz) |
-| New Super Mario Bros. Wii (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/New%20Super%20Mario%20Bros.%20Wii%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/New%20Super%20Mario%20Bros.%20Wii%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.rvz) |
+| Mario Party 7 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%207%20(USA)%20(Rev%201).zip) |
+| Mario Party 8 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%208%20(USA)%20(Rev%201).zip) | 
+| Mario Party 9 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%209%20(USA,%20Asia)%20(En,Fr,Es).zip) |
+| Mario Kart Double Dash (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Kart%20-%20Double%20Dash!!%20(USA).zip) |
+| Super Paper Mario (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Paper%20Mario%20(USA)%20(Rev%202).zip) |
+| Super Mario Sunshine (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Sunshine%20(USA).zip) |
+| Super Mario Galaxy 1 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%20(USA)%20(En,Fr,Es).zip) | 
+| Super Mario Galaxy 2 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%202%20(USA)%20(En,Fr,Es).zip) | 
+| New Super Mario Bros. Wii (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/New%20Super%20Mario%20Bros.%20Wii%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | 
 
 ## Fire Emblem
 
