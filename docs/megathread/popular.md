@@ -8,12 +8,12 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Metroid Fusion (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20Fusion%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20Fusion%20%28USA%29.7z) |
-| Metroid Zero Mission (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(USA).zip) | [Download](https://archive.org/download/nointro.gba/Metroid%20-%20Zero%20Mission%20%28USA%29.7z) |
-| Metroid Prime Trilogy (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20Trilogy%20(USA).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Metroid%20Prime%20Trilogy%20%28USA%29.rvz) |
-| Metroid Prime (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Metroid%20Prime%20%28USA%29%20%28Rev%202%29.rvz) |
-| Metroid Prime 2 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%202%20-%20Echoes%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Metroid%20Prime%202%20-%20Echoes%20%28USA%29.rvz) |
-| Metroid Prime 3 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%203%20-%20Corruption%20(USA).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Metroid%20Prime%203%20-%20Corruption%20%28USA%29.rvz) |
+| Metroid Fusion (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20Fusion%20(USA).zip) |
+| Metroid Zero Mission (GBA) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Metroid%20-%20Zero%20Mission%20(USA).zip) |
+| Metroid Prime Trilogy (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20Trilogy%20(USA).zip) | 
+| Metroid Prime (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%20(USA).zip) |
+| Metroid Prime 2 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%202%20-%20Echoes%20(USA).zip) | 
+| Metroid Prime 3 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Metroid%20Prime%203%20-%20Corruption%20(USA).zip) | 
 
 
 
@@ -21,23 +21,23 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Mario Party 7 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%207%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Mario%20Party%207%20%28USA%29%20%28Rev%201%29.rvz) |
-| Mario Party 8 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%208%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Mario%20Party%208%20%28USA%29%20%28Rev%201%29.rvz) |
-| Mario Party 9 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%209%20(USA,%20Asia)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Mario%20Party%209%20%28USA%2C%20Asia%29%20%28En%2CFr%2CEs%29.rvz) |
-| Mario Kart Double Dash (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Kart%20-%20Double%20Dash!!%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Mario%20Kart%20-%20Double%20Dash%21%21%20%28USA%29.rvz) |
-| Super Paper Mario (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Paper%20Mario%20(USA)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Paper%20Mario%20%28USA%29%20%28Rev%202%29.rvz) |
-| Super Mario Sunshine (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Sunshine%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Super%20Mario%20Sunshine%20%28USA%29.rvz) |
-| Super Mario Galaxy 1 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%20(USA)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Mario%20Galaxy%20%28USA%29%20%28En%2CFr%2CEs%29.rvz) |
-| Super Mario Galaxy 2 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%202%20(USA)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Mario%20Galaxy%202%20%28USA%29%20%28En%2CFr%2CEs%29.rvz) |
-| New Super Mario Bros. Wii (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/New%20Super%20Mario%20Bros.%20Wii%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/New%20Super%20Mario%20Bros.%20Wii%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.rvz) |
+| Mario Party 7 (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%207%20(USA)%20(Rev%201).zip) |
+| Mario Party 8 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%208%20(USA)%20(Rev%201).zip) | 
+| Mario Party 9 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Party%209%20(USA,%20Asia)%20(En,Fr,Es).zip) |
+| Mario Kart Double Dash (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Mario%20Kart%20-%20Double%20Dash!!%20(USA).zip) |
+| Super Paper Mario (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Paper%20Mario%20(USA)%20(Rev%202).zip) |
+| Super Mario Sunshine (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Sunshine%20(USA).zip) |
+| Super Mario Galaxy 1 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%20(USA)%20(En,Fr,Es).zip) | 
+| Super Mario Galaxy 2 (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Mario%20Galaxy%202%20(USA)%20(En,Fr,Es).zip) | 
+| New Super Mario Bros. Wii (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/New%20Super%20Mario%20Bros.%20Wii%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | 
 
 ## Fire Emblem
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Fire Emblem Path of Radiance (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Fire%20Emblem%20-%20Path%20of%20Radiance%20%28USA%29.rvz) |
-| Fire Emblem Radiant Dawn (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Radiant%20Dawn%20(USA)%20(Rev%201).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Fire%20Emblem%20-%20Radiant%20Dawn%20%28USA%29%20%28Rev%201%29.rvz) |
-| Fire Emblem Fates Special Edition (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA).zip) | [Download](https://archive.org/download/3ds-main-encrypted/Fire%20Emblem%20Fates%20-%20Special%20Edition%20%28USA%29.7z) |
+| Fire Emblem Path of Radiance (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Path%20of%20Radiance%20(USA).zip) | 
+| Fire Emblem Radiant Dawn (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Fire%20Emblem%20-%20Radiant%20Dawn%20(USA)%20(Rev%201).zip) | 
+| Fire Emblem Fates Special Edition (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Fire%20Emblem%20Fates%20-%20Special%20Edition%20(USA).zip) | 
 
 ## Pokemon
 
@@ -91,11 +91,11 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Legend of Zelda Twilight Princess (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.rvz) |
-| Legend of Zelda Twilight Princess (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Legend%20of%20Zelda%2C%20The%20-%20Twilight%20Princess%20%28USA%29.rvz) |
-| Legend of Zelda Skyward Sword (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Skyward%20Sword%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/Legend%20of%20Zelda%2C%20The%20-%20Skyward%20Sword%20%28USA%29%20%28En%2CFr%2CEs%29%20%28Rev%202%29.rvz) |
-| Legend of Zelda Wind Waker (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20The%20Wind%20Waker%20(USA).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20%28USA%29.rvz) |
-| Legend of Zelda Ocarina of Time 3D (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Legend%20of%20Zelda,%20The%20-%20Ocarina%20of%20Time%203D%20(USA)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/nintendo-3ds-complete-collection/3DS0033%20-%20The%20Legend%20of%20Zelda%20Ocarina%20of%20Time%203D%20%28U%29.3ds.7z) |
+| Legend of Zelda Twilight Princess (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) |
+| Legend of Zelda Twilight Princess (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Twilight%20Princess%20(USA).zip) |
+| Legend of Zelda Skyward Sword (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20Skyward%20Sword%20(USA)%20(En,Fr,Es)%20(Rev%202).zip) |
+| Legend of Zelda Wind Waker (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Legend%20of%20Zelda,%20The%20-%20The%20Wind%20Waker%20(USA).zip) | 
+| Legend of Zelda Ocarina of Time 3D (3DS) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Encrypted)/Legend%20of%20Zelda,%20The%20-%20Ocarina%20of%20Time%203D%20(USA)%20(En,Fr,Es).zip) |
 | Legend of Zelda Ocarina of Time (N64) (USA) | [Download](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/Legend%20of%20Zelda,%20The%20-%20Ocarina%20of%20Time%20(USA).zip) | [Download](https://archive.org/download/pkmn_collection/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29.zip) |
 | Legend of Zelda Breath of the Wild (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Legend%20of%20Zelda,%20The%20-%20Breath%20of%20the%20Wild%20(USA)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B00050000101C9400%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000E101C9400%5D%20%5BUPDATE%20v208%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20%5B0005000C101C9400%5D%20%5BDLC%5D.7z) |
 
@@ -105,8 +105,8 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Super Smash Bros Brawl (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Brawl%20(USA)%20(Rev%202).zip) | [Download](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/Super%20Smash%20Bros.%20Brawl%20%28USA%29%20%28Rev%202%29.rvz) |
-| Super Smash Bros Melee (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Melee%20(USA)%20(En,Ja)%20(Rev%202).zip) | [Download](https://archive.org/download/rvz-gc-usa-redump/RVZ-GC-USA-REDUMP/Super%20Smash%20Bros.%20Melee%20%28USA%29%20%28En%2CJa%29%20%28Rev%202%29.rvz) |
+| Super Smash Bros Brawl (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Brawl%20(USA)%20(Rev%202).zip) |
+| Super Smash Bros Melee (GC) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20GameCube%20-%20NKit%20RVZ%20[zstd-19-128k]/Super%20Smash%20Bros.%20Melee%20(USA)%20(En,Ja)%20(Rev%202).zip) |
 | Super Smash Bros for Wii U (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Super%20Smash%20Bros.%20for%20Wii%20U%20(USA)%20(En,Fr,Es)%20(v96)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000010144F00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000E10144F00%5D%20%5BUPDATE%20v304%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Super%20Smash%20Bros.%20for%20Wii%20U%20%5B0005000C10144F00%5D%20%5BDLC%5D.7z) |
 
 *To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.
@@ -115,7 +115,7 @@ RVZ files work with the Dolphin emulator but not on real hardware. They also hel
 
 |**Title**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Xenoblade Chronicles (Wii) (USA) | [Download](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/Xenoblade%20Chronicles%20(USA,%20Asia)%20(En,Fr,Es).zip) | [Download](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/Xenoblade%20Chronicles%20%28USA%2C%20Asia%29%20%28En%2CFr%2CEs%29.rvz) |
+| Xenoblade Chronicles (Wii) (USA) |  |
 | Xenoblade Chronicles X (Wii U) (USA)* | [Game](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es).zip) / [Update](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(Update).zip) / [DLC](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/Xenoblade%20Chronicles%20X%20(USA)%20(En,Fr,Es)%20(v0)%20(DLC).zip) | [Game](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B00050000101C4D00%5D.7z) / [Update](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000E101C4D00%5D%20%5BUPDATE%20v48%5D.7z) / [DLC](https://archive.org/download/wii-u-retail-nus-usa/Xenoblade%20Chronicles%20X%20%5B0005000C101C4D00%5D%20%5BDLC%5D.7z) |
 
 *To run Wii U games in Cemu: Use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases) to unpack the files.

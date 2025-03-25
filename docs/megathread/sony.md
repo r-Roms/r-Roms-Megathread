@@ -94,10 +94,6 @@
 | ------ | ------ |
 | PSP DLC (Alvro Files) | [Link](https://archive.org/download/PSP_DLC) |
 
-|**1Fichier**||
-| ------ | ------ |
-| PSP PSN | [Link](https://1fichier.com/dir/SAtw4wRm) |
-
 ## **Sony Playstation 3**
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS3 games. Please check the Downloads below only if NoPayStation does not have the content you are looking for.

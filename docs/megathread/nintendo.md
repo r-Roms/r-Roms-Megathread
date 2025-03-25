@@ -2,25 +2,24 @@
 
  If you are looking for Retro ROMs, see the [Retro Games page](/megathread/retro).
 
-|**No-Intro**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
-| ------ | ------ | ------ |
-| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28FDS%29.zip/) [(Alt Link)](https://archive.org/download/nointro.fds) |
-| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Family%20Computer%20Disk%20System%20%28QD%29.zip/) |
-| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance.zip/) [(Alt Link)](https://archive.org/download/nointro.gba) |
-| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Multiboot%29.zip/) [(Alt Link)](https://archive.org/download/nointro.gba-multiboot) |
-| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28Video%29.zip/) |
-| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance%20%28e-Reader%29.zip/) |
-| Nintendo - Game Boy Color | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Color.zip/) [(Alt Link)](https://archive.org/download/nointro.gbc-1) |
-| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.gb) |
-| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28BigEndian%29.zip/) [(Alt Link)](https://archive.org/download/nointro.n64) |
-| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064%20%28ByteSwapped%29.zip/) |
-| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%2064DD.zip/) [(Alt Link)](https://archive.org/download/nointro.n64dd) |
-| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes-headered) |
-| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Unheadered%29.zip/) [(Alt Link)](https://archive.org/download/nointro.nes) |
-| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Pokemon%20Mini.zip/) [(Alt Link)](https://archive.org/download/nointro.poke-mini) |
-| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System.zip/) [(Alt Link)](https://archive.org/download/nointro.snes) |
-| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) | [Link](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Virtual%20Boy.zip/) [(Alt Link)](https://archive.org/download/nointro.vb) |
-
+|**No-Intro**|**Myrient (Fast & Unrestricted)**|
+| ------ | ------ |
+| Nintendo - Family Computer Disk System (FDS) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(FDS)/) |
+| Nintendo - Family Computer Disk System (QD) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Family%20Computer%20Disk%20System%20(QD)/) | 
+| Nintendo - Game Boy Advance | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/) | 
+| Nintendo - Game Boy Advance (Multiboot) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Multiboot)/) | 
+| Nintendo - Game Boy Advance (Video) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(Video)/) | 
+| Nintendo - Game Boy Advance (e-Reader) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance%20(e-Reader)/) | 
+| Nintendo - Game Boy Color | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/) | |
+| Nintendo - Game Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy/) | 
+| Nintendo - Nintendo 64 (BigEndian) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(BigEndian)/) | 
+| Nintendo - Nintendo 64 (ByteSwapped) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064%20(ByteSwapped)/) | 
+| Nintendo - Nintendo 64DD | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%2064DD/) | 
+| Nintendo - Nintendo Entertainment System (Headered) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headered)/) | 
+| Nintendo - Nintendo Entertainment System (Headerless) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20(Headerless)/) | 
+| Nintendo - Pokemon Mini | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Pokemon%20Mini/) |
+| Nintendo - Super Nintendo Entertainment System | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/) | 
+| Nintendo - Virtual Boy | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Virtual%20Boy/) |
 
 ## **Nintendo DS**
 
@@ -39,10 +38,7 @@
 
 |**Internet Archive (No-Intro)**|| 
 | ------ | ------ |
-| No-Intro Nintendo DS Decrypted ROMs 0001-6308 + x001-x193 + xB01-xB03 + z001-z183 | [Link](https://archive.org/download/no-intro-nintendo-ds-decrypted-roms-0001-6308-x-001-x-193-x-b-01-x-b-03-z-001-z-183/No-Intro%20Nintendo%20DS%20Decrypted%20ROMs%200001-6308%20%2B%20x001-x193%20%2B%20xB01-xB03%20%2B%20z001-z183/) |
-| No-Intro Nintendo DS (Decrypted) (2020-01-20) | [Link](https://archive.org/download/noIntroNintendoDsDecrypted2020Jan20) |
 | No-Intro Nintendo DS (Download Play) (2022-07-07) | [Link](https://archive.org/download/no-intro-nintendo-nintendo-ds-download-play_202207) |
-| No-Intro Nintendo DSi (Decrypted+Encrypted) (2018-06-30) | [Link](https://archive.org/download/No-Intro_Nintendo_DSi_2018-06-30) |
 
 |**Internet Archive**|**Myrient (Fast & Unrestricted)**|**Internet Archive**| 
 | ------ | ------ | ------ |
@@ -72,10 +68,6 @@
 | ------ | ------ |
 | 3DS-Main - Encrypted (Part 1) (#-R) | [Link](https://archive.org/download/3ds-main-encrypted) |
 | 3DS-Main - Encrypted (Part 2) (S-Z) | [Link](https://archive.org/download/3ds-main-encrypted-p2) |
-| Nintendo 3DS eShop Collection (up to 2020-04-09) | [Link](https://archive.org/download/nintendo-3ds-eshop-complete-collection) |
-| Nintendo 3DS Collection [1-1700] | [Link](https://archive.org/download/nintendo-3ds-complete-collection) |
-| Nintendo 3DS Collection [1701-1861] | [Link](https://archive.org/download/nintendo-3ds-complete-collection-pt2) |
-| 3DS DLC and Updates - Encrypted | [Link](https://archive.org/download/3ds-dlc-and-updates-encrypted) |
 
 **3DS/CIA Decryption Instructions**
 
@@ -111,12 +103,12 @@ The RVZ format is recommended for its size and convenience. It also helps save b
 
 |**Internet Archive (Redump) (ISO)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Redump - Nintendo - GameCube (America) (20160527) Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmerica/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmerica) | 
-| Redump - Nintendo - GameCube (America) (20160527) Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart2/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart2) | 
-| Redump - Nintendo - GameCube (America) (20160527) Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart3/) | [Link](https://archive.org/download/RedumpNintendoGameCubeAmericaPart3) |
+| Redump - Nintendo - GameCube (America) (20160527) Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmerica/) | |
+| Redump - Nintendo - GameCube (America) (20160527) Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart2/) | 
+| Redump - Nintendo - GameCube (America) (20160527) Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/Unknown/RedumpNintendoGameCubeAmericaPart3/) | 
 | Redump - Nintendo - GameCube (Japan) | [Link](https://myrient.erista.me/files/Internet%20Archive/pixelspoil/NCubeJ/) | [Link](https://archive.org/download/NCubeJ) | 
-| Redump - Nintendo - GameCube (Europe) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/EuropeanGamecubeCollectionByGhostware/) | [Link](https://archive.org/download/EuropeanGamecubeCollectionByGhostware) | 
-| Redump - Nintendo - GameCube (Australia) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/AustraliaGamecubeCollectionByGhostware/) | [Link](https://archive.org/download/AustraliaGamecubeCollectionByGhostware) | 
+| Redump - Nintendo - GameCube (Europe) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/EuropeanGamecubeCollectionByGhostware/) | 
+| Redump - Nintendo - GameCube (Australia) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/AustraliaGamecubeCollectionByGhostware/) | 
 | Redump - Nintendo - GameCube (Asia) | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/AsiaGamecubeCollectionByGhostware/) | [Link](https://archive.org/download/AsiaGamecubeCollectionByGhostware) | 
 
 ## **Nintendo Wii**
@@ -127,18 +119,11 @@ The RVZ format is recommended for its size and convenience. It also helps save b
 | ------ | ------ |
 | Nintendo - Wii - NKit RVZ [zstd-19-128k] | [Link](https://myrient.erista.me/files/Redump/Nintendo%20-%20Wii%20-%20NKit%20RVZ%20[zstd-19-128k]/) |
 
-|**Internet Archive (Redump) (RVZ)**||
-| ------ | ------ |
-| Wii RVZ (USA) Part 1 (# to E) | [Link](https://archive.org/download/wii_rvz_usa/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 2 (F to M) | [Link](https://archive.org/download/wii_rvz_usa_p2/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 3 (N to S) | [Link](https://archive.org/download/wii_rvz_usa_p3/wii_rvz_usa/) |
-| Wii RVZ (USA) Part 4 (T to Z) | [Link](https://archive.org/download/wii_rvz_usa_p4/wii_rvz_usa/) |
-
 |**Internet Archive (WBFS)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Wii Rom Set By Ghostware Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostware/) | [Link](https://archive.org/download/WiiRomSetByGhostware) |
-| Wii Rom Set By Ghostware Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart2/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart2) |
-| Wii Rom Set By Ghostware Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart3/) | [Link](https://archive.org/download/WiiRomSetByGhostwarePart3) |
+| Wii Rom Set By Ghostware Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostware/) | 
+| Wii Rom Set By Ghostware Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart2/) |
+| Wii Rom Set By Ghostware Part 3 | [Link](https://myrient.erista.me/files/Internet%20Archive/kodi_amp_spmc_canada/WiiRomSetByGhostwarePart3/) | 
 
 [NKit Fully Loaded](https://archive.org/download/NKitFullyLoaded2020429/NKit%202020.4.29) ([Myrient Mirror](https://myrient.erista.me/files/Internet%20Archive/bingbong294/NKitFullyLoaded2020429/NKit%202020.4.29/)) can be used to convert NKit to ISO, do note that the download is `~14 GB` so using RVZ is recommended over NKit.
 
@@ -156,8 +141,8 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 
 |**Internet Archive (WUA)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
-| Nintendo Wii U Disc (USA) Full Set WUA Format (Embedded DLC &  Updates) | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates/) | [Link](https://archive.org/download/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates) |
-| Nintendo Wii U [eShop] (USA) Full Set WUA Format (Embedded DLC &  Updates) + Virtual Console | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates/) | [Link](https://archive.org/download/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates) |
+| Nintendo Wii U Disc (USA) Full Set WUA Format (Embedded DLC &  Updates) | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-usa-full-set-wua-format-embedded-dlc-updates/) | 
+| Nintendo Wii U [eShop] (USA) Full Set WUA Format (Embedded DLC &  Updates) + Virtual Console | [Link](https://myrient.erista.me/files/Internet%20Archive/teamgt19/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates/) | 
 
 |**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
@@ -168,7 +153,7 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 |**Internet Archive (NUS)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
 | Wii U: Retail NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-retail-nus-usa/) | [Link](https://archive.org/download/wii-u-retail-nus-usa) |
-| Wii U: Download NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-download-nus-usa/) | [Link](https://archive.org/download/wii-u-download-nus-usa) |
+| Wii U: Download NUS [USA]* | [Link](https://myrient.erista.me/files/Internet%20Archive/archiver_2020/wii-u-download-nus-usa/) | |
 
 *To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
 
