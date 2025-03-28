@@ -73,6 +73,8 @@
 
 If Citra says the ROM is encrypted, use [Batch CIA-3DS Decryptor](https://gbatemp.net/download/batch-cia-3ds-decryptor.35098/) to decrypt it.
 
+There is a newer version for the decrypter, from [xxmichibxx](https://github.com/xxmichibxx) , you may give it a try: [Batch-CIA-3DS-Decryptor-Redux](https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux)
+
 If you would like to get a proper No-Intro hash from the converted file, use [this script](https://archive.org/download/pkmn_collection/3DS%20%2B%20CIA%20Rom%20Script.rar).
 
 Or, add the following AES keys to Citra from [here](https://pastebin.com/vRy8c6JP) or [here](https://web.archive.org/web/20220707222654/https://pastebin.com/tBY6RHh4). Click download on Pastebin to download the text in the file as a TXT. Then, follow the installation instructions below for your OS.
