@@ -98,11 +98,14 @@
 
 #### Note: [NoPayStation](https://nopaystation.com/) is highly recommended for PS3 games. Please check the Downloads below only if NoPayStation does not have the content you are looking for.
 
+|**Myrient (Redump) (Fast & Unrestricted)**||
+| ------ | ------ |
+| Sony - PlayStation 3 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/) |
+
 |**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
 | Sony - PlayStation 3 (PSN) (Content) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/) |
 | Sony - PlayStation 3 (PSN) (Updates) | [Link](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Updates)/) |
-
 
 |**Internet Archive (No-Intro) (USA)**||
 | ------ | ------ |
@@ -139,10 +142,6 @@
 | ------ | ------ | ------ |
 | PS3 PSN Part 1 | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_PSN_1/) | [Link](https://archive.org/download/PS3_PSN_1) |
 | PS3 PSN Part 2 | [Link](https://myrient.erista.me/files/Internet%20Archive/aitus95/PS3_PSN_2/) | [Link](https://archive.org/download/PS3_PSN_2) |
-
-|**Myrient (Redump) (Fast & Unrestricted)**||
-| ------ | ------ |
-| Sony - PlayStation 3 | [Link](https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation%203/) |
 
 |**Internet Archive (Redump)**||
 | ------ | ------ |
