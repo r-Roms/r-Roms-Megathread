@@ -148,9 +148,7 @@ Note: This is meant to be a replacement for Wii U USB Helper as it is more light
 
 |**Myrient (No-Intro) (Fast & Unrestricted)**||
 | ------ | ------ |
-| Nintendo - Wii U (Digital) (CDN)* | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |
-
-*To unpack the files for Cemu, use [CDecrypt](https://github.com/VitaSmith/cdecrypt/releases/latest).
+| Nintendo - Wii U (Digital) (CDN) | [Link](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Wii%20U%20(Digital)%20(CDN)/) |
 
 |**Internet Archive (NUS)**|**Myrient (Fast & Unrestricted)**|**Internet Archive**|
 | ------ | ------ | ------ |
