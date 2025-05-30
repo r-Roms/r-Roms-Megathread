@@ -48,7 +48,7 @@ Below are links to download and install it for certain web browsers.
 
 |**Store Name**|**Links**|
 | ------ | ------ |
-| Chrome Web Store | [Link](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) |
+| Chrome Web Store | [Link](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) |
 | Firefox Add-ons | [Link](https://addons.mozilla.org/en-US/android/addon/ublock-origin/) |
 | Opera Add-ons | [Link](https://addons.opera.com/en/extensions/details/ublock/) |
 
